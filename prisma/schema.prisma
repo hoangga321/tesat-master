@@ -1,0 +1,163 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id              String          @id @default(cuid())
+  email           String          @unique
+  passwordHash    String          @default("")
+  name            String
+  koreanLevel     String          @default("TOPIK 4")
+  targetGrade     String          @default("1급")
+  targetScore     Int             @default(240)
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  examSessions    ExamSession[]
+  incorrectNotes  IncorrectNote[]
+  flashcardStates UserFlashcard[]
+  streak          Streak?
+}
+
+model Question {
+  id                  String          @id
+  code                String          @unique
+  section             String          // "THEORY" | "CURRENT_AFFAIRS" | "APPLIED"
+  subcategory         String          // "MICRO" | "MACRO" | "INTL" | "CURRENT_ISSUES" | "FINANCE_STRATEGY" | "DATA_EDITORIAL"
+  points              Int             // 3 | 4 | 5
+  source              String          // e.g., "한경 오늘의 테샛", "생글생글 경제퀴즈", "TESAT 기출복원"
+  questionKo          String
+  questionVi          String
+  passageKo           String?
+  passageVi           String?
+  figureImageUrl      String?         // Path to cropped original book figure/chart image
+  figureCaptionKo     String?
+  figureCaptionVi     String?
+  dataTableJson       String?         // JSON string for BOK/KOSIS table data
+  visualChartJson     String?         // JSON string for Visual Economic Chart (<그림 / 그래프>)
+  aiTranslationJson   String?         // Server-side cached Gemini AI Vietnamese translation
+  aiVocabJson         String?         // Server-side cached Gemini AI per-question vocabulary
+  optionsJson         String          // JSON array of 5 options (ko, vi, eliminationLogic, isNearMiss, nearMissSocraticVi)
+  correctIndex        Int             // 0..4
+  negativeTrapTokens  String          // JSON array of negative trap tokens e.g. ["옳지 않은 것은", "틀린 것은"]
+  hintLevel1Vi        String          // Level 1: Syntactic/negative trap warning
+  hintLevel2Vi        String          // Level 2: Core economic formula/framework (IS-LM, Elasticity, etc.)
+  hintLevel3Vi        String          // Level 3: Step-by-step elimination of 5 choices
+  coreFormula         String
+  keyTermsJson        String          // JSON array of terminology codes linked to this question
+  tagsJson            String          // JSON array of tags
+  createdAt           DateTime        @default(now())
+  answers             Answer[]
+  incorrectNotes      IncorrectNote[]
+}
+
+model ExamSession {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mode            String    // "FULL_MOCK_80" | "TOPIC_DRILL" | "RECOVERY_CHALLENGE"
+  status          String    @default("IN_PROGRESS") // "IN_PROGRESS" | "COMPLETED"
+  totalQuestions  Int       @default(80)
+  maxScore        Int       @default(300)
+  achievedScore   Int       @default(0)
+  theoryScore     Int       @default(0)
+  affairsScore    Int       @default(0)
+  appliedScore    Int       @default(0)
+  tierGrade       String    @default("PENDING") // "S급" | "1급" | "2급" | "3급" | "4급" | "5급" | "불합격"
+  remainingSec    Int       @default(6000) // 100 minutes = 6000 seconds
+  startedAt       DateTime  @default(now())
+  completedAt     DateTime?
+  answers         Answer[]
+}
+
+model Answer {
+  id              String      @id @default(cuid())
+  examSessionId   String
+  examSession     ExamSession @relation(fields: [examSessionId], references: [id], onDelete: Cascade)
+  questionId      String
+  question        Question    @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  selectedIndex   Int
+  isCorrect       Boolean
+  isNearMiss      Boolean     @default(false)
+  pointsAwarded   Int         @default(0)
+  hintsUsedLevel  Int         @default(0)
+  timeSpentSec    Int         @default(0)
+  createdAt       DateTime    @default(now())
+}
+
+model IncorrectNote {
+  id                String   @id @default(cuid())
+  userId            String
+  user              User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId        String
+  question          Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  selectedIndex     Int
+  mistakeCount      Int      @default(1)
+  reviewStage       Int      @default(1) // 1 -> 1-day, 2 -> 3-day, 3 -> 7-day, 4 -> Mastered
+  nextReviewDueAt   DateTime
+  userReflectionVi  String?
+  resolved          Boolean  @default(false)
+  lastReviewedAt    DateTime @default(now())
+  createdAt         DateTime @default(now())
+
+  @@unique([userId, questionId])
+}
+
+model Flashcard {
+  id              String          @id
+  termKo          String          @unique
+  hanja           String
+  hanViet         String          // Sino-Vietnamese root (Hán-Hàn)
+  termVi          String
+  termEn          String
+  category        String          // "MICRO" | "MACRO" | "INTL" | "FINANCE" | "CURRENT_AFFAIRS"
+  definitionKo    String
+  definitionVi    String
+  mnemonicVi      String          // Hán-Hàn memory hook for Vietnamese learners
+  exampleKo       String
+  exampleVi       String
+  frequencyRank   Int             @default(1)
+  userStates      UserFlashcard[]
+}
+
+model UserFlashcard {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  flashcardId     String
+  flashcard       Flashcard @relation(fields: [flashcardId], references: [id], onDelete: Cascade)
+  repetition      Int       @default(0)
+  intervalDays    Int       @default(0)
+  easinessFactor  Float     @default(2.5)
+  nextReviewAt    DateTime  @default(now())
+  lastQuality     Int       @default(0)
+  updatedAt       DateTime  @updatedAt
+
+  @@unique([userId, flashcardId])
+}
+
+model Streak {
+  id                        String    @id @default(cuid())
+  userId                    String    @unique
+  user                      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  currentStreak             Int       @default(0)
+  longestStreak             Int       @default(0)
+  lastStreakDate            String?
+  xpPoints                  Int       @default(0)
+  completedExercisesCount   Int       @default(0)
+  selectedAnswersJson       String    @default("{}")
+  errorLogJson              String    @default("{}")
+  srsStatesJson             String    @default("{}")
+  dailyFiveCompletedToday   Int       @default(0)
+  dailyFiveGoal             Int       @default(5)
+  freezeCount               Int       @default(2)
+  recoveryChallengeActive   Boolean   @default(false)
+  recoveryExpiresAt         DateTime?
+  lastActivityAt            DateTime  @default(now())
+  leagueTier                String    @default("1급 Challenger")
+  leaguePoints              Int       @default(0)
+}

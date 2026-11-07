@@ -1,0 +1,431 @@
+@import "tailwindcss";
+
+:root {
+  --surface-canvas: #f6f5f1;
+  --surface-card: #ffffff;
+  --surface-subtle: #f1f0ec;
+  --ink-primary: #0f172a;
+  --ink-secondary: #475569;
+  --border-hairline: #e2e0d8;
+  --accent-primary: #1d4ed8;
+}
+
+.dark {
+  --surface-canvas: #0b0f17;
+  --surface-card: #111827;
+  --surface-subtle: #1e293b;
+  --ink-primary: #f8fafc;
+  --ink-secondary: #94a3b8;
+  --border-hairline: #1e293b;
+  --accent-primary: #3b82f6;
+}
+
+body {
+  background-color: var(--surface-canvas);
+  color: var(--ink-primary);
+  font-family: "Inter", "Pretendard", "Noto Sans KR", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, sans-serif;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scale up base typography & spacing on full laptop/desktop screens */
+@media (min-width: 1024px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 1440px) {
+  html {
+    font-size: 17.5px;
+  }
+}
+
+/* Hide Next.js DevTools floating bottom-corner indicator */
+nextjs-portal,
+[data-nextjs-dev-tools-button],
+[data-nextjs-toast],
+[data-nextjs-dialog-overlay] {
+  display: none !important;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* =========================================================================
+   1. 3D BOOK PAGE-TURN ANIMATIONS (Khi chuyển câu hỏi trước / sau)
+   ========================================================================= */
+@keyframes bookPageTurnNext {
+  0% {
+    opacity: 0.35;
+    transform: perspective(1400px) rotateY(-14deg) translateX(24px) scale(0.985);
+    transform-origin: left center;
+  }
+  65% {
+    opacity: 1;
+    transform: perspective(1400px) rotateY(2deg) translateX(-2px) scale(1.002);
+    transform-origin: left center;
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1400px) rotateY(0deg) translateX(0) scale(1);
+    transform-origin: left center;
+  }
+}
+
+@keyframes bookPageTurnPrev {
+  0% {
+    opacity: 0.35;
+    transform: perspective(1400px) rotateY(14deg) translateX(-24px) scale(0.985);
+    transform-origin: right center;
+  }
+  65% {
+    opacity: 1;
+    transform: perspective(1400px) rotateY(-2deg) translateX(2px) scale(1.002);
+    transform-origin: right center;
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1400px) rotateY(0deg) translateX(0) scale(1);
+    transform-origin: right center;
+  }
+}
+
+.animate-page-next {
+  animation: bookPageTurnNext 0.42s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-page-prev {
+  animation: bookPageTurnPrev 0.42s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* =========================================================================
+   2. SCREEN ENTER & CELEBRATION POPUP ANIMATIONS
+   ========================================================================= */
+@keyframes screenFadeSlide {
+  0% {
+    opacity: 0;
+    transform: translateY(14px) scale(0.99);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-screen-enter {
+  animation: screenFadeSlide 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes celebrationPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.75) translateY(20px);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.04) translateY(-4px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-celebration-pop {
+  animation: celebrationPop 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes flamePulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.16) rotate(-4deg);
+  }
+}
+
+.animate-flame {
+  animation: flamePulse 2s ease-in-out infinite;
+}
+
+/* =========================================================================
+   3. OPTION FEEDBACK, 3D FLASHCARD FLIP & SPARKLE ANIMATIONS
+   ========================================================================= */
+@keyframes correctOptionPop {
+  0% {
+    transform: scale(0.985);
+  }
+  50% {
+    transform: scale(1.012);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes wrongOptionShake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-4px);
+  }
+  75% {
+    transform: translateX(4px);
+  }
+}
+
+.animate-correct-pop {
+  animation: correctOptionPop 0.32s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.animate-wrong-shake {
+  animation: wrongOptionShake 0.28s ease-in-out forwards;
+}
+
+@keyframes flashcardReveal {
+  0% {
+    opacity: 0;
+    transform: perspective(1000px) rotateX(-12deg) translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1000px) rotateX(0deg) translateY(0);
+  }
+}
+
+.animate-flashcard-reveal {
+  animation: flashcardReveal 0.32s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* =========================================================================
+   4. INTERACTIVE 3D SPATIAL MODE (RING CAROUSEL, WAVE PATH, 3D CUBE & DEPTH)
+   ========================================================================= */
+.stage-3d-perspective {
+  perspective: 1400px;
+  perspective-origin: 50% 45%;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.gpu-3d-card {
+  will-change: transform, opacity;
+  backface-visibility: visible;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+@keyframes stage3DInstantEnter {
+  0% {
+    opacity: 0;
+    transform: perspective(1400px) translate3d(0, 16px, -60px) rotateX(6deg) scale(0.96);
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1400px) translate3d(0, 0, 0) rotateX(0deg) scale(1);
+  }
+}
+
+.animate-3d-stage-enter {
+  animation: stage3DInstantEnter 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes float3d {
+  0%, 100% {
+    transform: translate3d(0, 0px, 0) rotateX(1deg);
+  }
+  50% {
+    transform: translate3d(0, -7px, 12px) rotateX(2.5deg);
+  }
+}
+
+.animate-float-3d {
+  animation: float3d 4.5s ease-in-out infinite;
+}
+
+@keyframes deepPageFlipNext3D {
+  0% {
+    opacity: 0.15;
+    transform: perspective(1600px) rotateY(-68deg) translateZ(-90px) scale(0.92);
+    transform-origin: left center;
+  }
+  65% {
+    opacity: 1;
+    transform: perspective(1600px) rotateY(6deg) translateZ(15px) scale(1.01);
+    transform-origin: left center;
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1600px) rotateY(0deg) translateZ(0px) scale(1);
+    transform-origin: left center;
+  }
+}
+
+@keyframes deepPageFlipPrev3D {
+  0% {
+    opacity: 0.15;
+    transform: perspective(1600px) rotateY(68deg) translateZ(-90px) scale(0.92);
+    transform-origin: right center;
+  }
+  65% {
+    opacity: 1;
+    transform: perspective(1600px) rotateY(-6deg) translateZ(15px) scale(1.01);
+    transform-origin: right center;
+  }
+  100% {
+    opacity: 1;
+    transform: perspective(1600px) rotateY(0deg) translateZ(0px) scale(1);
+    transform-origin: right center;
+  }
+}
+
+.animate-page-next-3d {
+  animation: deepPageFlipNext3D 0.56s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-page-prev-3d {
+  animation: deepPageFlipPrev3D 0.56s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.option-3d-card {
+  transition: transform 0.24s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.24s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.option-3d-card:hover {
+  transform: perspective(900px) translate3d(6px, -3px, 24px) rotateX(1.5deg);
+  box-shadow: -8px 16px 32px -6px rgba(37, 99, 235, 0.38);
+}
+
+/* Full-Website 3D Spatial Universe Environment */
+.world-3d-universe {
+  background: radial-gradient(
+      ellipse 90% 55% at 50% -10%,
+      rgba(29, 78, 216, 0.28),
+      transparent 70%
+    ),
+    radial-gradient(
+      ellipse 70% 45% at 85% 95%,
+      rgba(16, 185, 129, 0.14),
+      transparent 65%
+    ),
+    #040711;
+  color: #f8fafc;
+  overflow-x: hidden;
+}
+
+.world-3d-horizon-floor {
+  background-image: linear-gradient(
+      to right,
+      rgba(59, 130, 246, 0.16) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(59, 130, 246, 0.16) 1px, transparent 1px);
+  background-size: 52px 52px;
+  transform: perspective(750px) rotateX(68deg) scale(1.6);
+  transform-origin: center bottom;
+  mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.85) 10%, transparent 90%);
+  -webkit-mask-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.85) 10%,
+    transparent 90%
+  );
+}
+
+/* 3D In-Place Card & Grid Transformations (Existing UI transforms into 3D automatically) */
+.grid-3d-stage {
+  perspective: 1500px;
+  transform-style: preserve-3d;
+}
+
+.card-3d-prism {
+  transform: perspective(1400px) rotateX(2.5deg) translateZ(10px);
+  border-bottom-width: 5px !important;
+  border-right-width: 3px !important;
+  border-color: rgba(59, 130, 246, 0.5) !important;
+  box-shadow: 0 20px 45px -10px rgba(8, 15, 35, 0.75),
+    0 0 25px rgba(37, 99, 235, 0.22) !important;
+  transition: transform 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+    border-color 0.28s ease !important;
+  will-change: transform;
+}
+
+.card-3d-prism:hover {
+  transform: perspective(1400px) translate3d(0, -8px, 28px) rotateX(4deg)
+    rotateY(-2deg) scale(1.015);
+  border-color: rgba(251, 191, 36, 0.85) !important;
+  box-shadow: 0 28px 60px -12px rgba(29, 78, 216, 0.55),
+    0 0 35px rgba(245, 158, 11, 0.28) !important;
+}
+
+/* 3D Angled Cockpit Panels on Desktop/Laptop, Responsive Stack on Mobile */
+@media (min-width: 1024px) {
+  .cockpit-3d-left-wing {
+    transform: perspective(1600px) rotateY(2.8deg) rotateX(1deg) translateZ(8px);
+    transform-origin: left center;
+    border-bottom-width: 5px !important;
+    border-right-width: 3px !important;
+    transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .cockpit-3d-left-wing:hover {
+    transform: perspective(1600px) rotateY(1deg) translateZ(16px);
+  }
+  .cockpit-3d-right-wing {
+    transform: perspective(1600px) rotateY(-3.2deg) rotateX(1deg) translateZ(8px);
+    transform-origin: right center;
+    border-bottom-width: 5px !important;
+    border-left-width: 3px !important;
+    transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .cockpit-3d-right-wing:hover {
+    transform: perspective(1600px) rotateY(-1deg) translateZ(16px);
+  }
+  .hud-3d-floating-bar {
+    transform: perspective(1400px) rotateX(-1.5deg) translateZ(8px);
+  }
+}
+
+.grid-floor-3d {
+  background-image: linear-gradient(
+      to right,
+      rgba(59, 130, 246, 0.14) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(59, 130, 246, 0.14) 1px, transparent 1px);
+  background-size: 44px 44px;
+  transform: perspective(900px) rotateX(62deg) scale(1.35);
+  transform-origin: center top;
+}
+
+/* Tactile button press effect */
+button:active:not(:disabled) {
+  transform: scale(0.975);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.4);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.7);
+}

@@ -1,0 +1,2611 @@
+{
+  "examFolder": "86",
+  "examTitleKo": "제86회 TESAT 기출문제",
+  "examTitleVi": "Bộ đề 86 Chính thức: Đề thi thật Hankyung TESAT 제86회 (Đề gốc trong sách)",
+  "questions": [
+    {
+      "examNumber": 1,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "자원의 희소성과 관련한 가장 적절한 설명은?",
+      "questionVi": "Phát biểu nào sau đây là phù hợp nhất về tính khan hiếm của nguồn lực (자원의 희소성)?",
+      "optionsKo": [
+        "자원의 희소성은 시대에 따라 변하지 않는다.",
+        "희소성은 자원의 절대적인 크기에 따라 결정된다.",
+        "자원의 양이 많으면 인간의 필요 및 욕구와 상관없이 희소하지 않다.",
+        "같은 자원이라도 인간의 필요와 욕구에 따라 자원의 희소성은 달라진다.",
+        "정부의 개입이 있다면 자원의 희소성과 희귀성은 존재하지 않게 된다."
+      ],
+      "optionsVi": [
+        "Tính khan hiếm của nguồn lực không thay đổi theo thời đại.",
+        "Tính khan hiếm được quyết định bởi quy mô tuyệt đối của nguồn lực.",
+        "Nếu lượng tài nguyên nhiều thì bất kể nhu cầu và mong muốn của con người ra sao, nó cũng không khan hiếm.",
+        "Dù là cùng một nguồn lực nhưng tùy thuộc vào nhu cầu và mong muốn của con người mà tính khan hiếm sẽ khác nhau.",
+        "Nếu có sự can thiệp của chính phủ thì tính khan hiếm và tính quý hiếm của nguồn lực sẽ không còn tồn tại."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Tính khan hiếm (희소성 - Scarcity) là khái niệm tương đối: nguồn lực hữu hạn so với nhu cầu vô hạn của con người. Do đó, dù cùng một nguồn lực nhưng tùy theo thời đại, hoàn cảnh và nhu cầu của con người mà mức độ khan hiếm sẽ thay đổi. Mẹo thi: Phân biệt rõ 희소성 (khan hiếm tương đối so với nhu cầu) và 희귀성 (hiếm có về mặt số lượng tuyệt đối).",
+      "coreFormula": "희소성(Scarcity) = 상대적 개념 (인간의 무한한 욕구 > 유한한 자원)",
+      "keyTerms": [
+        "희소성",
+        "희귀성",
+        "상대적 희소성"
+      ]
+    },
+    {
+      "examNumber": 2,
+      "section": "THEORY",
+      "subcategory": "INTL",
+      "points": 3,
+      "questionKo": "변동환율제도에서 달러화 대비 원화 환율을 하락시키는 요인이 아닌 것은?",
+      "questionVi": "Trong chế độ tỷ giá hối đoái thả nổi, yếu tố nào sau đây KHÔNG làm giảm tỷ giá Won/USD (원/달러 환율 하락)?",
+      "optionsKo": [
+        "미국인의 국내 부동산 매입",
+        "미국 기업의 국내투자 확대",
+        "국내 기업의 미국산 제품 수입 증가",
+        "국내에서 생산한 반도체의 미국으로 수출 증가",
+        "국내 기업이 미국에서 받은 배당금을 국내로 송금"
+      ],
+      "optionsVi": [
+        "Người Mỹ mua bất động sản trong nước (Hàn Quốc)",
+        "Doanh nghiệp Mỹ mở rộng đầu tư vào trong nước (Hàn Quốc)",
+        "Doanh nghiệp trong nước tăng nhập khẩu sản phẩm của Mỹ",
+        "Tăng xuất khẩu chất bán dẫn sản xuất trong nước sang Mỹ",
+        "Doanh nghiệp trong nước chuyển tiền cổ tức nhận được ở Mỹ về nước"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Tỷ giá Won/USD giảm (환율 하락 = 원화가치 상승) xảy ra khi cung USD tăng hoặc cầu USD giảm. ①, ②, ④, ⑤ đều làm tăng nguồn cung USD chảy vào Hàn Quốc nên làm giảm tỷ giá. Ngược lại, ③ doanh nghiệp Hàn Quốc tăng nhập khẩu hàng Mỹ làm tăng cầu USD trên thị trường ngoại hối, khiến tỷ giá Won/USD tăng (원화가치 하락).",
+      "coreFormula": "수입 증가 → 외환(달러) 수요 증가 → 원/달러 환율 상승(원화가치 하락)",
+      "keyTerms": [
+        "변동환율제도",
+        "원/달러 환율",
+        "외환수요",
+        "외환공급"
+      ]
+    },
+    {
+      "examNumber": 3,
+      "section": "THEORY",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "금융 및 자본시장과 관련한 설명으로 옳지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về thị trường tài chính và thị trường vốn?",
+      "optionsKo": [
+        "금융시장은 경제주체 간에 자금을 중개할 수 있게 해준다.",
+        "자기자본을 일정 비율 이상으로 유지해야 하는 금융회사들이 있다.",
+        "금융시장은 나라 경제의 저축과 투자를 중개하는 역할을 한다.",
+        "자본시장이 발달할수록 상장기업의 은행 차입 의존도는 줄어드는 경향을 보인다.",
+        "자본시장의 발달로 주식 가격의 변동성이 줄어들고, 채권 가격의 변동성은 커졌다."
+      ],
+      "optionsVi": [
+        "Thị trường tài chính giúp trung gian vốn giữa các chủ thể kinh tế.",
+        "Có những công ty tài chính phải duy trì vốn chủ sở hữu trên một tỷ lệ nhất định.",
+        "Thị trường tài chính đóng vai trò trung gian giữa tiết kiệm và đầu tư của nền kinh tế.",
+        "Thị trường vốn càng phát triển thì mức độ phụ thuộc vào vay ngân hàng của các công ty niêm yết càng có xu hướng giảm.",
+        "Do sự phát triển của thị trường vốn, biến động giá cổ phiếu giảm xuống và biến động giá trái phiếu tăng lên."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Thị trường vốn (자본시장) là nơi giao dịch cổ phiếu và trái phiếu dài hạn. Cổ phiếu vốn có độ biến động giá (변동성) cao hơn trái phiếu, và sự phát triển của thị trường vốn không làm biến động giá cổ phiếu giảm đi hay làm biến động giá trái phiếu lớn hơn cổ phiếu. Do đó ⑤ là phát biểu sai.",
+      "coreFormula": "자본시장 발달 → 직접금융(주식·채권 발행) 비중 확대, 간접금융(은행 차입) 의존도 감소",
+      "keyTerms": [
+        "금융시장",
+        "자본시장",
+        "자기자본비율",
+        "가격 변동성"
+      ]
+    },
+    {
+      "examNumber": 4,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "풍작으로 쌀값 폭락이 예상되자 농민들이 논을 갈아엎는 시위를 벌였다. 이에 따라 정부는 쌀값 안정을 위해 쌀 매입 지원정책을 확대했다. 이 정책이 초래하는 효과가 아닌 것은?",
+      "questionVi": "Khi dự báo giá gạo sụt giảm mạnh do được mùa, nông dân đã biểu tình cày xới ruộng lúa. Theo đó, chính phủ đã mở rộng chính sách hỗ trợ thu mua gạo để ổn định giá gạo. Đâu KHÔNG phải là hệ quả do chính sách này gây ra?",
+      "optionsKo": [
+        "쌀 시장에서 1인당 노동 산출량이 증가한다.",
+        "납세자로부터 농민으로 인위적인 소득 재분배를 이끈다.",
+        "쌀을 보관하고 관리하기 위한 정부의 관련 예산이 증가한다.",
+        "쌀의 초과공급을 유도하여 지속적인 쌀 수급의 불균형이 발생한다.",
+        "높은 가격이 보장된 쌀을 생산하므로 다른 농산물의 생산을 줄인다."
+      ],
+      "optionsVi": [
+        "Sản lượng lao động bình 군 đầu người trên thị trường gạo tăng lên.",
+        "Dẫn đến sự phân phối lại thu nhập nhân tạo từ người nộp thuế sang nông dân.",
+        "Ngân sách liên quan của chính phủ để bảo quản và quản lý gạo tăng lên.",
+        "Khuyến khích cung vượt cầu về gạo, gây mất cân đối cung cầu gạo kéo dài.",
+        "Vì sản xuất gạo được đảm bảo giá cao nên nông dân giảm sản xuất các nông sản khác."
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Chính sách giá sàn (가격하한제) và thu mua nông sản của chính phủ gây ra dư cung (초과공급), tăng gánh nặng ngân sách lưu kho/thu mua bằng tiền thuế của dân, và làm méo mó phân bổ nguồn lực (nông dân đổ xô trồng lúa thay vì cây trồng khác). Chính sách này không làm tăng năng suất lao động bình quân đầu người (1인당 노동 산출량).",
+      "coreFormula": "가격하한제(Price Floor) + 정부 매입 → 초과공급 발생 + 정부 재정부담 증가 + 자원배분 왜곡",
+      "keyTerms": [
+        "가격하한제",
+        "초과공급",
+        "정부 매입",
+        "자원배분 왜곡"
+      ]
+    },
+    {
+      "examNumber": 5,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "영국의 경제학자 케인스의 입장과 가장 가까운 견해는?",
+      "questionVi": "Quan điểm nào sau đây gần nhất với lập trường của nhà kinh tế học người Anh J.M. Keynes?",
+      "optionsKo": [
+        "시장에서 가격은 자유롭게 변화한다.",
+        "시장은 항상 효율적인 결과를 가져온다.",
+        "기준금리 인하보다 재정지출의 정책 효율성이 높다.",
+        "정부의 시장에 대한 개입은 최소한에 머물러야 한다.",
+        "국채 발행은 시중 이자율의 인상으로 이어져 기업의 투자를 위축시킨다."
+      ],
+      "optionsVi": [
+        "Giá cả trên thị trường biến đổi một cách tự do.",
+        "Thị trường luôn mang lại kết quả hiệu quả.",
+        "Chi tiêu tài khóa có hiệu quả chính sách cao hơn so với việc hạ lãi suất cơ bản.",
+        "Sự can thiệp của chính phủ vào thị trường chỉ nên dừng ở mức tối thiểu.",
+        "Phát hành trái phiếu chính phủ dẫn đến tăng lãi suất thị trường và làm thu hẹp đầu tư của doanh nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Trường phái Keynes (케인스 학파) nhấn mạnh tính cứng nhắc của giá cả/tiền lương, sự thất bại của thị trường và thiếu hụt tổng cầu (유효수요 부족). Khi nền kinh tế suy thoái (đặc biệt khi rơi vào bẫy thanh khoản hoặc đầu tư kém nhạy cảm với lãi suất), Keynes cho rằng chính sách tài khóa (재정지출 확대) hiệu quả trực tiếp và mạnh mẽ hơn chính sách tiền tệ (금리 인하). ①, ②, ④, ⑤ là quan điểm của trường phái Cổ điển / Trọng tiền.",
+      "coreFormula": "케인스주의(Keynesianism): 가격 경직성 + 유효수요의 원리 → 재정정책 우위",
+      "keyTerms": [
+        "케인스",
+        "재정정책",
+        "유효수요",
+        "구축효과"
+      ]
+    },
+    {
+      "examNumber": 6,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "아래 역사적 사건을 통해 유추할 수 있는 내용을 <보기>에서 고르면?",
+      "questionVi": "Chọn nội dung trong <보기> có thể suy ra từ sự kiện lịch sử dưới đây?",
+      "passageKo": "리처드 닉슨 전 대통령도 1972년 대선 당시 아서 번스 당시 연준 의장에게 경기를 부양해 달라고 강력히 요청했다. 닉슨은 압승을 거뒀지만, 연준의 개입으로 전 세계적인 인플레이션이 촉발됐고 전후 채택된 고정환율제의 몰락을 야기했다.\n\n<보기>\nㄱ. 콩도르세의 역설\nㄴ. 중앙은행의 고용안정 책무\nㄷ. 중앙은행 독립성 침해\nㄹ. 정치적 경기순환이론",
+      "passageVi": "Cựu Tổng thống Richard Nixon vào kỳ bầu cử tổng thống năm 1972 cũng đã yêu cầu mạnh mẽ Chủ tịch Fed lúc bấy giờ là Arthur Burns phải kích thích kinh tế. Nixon đã giành chiến thắng áp đảo, nhưng sự can thiệp của Fed đã châm ngòi cho lạm phát toàn cầu và dẫn đến sự sụp đổ của chế độ tỷ giá cố định được áp dụng sau chiến tranh.\n\n<보기>\nㄱ. Nghịch lý Condorcet (콩도르세의 역설)\nㄴ. Trách nhiệm ổn định việc làm của ngân hàng trung ương\nㄷ. Xâm phạm tính độc lập của ngân hàng trung ương (중앙은행 독립성 침해)\nㄹ. Lý thuyết chu kỳ kinh doanh chính trị (정치적 경기순환이론)",
+      "optionsKo": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "optionsVi": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Việc Tổng thống Nixon gây sức ép lên Chủ tịch Fed Arthur Burns để bơm tiền kích thích kinh tế nhằm phục vụ mục tiêu tái đắc cử năm 1972 là ví dụ kinh điển của sự xâm phạm tính độc lập của Ngân hàng Trung ương (ㄷ. 중앙은행 독립성 침해) và Lý thuyết chu kỳ kinh doanh chính trị (ㄹ. 정치적 경기순환이론 - Political Business Cycle Theory, nơi chính권 mở rộng tiền tệ/tài khóa trước bầu cử rồi gây lạm phát sau bầu cử).",
+      "coreFormula": "정치적 경기순환이론(Political Business Cycle) + 중앙은행 독립성(Central Bank Independence)",
+      "keyTerms": [
+        "중앙은행 독립성",
+        "정치적 경기순환이론",
+        "인플레이션"
+      ]
+    },
+    {
+      "examNumber": 7,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "한 나라의 경제가 지속적으로 성장하기 위한 요인으로 보기 가장 어려운 것은?",
+      "questionVi": "Yếu tố nào sau đây KHÓ có thể xem là nhân tố giúp nền kinh tế của một quốc gia tăng trưởng bền vững?",
+      "optionsKo": [
+        "생산성의 향상",
+        "교육에 대한 지출 증가",
+        "통화량의 지속적인 증가",
+        "지식재산권의 보호",
+        "기술 개발을 위한 R&D(연구·개발) 비용 세액공제 확대"
+      ],
+      "optionsVi": [
+        "Nâng cao năng suất",
+        "Tăng chi tiêu cho giáo dục",
+        "Tăng cung tiền liên tục",
+        "Bảo hộ quyền sở hữu trí tuệ",
+        "Mở rộng khấu trừ thuế chi phí R&D (nghiên cứu & phát triển) để phát triển công nghệ"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Tăng trưởng kinh tế dài hạn phụ thuộc vào các yếu tố phía cung như nâng cao năng suất (생산성 향상), tích lũy vốn nhân lực qua giáo dục (교육 지출), đổi mới công nghệ (R&D) và thể chế bảo vệ quyền sở hữu trí tuệ (지식재산권 보호). Việc tăng cung tiền liên tục (통화량의 지속적인 증가) trong dài hạn chỉ gây ra lạm phát chứ không làm tăng sản lượng thực tế (tính trung lập dài hạn của tiền tệ).",
+      "coreFormula": "Y = A · F(L, K, H) (장기 경제성장은 총요소생산성 A, 인적자본 H, 물적자본 K에 의해 결정)",
+      "keyTerms": [
+        "경제성장",
+        "생산성",
+        "통화량",
+        "화폐의 중립성"
+      ]
+    },
+    {
+      "examNumber": 8,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "A국에서는 기준금리가 0%에 가까운 상황에서 중앙은행이 발행한 통화량에 비해 시중에 유통되는 통화량이 늘어나지 않는 현상이 나타났다. 이와 같은 상황과 함께 나타날 수 있는 경제 현상으로 알맞은 것은?",
+      "questionVi": "Ở nước A, trong bối cảnh lãi suất cơ bản gần bằng 0%, xuất hiện hiện tượng lượng tiền lưu thông trên thị trường không tăng lên tương ứng với lượng tiền do ngân hàng trung ương phát hành. Hiện tượng kinh tế nào sau đây có thể xuất hiện cùng với tình huống này?",
+      "optionsKo": [
+        "경제주체가 화폐를 쓰기보다는 보유하려는 수요가 높다.",
+        "통화량이 늘어나지만, 시중의 이자율은 오히려 상승한다.",
+        "재정정책의 승수가 감소하여 재정정책의 효과가 증가한다.",
+        "유동성이 풍부하여 화폐유통속도가 상승세를 나타낸다.",
+        "중앙은행은 보통 공개시장 매각, 지급준비율 인상을 시행한다."
+      ],
+      "optionsVi": [
+        "Các chủ thể kinh tế có nhu cầu nắm giữ tiền mặt cao hơn là chi tiêu.",
+        "Cung tiền tăng lên nhưng lãi suất thị trường ngược lại tăng lên.",
+        "Số nhân chính sách tài khóa giảm nên hiệu quả của chính sách tài khóa tăng lên.",
+        "Thanh khoản dồi dào nên tốc độ lưu thông tiền tệ có xu hướng tăng.",
+        "Ngân hàng trung ương thường thực hiện bán trên thị trường mở và tăng tỷ lệ dự trữ bắt buộc."
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Khi lãi suất tiến gần 0%, dù Ngân hàng Trung ương bơm thêm tiền cơ sở nhưng tiền không đi vào lưu thông (실물경제) mà bị giữ lại — đây là hiện tượng Bẫy thanh khoản (유동성 함정 - Liquidity Trap). Trong bẫy thanh khoản, lãi suất đã ở mức đáy nên các chủ thể kinh tế dự đoán giá trái phiếu sẽ giảm (lãi suất tăng trở lại), do đó họ muốn nắm giữ tiền mặt thay vì đầu tư hay chi tiêu (화폐보유 수요가 매우 높음), làm tốc độ lưu thông tiền tệ (화폐유통속도) giảm mạnh.",
+      "coreFormula": "유동성 함정(Liquidity Trap): r ≈ 0% → 화폐수요의 이자율 탄력성 무한대(∞) → 통화정책 무력화",
+      "keyTerms": [
+        "유동성 함정",
+        "화폐보유 수요",
+        "화폐유통속도",
+        "기준금리"
+      ]
+    },
+    {
+      "examNumber": 9,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "완전가격차별이 시행되는 독점시장에 대한 설명으로 옳지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về thị trường độc quyền thực hiện phân biệt giá hoàn hảo (완전가격차별)?",
+      "optionsKo": [
+        "소비자잉여는 0보다는 크고 1보다는 작다.",
+        "한계수입곡선은 시장수요곡선과 동일하다.",
+        "소비자잉여는 모두 생산자잉여로 귀속된다.",
+        "완전경쟁시장과 동일한 수량이 시장에 공급된다.",
+        "독점기업이 소비자 모두의 지불용의가격을 알고 있다."
+      ],
+      "optionsVi": [
+        "Thặng dư tiêu dùng lớn hơn 0 và nhỏ hơn 1.",
+        "Đường doanh thu biên trùng với đường cầu thị trường.",
+        "Toàn bộ thặng dư tiêu dùng đều thuộc về thặng dư sản xuất.",
+        "Sản lượng cung ứng ra thị trường bằng với sản lượng của thị trường cạnh tranh hoàn hảo.",
+        "Doanh nghiệp độc quyền biết rõ mức giá sẵn lòng trả của tất cả người tiêu dùng."
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Phân biệt giá hoàn hảo (완전가격차별 hay 제1급 가격차별) xảy ra khi doanh nghiệp độc quyền biết chính xác mức giá sẵn lòng trả tối đa (지불용의가격/유보가격) của từng người tiêu dùng và thu đúng mức giá đó cho từng đơn vị sản phẩm. Khi đó, toàn bộ thặng dư tiêu dùng bị chuyển thành thặng dư sản xuất nên Thặng dư tiêu dùng (소비자잉여) bằng 0 (chứ không phải lớn hơn 0 và nhỏ hơn 1). Sản lượng cân bằng đạt mức P = MC (giống cạnh tranh hoàn hảo) và tổng thặng dư xã hội đạt tối đa.",
+      "coreFormula": "완전가격차별(1급 가격차별): CS = 0, MR = D(수요곡선), DWL(자중손실) = 0",
+      "keyTerms": [
+        "완전가격차별",
+        "소비자잉여",
+        "생산자잉여",
+        "독점시장"
+      ]
+    },
+    {
+      "examNumber": 10,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "아래 그림에서 (가)와 (나)로 각각 이동하는 요인을 알맞게 짝지으면?",
+      "questionVi": "Trong hình dưới đây, cặp yếu tố nào gây ra sự dịch chuyển (가) và sự di chuyển (나) một cách chính xác?",
+      "figureImageUrl": "/exam-figures/exam-86-q10.jpg",
+      "figureCaptionKo": "수요곡선의 좌측 이동(가)과 수요곡선상의 좌상향 이동(나)",
+      "figureCaptionVi": "Sự dịch chuyển sang trái của đường cầu (가) và sự di chuyển lên trên dọc theo đường cầu (나)",
+      "optionsKo": [
+        "(가) 가격 상승 - (나) 대체재 가격 상승",
+        "(가) 가격 하락 - (나) 가격 상승",
+        "(가) 소득 감소 - (나) 소비자 수 증가",
+        "(가) 보완재 가격 상승 - (나) 가격 상승",
+        "(가) 대체재 가격 하락 - (나) 보완재 가격 하락"
+      ],
+      "optionsVi": [
+        "(가) Giá tăng - (나) Giá hàng thay thế tăng",
+        "(가) Giá giảm - (나) Giá tăng",
+        "(가) Thu nhập giảm - (나) Số lượng người tiêu dùng tăng",
+        "(가) Giá hàng bổ sung tăng - (나) Giá tăng",
+        "(가) Giá hàng thay thế giảm - (나) Giá hàng bổ sung giảm"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Trên đồ thị: (가) là sự dịch chuyển của cả đường cầu sang trái (수요의 감소 - giảm cầu) do các nhân tố ngoài giá của chính hàng hóa đó như: thu nhập giảm (đối với hàng thông thường), giá hàng thay thế giảm, hoặc giá hàng bổ sung tăng (보완재 가격 상승). (나) là sự vận động dọc theo đường cầu lên phía trên bên trái (수요량의 감소 - giảm lượng cầu), nguyên nhân duy nhất là do giá của chính hàng hóa đó tăng (가격 상승). Vậy đáp án đúng là ④.",
+      "coreFormula": "(가) 수요곡선의 좌측 이동(수요 감소: 보완재 가격 상승 등), (나) 수요곡선상의 이동(수요량 감소: 해당 재화 가격 상승)",
+      "keyTerms": [
+        "수요량의 변화",
+        "수요의 변화",
+        "보완재",
+        "대체재"
+      ]
+    },
+    {
+      "examNumber": 11,
+      "section": "THEORY",
+      "subcategory": "INTL",
+      "points": 3,
+      "questionKo": "시장에 외부충격이 발생하였을 때, 환율이나 주식과 같은 금융자산의 가격이 단기적으로 급등락하여 장기균형수준에서 크게 이탈한 후 시간이 지남에 따라 점차 장기균형수준으로 수렴하는 현상을 무엇이라고 하는가?",
+      "questionVi": "Khi xảy ra cú sốc bên ngoài trên thị trường, hiện tượng giá các tài sản tài chính như tỷ giá hối đoái hoặc cổ phiếu biến động tăng giảm mạnh trong ngắn hạn, lệch xa khỏi mức cân bằng dài hạn rồi dần hội tụ về mức cân bằng dài hạn theo thời gian được gọi là gì?",
+      "optionsKo": [
+        "턴어라운드",
+        "오버슈팅",
+        "레온티에프 역설",
+        "트리핀 딜레마",
+        "랜덤워크"
+      ],
+      "optionsVi": [
+        "Turnaround (턴어라운드)",
+        "Overshooting (오버슈팅 - Tăng/giảm quá đà)",
+        "Nghịch lý Leontief (레온티에프 역설)",
+        "Song đề Triffin (트리핀 딜레마)",
+        "Bước đi ngẫu nhiên (랜덤워크)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Overshooting (오버슈팅 - hiện tượng tăng/giảm quá đà do R. Dornbusch đề xuất năm 1976) giải thích việc khi có cú sốc tiền tệ hoặc cú sốc bên ngoài, do giá cả hàng hóa trên thị trường thực (실물시장) cứng nhắc trong ngắn hạn trong khi thị trường tài chính/ngoại hối phản ứng tức thì, nên tỷ giá hoặc giá tài sản biến động vượt quá mức cân bằng dài hạn trong ngắn hạn rồi mới từ từ điều chỉnh về mức cân bằng dài hạn.",
+      "coreFormula": "환율 오버슈팅(Overshooting): 단기 물가 경직성 → 단기 환율 변동폭 > 장기 균형환율 변동폭",
+      "keyTerms": [
+        "오버슈팅",
+        "장기균형수준",
+        "환율",
+        "트리핀 딜레마"
+      ]
+    },
+    {
+      "examNumber": 12,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "시장경제 체제에서 사회적 분업을 가능하게 하는 요인으로 가장 알맞은 것은?",
+      "questionVi": "Trong hệ thống kinh tế thị trường, yếu tố nào sau đây là phù hợp nhất giúp sự phân công lao động xã hội (사회적 분업) có thể diễn ra?",
+      "optionsKo": [
+        "절제된 이기심",
+        "정부의 경제정책",
+        "각 개인의 책임감",
+        "중앙은행의 통화정책",
+        "시장에서 형성된 가격의 신호"
+      ],
+      "optionsVi": [
+        "Lòng vị kỷ có tiết chế",
+        "Chính sách kinh tế của chính phủ",
+        "Tinh thần trách nhiệm của mỗi cá nhân",
+        "Chính sách tiền tệ của ngân hàng trung ương",
+        "Tín hiệu giá cả được hình thành trên thị trường"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Trong nền kinh tế thị trường, tín hiệu giá cả (가격의 신호 - Price Signal, hay 'bàn tay vô hình' của Adam Smith) truyền tải thông tin về mức độ khan hiếm và nhu cầu xã hội đối với từng loại hàng hóa, từ đó điều phối hàng triệu cá nhân tự nguyện chuyên môn hóa và phân công lao động xã hội (사회적 분업) mà không cần mệnh lệnh trung ương.",
+      "coreFormula": "가격 기구(Price Mechanism) = 정보 전달 신호(Signal) + 유인(Incentive) 제공 → 사회적 분업과 자원 배분 달성",
+      "keyTerms": [
+        "가격 신호",
+        "사회적 분업",
+        "시장경제",
+        "보이지 않는 손"
+      ]
+    },
+    {
+      "examNumber": 13,
+      "section": "THEORY",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "효율적 시장 가설을 가장 잘 설명한 것은?",
+      "questionVi": "Phát biểu nào giải thích đúng nhất về Giả thuyết thị trường hiệu quả (효율적 시장 가설)?",
+      "optionsKo": [
+        "시장에서의 거래로 사회적 후생이 극대화된다.",
+        "완전경쟁시장에서는 자원 배분의 균등이 달성된다.",
+        "시장을 통해 거래되는 모든 잉여는 생산자잉여로 포함된다.",
+        "자산 가격은 시장에 유입된 새로운 정보를 빠르게 반영한다.",
+        "시장에서의 사회적 분업은 공급자의 효율성과 형평성을 높여준다."
+      ],
+      "optionsVi": [
+        "Thông qua giao dịch trên thị trường, phúc lợi xã hội được tối đa hóa.",
+        "Trong thị trường cạnh tranh hoàn hảo, sự bình đẳng trong phân bổ nguồn lực được thực hiện.",
+        "Mọi thặng dư được giao dịch qua thị trường đều được tính vào thặng dư sản xuất.",
+        "Giá tài sản phản ánh nhanh chóng các thông tin mới được đưa vào thị trường.",
+        "Sự phân công lao động xã hội trên thị trường làm tăng tính hiệu quả và công bằng của nhà cung cấp."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Giả thuyết thị trường hiệu quả (효율적 시장 가설 - Efficient Market Hypothesis, EMH) của Eugene Fama khẳng định rằng giá cả của các tài sản tài chính (như cổ phiếu) luôn phản ánh nhanh chóng và đầy đủ mọi thông tin mới xuất hiện trên thị trường (자산 가격은 시장에 유입된 새로운 정보를 빠르게 반영한다).",
+      "coreFormula": "효율적 시장 가설(EMH): P_t = E(P* | I_t) (자산 가격은 이용 가능한 정보 I_t를 즉각 반영)",
+      "keyTerms": [
+        "효율적 시장 가설",
+        "자산 가격",
+        "정보 반영"
+      ]
+    },
+    {
+      "examNumber": 14,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "외부효과를 내부화하는 사례로 가장 거리가 먼 것은?",
+      "questionVi": "Trường hợp nào sau đây KHÁC XA NHẤT với ví dụ về việc nội부 hóa ngoại ứng (외부효과의 내부화)?",
+      "optionsKo": [
+        "탄소 배출권 거래제를 시행한다.",
+        "담배 구매자에게 건강세를 부과한다.",
+        "독감 예방주사를 접종한 사람에게 보조금을 지급한다.",
+        "원유 가격이 오르자 주유소의 휘발유 가격이 상승했다.",
+        "오염물질 배출 기준을 어기는 생산자에게 환경정화부담금을 부과한다."
+      ],
+      "optionsVi": [
+        "Thực hiện chế độ giao dịch quyền phát thải carbon.",
+        "Đánh thuế sức khỏe đối với người mua thuốc lá.",
+        "Trợ cấp cho người tiêm vắc-xin phòng cúm.",
+        "Khi giá dầu thô tăng, giá xăng tại các trạm xăng đã tăng lên.",
+        "Áp đặt phí làm sạch môi trường đối với nhà sản xuất vi phạm tiêu chuẩn xả thải chất ô nhiễm."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Nội bộ hóa ngoại ứng (외부효과의 내부화) là việc dùng thuế Pigou (②, ⑤), trợ cấp Pigou (③), hoặc quyền phát thải/định lý Coase (①) để buộc chủ thể gây ra ngoại ứng phải tính đến chi phí/lợi ích xã hội. Ngược lại, ④ việc giá dầu thô tăng làm giá xăng tăng chỉ là sự điều chỉnh giá thông thường qua cơ chế cung cầu trên thị trường (금전적 외부효과), không phải là biện pháp nội bộ hóa ngoại ứng kỹ thuật.",
+      "coreFormula": "외부효과 내부화 수단: 피구세(Pigouvian Tax), 피구 보조금(Subsidy), 배출권 거래제",
+      "keyTerms": [
+        "외부효과",
+        "내부화",
+        "탄소 배출권 거래제",
+        "피구세"
+      ]
+    },
+    {
+      "examNumber": 15,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "아래 지문에서 중고차를 통해 설명하고자 하는 개념은?",
+      "questionVi": "Khái niệm nào đang được giải thích thông qua ví dụ về xe ô tô cũ trong đoạn văn dưới đây?",
+      "passageKo": "대학생이 졸업 후 취업을 하여 소득이 생기면 자동차를 구입하는 경우가 많다. 처음에는 주로 중고차를 구입한다. 하지만 시간이 흘러 소득수준이 높아지면 중고차를 처분하고 신차를 구입하는 경우가 많다.",
+      "passageVi": "Sinh viên sau khi tốt nghiệp và đi làm có thu nhập thường mua ô tô. Ban đầu họ chủ yếu mua xe ô tô cũ. Tuy nhiên, theo thời gian khi mức thu nhập tăng cao hơn, nhiều người bán xe cũ đi và mua xe mới.",
+      "optionsKo": [
+        "정상재 - 열등재",
+        "재화 - 비재화",
+        "가치재 - 비가치재",
+        "자산효과 - 기저효과",
+        "피구효과 - 피셔효과"
+      ],
+      "optionsVi": [
+        "Hàng thông thường - Hàng thứ cấp (정상재 - 열등재)",
+        "Hàng hóa - Phi hàng hóa (재화 - 비재화)",
+        "Hàng khuyến용 - Hàng phi khuyến dụng (가치재 - 비가치재)",
+        "Hiệu ứng tài sản - Hiệu ứng nền (자산효과 - 기저효과)",
+        "Hiệu ứng Pigou - Hiệu ứng Fisher (피구효과 - 피셔효과)"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Hàng hóa có cầu giảm khi thu nhập tăng (như xe ô tô cũ trong đoạn văn) được gọi là Hàng thứ cấp (열등재 - Inferior good, độ co giãn của cầu theo thu nhập < 0). Hàng hóa có cầu tăng khi thu nhập tăng (như xe ô tô mới) được gọi là Hàng thông thường (정상재 - Normal good, độ co giãn của cầu theo thu nhập > 0).",
+      "coreFormula": "소득탄력성(E_m) > 0: 정상재(신차), 소득탄력성(E_m) < 0: 열등재(중고차)",
+      "keyTerms": [
+        "정상재",
+        "열등재",
+        "소득탄력성"
+      ]
+    },
+    {
+      "examNumber": 16,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "필립스곡선과 관련한 설명으로 옳지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về đường cong Phillips (필립스곡선)?",
+      "optionsKo": [
+        "단기적으로 실업률과 물가상승률은 음(-)의 관계이다.",
+        "기대인플레이션율이 낮아지면 단기 필립스곡선은 좌측으로 이동한다.",
+        "자연실업률 가설에 따르면 장기적으로 정책 당국은 실업률을 통제할 수 없다.",
+        "스태그플레이션이 발생하면 단기 필립스곡선은 좌측으로 이동한다.",
+        "합리적 기대하에서라도 예상하지 못한 통화팽창은 단기적으로 실업률에 영향을 미친다."
+      ],
+      "optionsVi": [
+        "Trong ngắn hạn, tỷ lệ thất nghiệp và tỷ lệ lạm phát có mối quan hệ ngược chiều (-).",
+        "Khi tỷ lệ lạm phát kỳ vọng giảm xuống, đường cong Phillips ngắn hạn dịch chuyển sang trái.",
+        "Theo giả thuyết tỷ lệ thất nghiệp tự nhiên, trong dài hạn cơ quan chính sách không thể kiểm soát tỷ lệ thất nghiệp.",
+        "Khi xảy ra đình lạm (stagflation), đường cong Phillips ngắn hạn dịch chuyển sang trái.",
+        "Ngay cả dưới kỳ vọng hợp lý, việc mở rộng tiền tệ không dự kiến trước vẫn ảnh hưởng đến tỷ lệ thất nghiệp trong ngắn hạn."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Đình lạm (스태그플레이션 - Stagflation) là hiện tượng cả tỷ lệ thất nghiệp và tỷ lệ lạm phát đều tăng cao cùng lúc (do cú sốc cung bất lợi). Khi đó, đường cong Phillips ngắn hạn dịch chuyển sang PHẢI (우상향 이동), chứ không phải dịch chuyển sang trái. Do đó ④ là phát biểu sai.",
+      "coreFormula": "π = π^e - α(u - u_n) + ν (스태그플레이션 ν > 0 → 단기 필립스곡선 우측 이동)",
+      "keyTerms": [
+        "필립스곡선",
+        "스태그플레이션",
+        "자연실업률 가설",
+        "합리적 기대"
+      ]
+    },
+    {
+      "examNumber": 17,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 4,
+      "questionKo": "뜨개질로 목도리를 만들어 팔고 있는 가영이는 유행이 지난 디자인의 목도리를 재고로 보유하고 있다. 이 목도리를 만드는 데 들어간 비용은 총 3만 원이나 구식이어서 지금 처분한다면 1만 원밖에 받을 수 없다. 그래서 5만 원을 투자해 재고로 보유 중인 목도리를 최신 디자인으로 바꾸려고 한다. 이 목도리를 최소 얼마 이상에 판매할 때 최신 디자인으로 바꾸는 작업을 하는 것이 가영에게 이득이 될까?",
+      "questionVi": "Ga-young đang đan khăn quàng cổ để bán và hiện có tồn kho một chiếc khăn mẫu mã đã lỗi mốt. Chi phí đã bỏ ra để làm chiếc khăn này tổng cộng là 30.000 Won, nhưng vì đã lỗi thời nên nếu thanh lý ngay bây giờ thì chỉ thu về được 10.000 Won. Vì vậy, cô định đầu tư thêm 50.000 Won để sửa chiếc khăn tồn kho này thành mẫu thiết kế mới nhất. Phải bán chiếc khăn này với giá tối thiểu bao nhiêu trở lên thì việc sửa sang mẫu mới mới mang lại lợi ích cho Ga-young?",
+      "optionsKo": [
+        "5만 원",
+        "6만 원",
+        "7만 원",
+        "8만 원",
+        "9만 원"
+      ],
+      "optionsVi": [
+        "50.000 Won",
+        "60.000 Won",
+        "70.000 Won",
+        "80.000 Won",
+        "90.000 Won"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Chi phí sản xuất ban đầu 30.000 Won là Chi phí chìm (매몰비용 - Sunk Cost), đã chi ra trong quá khứ và không thể thu hồi nên tuyệt đối không tính vào quyết định hiện tại. Khi quyết định sửa chiếc khăn thành mẫu mới, Chi phí cơ hội (기회비용) = Chi phí hiện đầu tư thêm (명시적 비용: 50.000 Won) + Khoản thu bị bỏ qua nếu không bán thanh lý ngay (암묵적 비용: 10.000 Won) = 60.000 Won. Vậy phải bán với giá tối thiểu từ 60.000 Won (6만 원) trở lên mới có lợi.",
+      "coreFormula": "기회비용 = 명시적 비용(추가 투자 5만 원) + 암묵적 비용(즉시 처분 시 가치 1만 원) = 6만 원 (매몰비용 3만 원 제외)",
+      "keyTerms": [
+        "기회비용",
+        "매몰비용",
+        "명시적 비용",
+        "암묵적 비용"
+      ]
+    },
+    {
+      "examNumber": 18,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "총수요와 총공급 측면에서 국내 물가가 오르면서 산출량이 감소할 수 있는 사건은?",
+      "questionVi": "Xét về mặt tổng cầu và tổng cung, sự kiện nào sau đây có thể làm giá cả trong nước tăng lên đồng thời sản lượng giảm xuống?",
+      "optionsKo": [
+        "시간당 자본 생산성 향상",
+        "석유 등 국제 원자재가격 상승",
+        "글로벌 경제의 회복으로 수출 증가",
+        "대규모 사회간접자본(SOC) 투자 증가",
+        "중앙은행의 물가상승률 목표 상향조정"
+      ],
+      "optionsVi": [
+        "Nâng cao năng suất vốn mỗi giờ",
+        "Giá nguyên자재 quốc tế như dầu mỏ tăng lên",
+        "Xuất khẩu tăng nhờ sự phục hồi của kinh tế toàn cầu",
+        "Tăng đầu tư quy mô lớn vào vốn xã hội gián tiếp (SOC - cơ sở hạ tầng)",
+        "Ngân hàng trung ương điều chỉnh tăng mục tiêu tỷ lệ lạm phát"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Hiện tượng mức giá chung tăng (물가 상승) đi kèm với sản lượng giảm (산출량 감소) là Đình lạm (스태그플레이션 - Stagflation), xảy ra khi đường Tổng cung ngắn hạn (SRAS) dịch chuyển sang trái do cú sốc cung bất lợi. Việc giá nguyên vật liệu quốc tế như dầu mỏ tăng (② 석유 등 국제 원자재가격 상승) làm chi phí sản xuất tăng vọt, đẩy đường AS sang trái. ① làm AS dịch chuyển sang phải; ③, ④, ⑤ làm AD dịch chuyển sang phải (cả giá và sản lượng cùng tăng).",
+      "coreFormula": "부정적 총공급 충격(원자재 가격 상승) → 단기 총공급(AS) 곡선 좌측 이동 → 물가(P) 상승 + 산출량(Y) 감소",
+      "keyTerms": [
+        "총공급 충격",
+        "스태그플레이션",
+        "원자재가격 상승",
+        "총수요-총공급 모형"
+      ]
+    },
+    {
+      "examNumber": 19,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 4,
+      "questionKo": "정보의 비대칭성과 관련한 설명으로 옳지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về thông tin bất cân xứng (정보의 비대칭성)?",
+      "optionsKo": [
+        "근로자의 근무태만을 줄이기 위해 성과에 따른 인센티브를 지급한다.",
+        "도덕적 해이는 사용자가 대리인의 행동을 완벽하게 감시할 수 없을 때 발생한다.",
+        "중고차 판매 기업이 구매자에게 10년간 무상수리 서비스를 지원한다고 발표하는 것은 선별의 사례이다.",
+        "정보의 비대칭이 존재하는 시장에서는 정부의 개입으로 자원 배분의 효율성을 개선할 수 있다.",
+        "보험회사는 사건이 발생하면 보험 가입자도 비용을 부담하는 보험 상품을 판매함으로써 도덕적 해이를 줄일 수 있다."
+      ],
+      "optionsVi": [
+        "Trả thưởng khuyến khích theo thành tích để giảm tình trạng lơ là công việc của người lao động.",
+        "Rủi ro đạo đức xảy ra khi người ủy thác (người sử dụng lao động) không thể giám sát hoàn hảo hành vi của người đại diện.",
+        "Việc công ty bán xe cũ công bố hỗ trợ dịch vụ sửa chữa miễn phí 10 năm cho người mua là ví dụ về Sàng lọc (선별).",
+        "Trong thị trường tồn tại thông tin bất cân xứng, sự can thiệp của chính phủ có thể cải thiện hiệu quả phân bổ nguồn lực.",
+        "Công ty bảo hiểm có thể giảm rủi ro đạo đức bằng cách bán sản phẩm bảo hiểm mà người tham gia cũng phải chịu một phần chi phí khi xảy ra sự cố."
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Khi bên CÓ thông tin (공급자 - công ty bán xe cũ) chủ động đưa ra cam kết bảo hành/sửa chữa miễn phí 10 năm để chứng minh chất lượng xe của mình cho bên KHÔNG có thông tin (구매자), đó là Phát tín hiệu (신호발송 - Signaling), chứ không phải Sàng lọc (선별 - Screening, vốn là hành động của bên thiếu thông tin nhằm phân loại bên có thông tin). Do đó ③ là phát biểu sai.",
+      "coreFormula": "신호발송(Signaling): 정보 우위자(중고차 판매자)의 품질보증 vs 선별(Screening): 정보 열위자(보험사)의 차등 계약 제시",
+      "keyTerms": [
+        "정보의 비대칭성",
+        "도덕적 해이",
+        "신호발송",
+        "선별"
+      ]
+    },
+    {
+      "examNumber": 20,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "공공재와 관련한 설명 중 옳지 않은 것은?",
+      "questionVi": "Trong các phát biểu về hàng hóa công cộng (공공재), phát biểu nào KHÔNG ĐÚNG?",
+      "optionsKo": [
+        "무임승차문제는 비배제성 때문에 발생한다.",
+        "지진이나 해일 등의 발생 경보가 대표적인 사례가 될 수 있다.",
+        "비배제성과 비경합성으로 인해 공공재는 시장을 통해 충분히 공급되지 못한다.",
+        "공공재 중 비순수공공재가 존재하는데 비경합성과 배제성을 가진 경우에만 해당한다.",
+        "공공재는 어떤 사람이 재화나 서비스에 대해 대가를 지불하지 않더라도 그 소비를 막을 수 없는 특징이 있다."
+      ],
+      "optionsVi": [
+        "Vấn đề kẻ ăn không (무임승차문제) phát sinh do tính không loại trừ (비배제성).",
+        "Cảnh báo động đất hoặc sóng thần có thể là một ví dụ điển hình.",
+        "Do tính không loại trừ và tính không cạnh tranh, hàng hóa công cộng không được cung ứng đầy đủ thông qua thị trường.",
+        "Trong hàng hóa công cộng có hàng hóa công cộng không thuần túy, nhưng chỉ áp dụng cho trường hợp có tính không cạnh tranh và tính loại trừ.",
+        "Hàng hóa công cộng có đặc điểm là dù một người không trả tiền cho hàng hóa hay dịch vụ đó thì cũng không thể ngăn cản họ tiêu dùng."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Hàng hóa công cộng thuần túy (순수공공재) có cả 2 đặc tính: không loại trừ (비배제성) và không cạnh tranh (비경합성). Hàng hóa công cộng không thuần túy (비순수공공재 / 준공공재) bao gồm CẢ hàng hóa câu lạc bộ/nhượng quyền (요금재/클럽재: không cạnh tranh + có thể loại trừ) LẪN tài nguyên dùng chung (공유자원: có cạnh tranh + không loại trừ). Vì vậy, câu ④ nói 'chỉ áp dụng cho trường hợp có tính không cạnh tranh và tính loại trừ' là sai.",
+      "coreFormula": "순수공공재 = 비배제성 + 비경합성 / 비순수공공재 = 클럽재(비경합+배제) 또는 공유자원(경합+비배제)",
+      "keyTerms": [
+        "공공재",
+        "비배제성",
+        "비경합성",
+        "무임승차문제",
+        "비순수공공재"
+      ]
+    },
+    {
+      "examNumber": 21,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "노동시장이 경쟁적일 경우 다음 중 단기적인 임금 하락을 유발하는 것은?",
+      "questionVi": "Khi thị trường lao động mang tính cạnh tranh, yếu tố nào sau đây gây ra sự sụt giảm tiền lương trong ngắn hạn?",
+      "optionsKo": [
+        "제품가격의 상승",
+        "노동생산성의 향상",
+        "외국인 노동자의 유입",
+        "기업투자에 따른 인력 필요 확대",
+        "노동과 자본이 서로 대체 요소일 경우 자본 가격의 상승"
+      ],
+      "optionsVi": [
+        "Giá sản phẩm tăng lên",
+        "Năng suất lao động được cải thiện",
+        "Dòng lao động nước ngoài chảy vào",
+        "Mở rộng nhu cầu nhân lực theo đầu tư của doanh nghiệp",
+        "Giá vốn tăng lên trong trường hợp lao động và vốn là hai yếu tố thay thế cho nhau"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Dòng lao động nước ngoài chảy vào (외국인 노동자의 유입) làm tăng Cung lao động (노동공급 증가 → đường cung lao động dịch chuyển sang phải), từ đó làm giảm mức tiền lương cân bằng trong ngắn hạn. Ngược lại, ①, ②, ④, ⑤ đều làm tăng Cầu lao động (노동수요 증가 → đường cầu lao động dịch chuyển sang phải) nên làm tăng tiền lương.",
+      "coreFormula": "외국인 노동자 유입 → 노동공급(L^S) 우측 이동 → 균형임금(W) 하락, 고용량(L) 증가",
+      "keyTerms": [
+        "노동시장",
+        "노동공급",
+        "노동수요",
+        "한계생산물가치"
+      ]
+    },
+    {
+      "examNumber": 22,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "아래에서 소득 불균등의 측정과 관련한 내용을 고르면?",
+      "questionVi": "Chọn các nội dung liên quan đến việc đo lường bất bình đẳng thu nhập dưới đây?",
+      "passageKo": "ㄱ. 지니계수\nㄴ. 로렌츠곡선\nㄷ. VIX지수\nㄹ. RBC비율",
+      "passageVi": "ㄱ. Hệ số Gini (지니계수)\nㄴ. Đường cong Lorenz (로렌츠곡선)\nㄷ. Chỉ số VIX (VIX지수)\nㄹ. Tỷ lệ RBC (RBC비율)",
+      "optionsKo": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "optionsVi": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Hệ số Gini (ㄱ. 지니계수) và Đường cong Lorenz (ㄴ. 로렌츠곡선) là hai công cụ tiêu biểu để đo lường mức độ bất bình đẳng trong phân phối thu nhập. ㄷ. VIX지수 là chỉ số đo lường độ biến động kỳ vọng của thị trường chứng khoán Mỹ (chỉ số sợ hãi), còn ㄹ. RBC비율 (Risk-Based Capital) là tỷ lệ vốn trên cơ sở rủi ro dùng để đánh giá khả năng thanh toán của công ty bảo hiểm.",
+      "coreFormula": "지니계수(Gini Coefficient) = 불평등 면적 / 삼각형 전체 면적 (0에 가까울수록 평등, 1에 가까울수록 불평등)",
+      "keyTerms": [
+        "지니계수",
+        "로렌츠곡선",
+        "소득 불균등"
+      ]
+    },
+    {
+      "examNumber": 23,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 4,
+      "questionKo": "연필공장 A의 연필은 하나에 100원이며, 하루 노동에 대한 임금은 1인당 1,000원이라고 하자. A공장의 생산이 아래 표와 같을 때, 이윤극대화를 위해 공장은 최대 몇 명의 근로자를 고용해야 하는가?",
+      "questionVi": "Giả sử mỗi chiếc bút chì của nhà máy A có giá 100 Won, và tiền lương lao động một ngày là 1.000 Won/người. Khi sản lượng của nhà máy A như bảng dưới đây, để tối đa hóa lợi nhuận thì nhà máy nên thuê tối đa bao nhiêu người lao động?",
+      "figureImageUrl": "/exam-figures/exam-86-q23.jpg",
+      "figureCaptionKo": "연필공장 A의 고용 근로자 수와 일간 생산량",
+      "figureCaptionVi": "Số lượng lao động thuê và sản lượng hàng ngày của nhà máy bút chì A",
+      "dataTable": {
+        "titleKo": "연필공장 A의 일간 생산량",
+        "titleVi": "Sản lượng hàng ngày của nhà máy bút chì A",
+        "source": "제86회 TESAT 기출문제",
+        "unit": "명, 개",
+        "headers": [
+          "고용 근로자 수",
+          "일간 생산량"
+        ],
+        "rows": [
+          {
+            "label": "0",
+            "values": [
+              0
+            ]
+          },
+          {
+            "label": "1",
+            "values": [
+              13
+            ]
+          },
+          {
+            "label": "2",
+            "values": [
+              28
+            ]
+          },
+          {
+            "label": "3",
+            "values": [
+              45
+            ]
+          },
+          {
+            "label": "4",
+            "values": [
+              61
+            ]
+          },
+          {
+            "label": "5",
+            "values": [
+              74
+            ]
+          },
+          {
+            "label": "6",
+            "values": [
+              84
+            ]
+          },
+          {
+            "label": "7",
+            "values": [
+              90
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "optionsVi": [
+        "2 người",
+        "3 người",
+        "4 người",
+        "5 người",
+        "6 người"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Điều kiện tối đa hóa lợi nhuận khi thuê lao động là Giá trị sản phẩm biên của lao động bằng Tiền lương danh nghĩa: VMPL = P × MPL = W. Với P = 100 Won và W = 1.000 Won, ta có MPL = W / P = 1.000 / 100 = 10 (chiếc). Tính năng suất biên (MPL) của từng lao động: người thứ 1 (13), người thứ 2 (15), người thứ 3 (17), người thứ 4 (16), người thứ 5 (13), người thứ 6 (84 - 74 = 10), người thứ 7 (90 - 84 = 6).Tại người lao động thứ 6, MPL = 10 (VMPL = 1.000 Won = W). Do đó nhà máy nên thuê tối đa 6 người.",
+      "coreFormula": "이윤극대화 고용 조건: VMPL(= P × MPL) = W → 100 × MPL = 1,000 → MPL = 10 (6명)",
+      "keyTerms": [
+        "한계생산물가치",
+        "이윤극대화",
+        "노동수요",
+        "한계생산력"
+      ]
+    },
+    {
+      "examNumber": 24,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "고용과 실업과 관련한 설명 중 옳은 것은?",
+      "questionVi": "Trong các phát biểu về việc làm và thất nghiệp sau đây, phát biểu nào ĐÚNG?",
+      "optionsKo": [
+        "자연실업률에 도달하더라도 물가상승 압력이 사라지지 않기 때문에 물가는 지속적으로 상승한다.",
+        "실업자가 구직활동을 포기하면, 실업률이 낮아진다.",
+        "경제활동참가율은 노동수요를 나타내는 지표이다.",
+        "로스쿨 진학을 준비하는 대학생은 실업자로 분류된다.",
+        "일반적으로 경기침체가 발생하면, 기업은 근로자의 근로시간을 단축하기보다는 해고를 먼저 한다."
+      ],
+      "optionsVi": [
+        "Ngay cả khi đạt đến tỷ lệ thất nghiệp tự nhiên, áp lực tăng giá vẫn không biến mất nên giá cả tiếp tục tăng.",
+        "Nếu người thất nghiệp từ bỏ hoạt động tìm việc thì tỷ lệ thất nghiệp sẽ giảm xuống.",
+        "Tỷ lệ tham gia lực lượng lao động là chỉ số phản ánh cầu lao động.",
+        "Sinh viên đại học đang chuẩn bị thi vào trường luật (Law school) được phân loại là người thất nghiệp.",
+        "Thông thường khi xảy ra suy thoái kinh tế, doanh nghiệp sẽ sa thải lao động trước thay vì rút ngắn thời gian làm việc."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Khi người thất nghiệp từ bỏ việc tìm kiếm việc làm (구직포기자 / 실망노동자), họ chuyển từ Lực lượng lao động (경제활동인구) sang Dân số không hoạt động kinh tế (비경제활동인구). Do tử số giảm mạnh hơn mẫu số trong công thức 실업률 = 실업자 / 경제활동인구, tỷ lệ thất nghiệp chính thức sẽ giảm xuống (② đúng). ① Sai vì tỷ lệ thất nghiệp tự nhiên là mức không làm gia tốc lạm phát (NAIRU). ③ Sai vì tỷ lệ tham gia lực lượng lao động phản ánh cung lao động. ④ Sai vì sinh viên ôn thi học lên cao thuộc 비경제활동인구. ⑤ Sai vì khi mới suy thoái, doanh nghiệp thường giảm giờ làm trước khi sa thải do chi phí tuyển dụng/sa thải.",
+      "coreFormula": "구직단념자(실망실업자) 발생 → 실업자에서 비경제활동인구로 이동 → 공식 실업률 하락",
+      "keyTerms": [
+        "실업률",
+        "실망노동자",
+        "경제활동참가율",
+        "자연실업률"
+      ]
+    },
+    {
+      "examNumber": 25,
+      "section": "THEORY",
+      "subcategory": "MICRO",
+      "points": 3,
+      "questionKo": "수요의 가격탄력성을 잘못 설명한 것은? (단, 재화는 정상재이다.)",
+      "questionVi": "Phát biểu nào giải thích SAI về độ co giãn của cầu theo giá? (Giả định hàng hóa là hàng thông thường.)",
+      "optionsKo": [
+        "수요곡선이 우하향하는 직각쌍곡선 모양이면 수요의 가격탄력성은 항상 1이 된다.",
+        "수요의 가격탄력성이 클수록 수요곡선은 수평선에 가까워진다.",
+        "수요의 가격탄력성이 0보다 크고 1보다 작으면 비탄력적이라고 한다.",
+        "가격 변화에 대해 수요량이 얼마나 민감하게 변하는지를 나타내는 지표이다.",
+        "수요의 가격탄력성이 1보다 큰 재화의 경우, 가격이 상승하면 해당 재화의 지출액이 증가한다."
+      ],
+      "optionsVi": [
+        "Nếu đường cầu có dạng hypebol vuông góc dốc xuống về bên phải thì độ co giãn của cầu theo giá luôn bằng 1.",
+        "Độ co giãn của cầu theo giá càng lớn thì đường cầu càng tiến gần đến đường nằm ngang.",
+        "Nếu độ co giãn của cầu theo giá lớn hơn 0 và nhỏ hơn 1 thì được gọi là kém co giãn (비탄력적).",
+        "Là chỉ số cho biết lượng cầu thay đổi nhạy cảm như thế nào trước sự thay đổi của giá.",
+        "Đối với hàng hóa có độ co giãn của cầu theo giá lớn hơn 1, khi giá tăng thì tổng chi tiêu cho hàng hóa đó sẽ tăng lên."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Khi độ co giãn của cầu theo giá lớn hơn 1 (탄력적, |Ed| > 1), tỷ lệ giảm của lượng cầu lớn hơn tỷ lệ tăng của giá. Do đó, khi giá tăng (P↑), lượng cầu giảm mạnh (Q↓↓) khiến tổng chi tiêu của người tiêu dùng (지출액 = P × Q, cũng chính là tổng doanh thu của người bán) GIẢM xuống chứ không phải tăng lên. Vì vậy ⑤ là phát biểu sai.",
+      "coreFormula": "|E_d| > 1 (탄력적): 가격(P) 상승 → 수요량(Q) 대폭 감소 → 총지출액(TR = P × Q) 감소",
+      "keyTerms": [
+        "수요의 가격탄력성",
+        "직각쌍곡선",
+        "총지출액",
+        "비탄력적"
+      ]
+    },
+    {
+      "examNumber": 26,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "중앙은행과 정부가 아래와 같은 정책을 실시할 경우 예상되는 효과가 아닌 것은?",
+      "questionVi": "Khi ngân hàng trung ương và chính phủ thực hiện các chính sách như dưới đây, đâu KHÔNG phải là hiệu quả được dự báo?",
+      "passageKo": "· 중앙은행이 국채를 매입하고 지급준비율을 내린다.\n· 정부는 기업과 가계에 대한 세율을 인하한다.",
+      "passageVi": "· Ngân hàng trung ương mua trái phiếu chính phủ và hạ tỷ lệ dự trữ bắt buộc.\n· Chính phủ hạ thuế suất đối với doanh nghiệp và hộ gia đình.",
+      "optionsKo": [
+        "소비가 증가한다.",
+        "인플레이션이 심화한다.",
+        "통화량이 증가한다.",
+        "부동산 거래가 증가한다.",
+        "기업의 투자심리가 악화한다."
+      ],
+      "optionsVi": [
+        "Tiêu dùng tăng lên.",
+        "Lạm phát trở nên trầm trọng hơn.",
+        "Cung tiền tăng lên.",
+        "Giao dịch bất động sản tăng lên.",
+        "Tâm lý đầu tư của doanh nghiệp xấu đi."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Ngân hàng trung ương mua trái phiếu chính phủ (공개시장 매입) và hạ tỷ lệ dự trữ bắt buộc (지급준비율 인하) là chính sách tiền tệ mở rộng; chính phủ giảm thuế (세율 인하) là chính sách tài khóa mở rộng. Sự kết hợp hai chính sách mở rộng này làm tăng cung tiền, giảm lãi suất, tăng thu nhập khả dụng, kích thích tiêu dùng, giao dịch bất động sản, đẩy áp lực lạm phát tăng lên và làm CẢI THIỆN (khuyến khích) tâm lý đầu tư của doanh nghiệp chứ không làm xấu đi (⑤ sai).",
+      "coreFormula": "확장적 통화정책(국채 매입·지준율 인하) + 확장적 재정정책(감세) → 통화량↑, 금리↓, 소비·투자↑, 물가↑",
+      "keyTerms": [
+        "공개시장조작",
+        "지급준비율",
+        "확장적 통화정책",
+        "감세정책"
+      ]
+    },
+    {
+      "examNumber": 27,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "아래 글에서 설명하는 개념은 무엇인가?",
+      "questionVi": "Khái niệm được giải thích trong đoạn văn dưới đây là gì?",
+      "passageKo": "한 나라의 경제가 물가를 자극하지 않으면서 노동과 자본 등의 생산요소를 완전히 사용하여 달성할 수 있는 최대 생산 수준",
+      "passageVi": "Mức sản lượng tối đa mà nền kinh tế của một quốc gia có thể đạt được khi sử dụng đầy đủ các yếu tố sản xuất như lao động và vốn mà không kích thích tăng giá (lạm phát).",
+      "optionsKo": [
+        "잠재GDP",
+        "명목GRDP",
+        "실질GNP",
+        "명목PPI",
+        "1인당 GNI"
+      ],
+      "optionsVi": [
+        "GDP 잠재 (잠재GDP - GDP tiềm năng)",
+        "GRDP danh nghĩa (명목GRDP)",
+        "GNP thực tế (실질GNP)",
+        "PPI danh nghĩa (명목PPI)",
+        "GNI bình quân đầu người (1인당 GNI)"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "GDP tiềm năng (잠재GDP - Potential GDP) là mức tổng sản phẩm quốc nội tối đa mà một nền kinh tế có thể đạt được một cách bền vững khi sử dụng toàn dụng các yếu tố sản xuất (vốn, lao động ở mức thất nghiệp tự nhiên) mà không gây ra áp lực lạm phát.",
+      "coreFormula": "GDP 갭(Gap) = 실질GDP - 잠재GDP (물가를 자극하지 않는 최대 생산 수준 = 잠재GDP)",
+      "keyTerms": [
+        "잠재GDP",
+        "완전고용",
+        "인플레이션"
+      ]
+    },
+    {
+      "examNumber": 28,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "영국의 경제학자 토머스 맬서스는 『인구론』에서 식량 증가 속도보다 인구 증가 속도가 더 빨라 인류는 총체적 빈곤상태에 빠질 것으로 예측했다. 하지만 현재 인류는 빈곤에 빠지지 않았다. 이때 맬서스가 간과한 것은 무엇인가?",
+      "questionVi": "Nhà kinh tế học người Anh Thomas Malthus trong tác phẩm 『Luận về dân số (인구론)』 đã dự đoán rằng tốc độ tăng dân số nhanh hơn tốc độ tăng lương thực nên nhân loại sẽ rơi vào tình trạng nghèo đói toàn diện. Tuy nhiên, hiện nay nhân loại đã không rơi vào cảnh nghèo đói đó. Điều mà Malthus đã bỏ sót ở đây là gì?",
+      "optionsKo": [
+        "빅맥지수",
+        "기술의 진보",
+        "중상주의",
+        "절대우위의 원리",
+        "파레토 법칙"
+      ],
+      "optionsVi": [
+        "Chỉ số Big Mac (빅맥지수)",
+        "Sự tiến bộ của công nghệ (기술의 진보)",
+        "Chủ nghĩa trọng thương (중상주의)",
+        "Nguyên lý lợi thế tuyệt đối (절대우위의 원리)",
+        "Quy luật Pareto (파레토 법칙)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Thomas Malthus cho rằng dân số tăng theo cấp số nhân còn lương thực chỉ tăng theo cấp số cộng (do quy luật năng suất biên giảm dần của đất đai), dẫn đến Bẫy Malthus (맬서스 트랩). Tuy nhiên, ông đã bỏ qua Sự tiến bộ của công nghệ (기술의 진보 - Technological Progress) trong nông nghiệp và công nghiệp giúp năng suất sản xuất lương thực tăng vượt bậc.",
+      "coreFormula": "맬서스 인구론의 한계: 기술의 진보(Technological Progress)를 통한 한계수확체감 극복을 간과",
+      "keyTerms": [
+        "맬서스 트랩",
+        "인구론",
+        "기술의 진보"
+      ]
+    },
+    {
+      "examNumber": 29,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "인플레이션으로 인해 발생하는 비용에 대한 설명으로 적절하지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG phù hợp khi nói về các chi phí phát sinh do lạm phát?",
+      "optionsKo": [
+        "인플레이션이 발생했을 때 세법은 자원배분을 왜곡한다.",
+        "인플레이션을 예상할 수 있다면 사회적 비용은 발생하지 않는다.",
+        "인플레이션율이 높아지면 화폐보유에 대한 기회비용이 증가한다.",
+        "통화량의 증가로 발생한 인플레이션은 장기적으로 고용과 산출량 등 실물변수에 영향을 미칠 수 없다.",
+        "인플레이션에 따른 가격조정이 모든 기업과 산업에 동일하지 않아서 자원배분의 비효율성이 생길 수 있다."
+      ],
+      "optionsVi": [
+        "Khi xảy ra lạm phát, luật thuế làm bóp méo sự phân bổ nguồn lực.",
+        "Nếu có thể dự đoán trước được lạm phát thì chi phí xã hội sẽ không phát sinh.",
+        "Khi tỷ lệ lạm phát tăng cao, chi phí cơ hội của việc nắm giữ tiền mặt tăng lên.",
+        "Lạm phát phát sinh do tăng cung tiền về dài hạn không thể ảnh hưởng đến các biến số thực như việc làm và sản lượng.",
+        "Sự điều chỉnh giá theo lạm phát không giống nhau ở mọi doanh nghiệp và ngành công nghiệp nên có thể gây ra sự kém hiệu quả trong phân bổ nguồn lực."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Ngay cả khi lạm phát được dự đoán trước hoàn toàn (예상된 인플레이션), xã hội vẫn phải gánh chịu nhiều chi phí như: Chi phí mòn giày (구두창비용 - do lãi suất danh nghĩa tăng làm tăng chi phí cơ hội giữ tiền), Chi phí thực đơn (메뉴비용 - chi phí thay đổi bảng giá), sự bóp méo của hệ thống thuế (조세왜곡) và sự biến동 giá tương đối. Do đó câu ② nói 'nếu dự đoán được lạm phát thì chi phí xã hội không phát sinh' là sai.",
+      "coreFormula": "예상된 인플레이션의 사회적 비용 = 구두창비용(Shoeleather cost) + 메뉴비용(Menu cost) + 조세왜곡 + 상대가격 왜곡",
+      "keyTerms": [
+        "인플레이션 비용",
+        "구두창비용",
+        "메뉴비용",
+        "화폐의 중립성"
+      ]
+    },
+    {
+      "examNumber": 30,
+      "section": "THEORY",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "아래 표는 거시경제변수들의 GDP와의 상관계수 및 표준편차를 계산한 것이다. 이와 관련한 <보기>의 설명으로 옳은 것을 모두 고르면? (단, 모든 변수들은 1인당 실질변수이고, y: GDP, c: 소비, i: 투자, g: 정부소비, x: 수출, m: 수입, σ는 표준편차를 나타냄.)",
+      "questionVi": "Bảng dưới đây tính toán hệ số tương quan với GDP và độ lệch chuẩn của các biến số kinh tế vĩ mô. Chọn tất cả các phát biểu ĐÚNG trong <보기> liên quan đến bảng này? (Giả định tất cả các biến đều là biến thực bình quân đầu người, y: GDP, c: tiêu dùng, i: đầu tư, g: chi tiêu chính phủ, x: xuất khẩu, m: nhập khẩu, σ là độ lệch chuẩn.)",
+      "passageKo": "<보기>\nㄱ. 소비와 투자는 경기순응적이다.\nㄴ. 투자는 소비에 비해 변동성이 크다.\nㄷ. 수출은 경기동행적이다.",
+      "passageVi": "<보기>\nㄱ. Tiêu dùng và đầu tư có tính thuận chu kỳ kinh tế (경기순응적).\nㄴ. Đầu tư có độ biến động lớn hơn so với tiêu dùng.\nㄷ. Xuất khẩu có tính đồng행 với chu kỳ kinh tế (경기동행적).",
+      "figureImageUrl": "/exam-figures/exam-86-q30.jpg",
+      "figureCaptionKo": "거시경제변수들의 GDP와의 상관계수 및 표준편차",
+      "figureCaptionVi": "Hệ số tương quan với GDP và độ lệch chuẩn của các biến số kinh tế vĩ mô",
+      "dataTable": {
+        "titleKo": "거시경제변수들의 GDP와의 상관계수 및 표준편차",
+        "titleVi": "Hệ số tương quan với GDP và độ lệch chuẩn của các biến số vĩ mô",
+        "source": "제86회 TESAT 기출문제",
+        "unit": "상관계수, 표준편차 비율",
+        "headers": [
+          "구분",
+          "y",
+          "c",
+          "i",
+          "g/y",
+          "x",
+          "m"
+        ],
+        "rows": [
+          {
+            "label": "GDP와의 상관계수",
+            "values": [
+              "1.00",
+              "0.47",
+              "0.90",
+              "-0.26",
+              "-0.25",
+              "0.34"
+            ]
+          },
+          {
+            "label": "표준편차 기준",
+            "values": [
+              "σ_y",
+              "σ_c/σ_y",
+              "σ_i/σ_y",
+              "σ_g/σ_y",
+              "σ_x/σ_y",
+              "σ_m/σ_y"
+            ]
+          },
+          {
+            "label": "표준편차 수치",
+            "values": [
+              "3.05",
+              "1.51",
+              "4.07",
+              "1.42",
+              "3.38",
+              "2.42"
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "ㄱ",
+        "ㄴ",
+        "ㄱ, ㄴ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "optionsVi": [
+        "ㄱ",
+        "ㄴ",
+        "ㄱ, ㄴ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "ㄱ. Đúng: Hệ số tương quan với GDP của tiêu dùng (c = 0.47 > 0) và đầu tư (i = 0.90 > 0) đều mang dấu dương (+), nghĩa là chúng biến động cùng chiều với GDP (경기순응적 - Procyclical). ㄴ. Đúng: Độ lệch chuẩn tương đối so với GDP của đầu tư (σ_i/σ_y = 4.07) lớn hơn nhiều so với tiêu dùng (σ_c/σ_y = 1.51), cho thấy đầu tư có độ biến động (변동성) lớn hơn tiêu dùng. ㄷ. Sai: Bảng chỉ cho biết hệ số tương quan cùng kỳ (trong đó x = -0.25 < 0 là ngược chu kỳ - 경기역행적), không cung cấp dữ liệu tương quan chéo theo độ trễ thời gian để kết luận tính 선행/동행/후행. Vậy ㄱ, ㄴ đúng (③).",
+      "coreFormula": "Corr(x, y) > 0: 경기순응적(c, i, m) / Corr(x, y) < 0: 경기역행적 / σ_i/σ_y(4.07) > σ_c/σ_y(1.51)",
+      "keyTerms": [
+        "경기순응적",
+        "경기역행적",
+        "상관계수",
+        "표준편차",
+        "경기변동"
+      ]
+    },
+    {
+      "examNumber": 31,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "‘이것’은 전기차 배터리 원가의 40% 안팎을 차지하는 핵심 구성 요소인 양극재에 채워져 전기를 생성하고 충전하는 역할을 한다. ‘이것’은 세계 매장량의 60%가 칠레·아르헨티나·볼리비아 일대에 집중돼 있다. 그중 상당량이 중국에서 가공돼 다시 세계 각국으로 공급된다. 그래서 ‘이것’ 국제 시세는 달러화가 아닌 위안화로 매겨지고 있다. 하얀 석유라고 불리는 ‘이것’은 무엇인가?",
+      "questionVi": "‘Thứ này’ được nạp vào vật liệu cực dương (양극재) — thành phần cốt lõi chiếm khoảng 40% giá thành pin xe điện — đóng vai trò tạo ra và sạc điện. 60% trữ lượng thế giới của ‘thứ này’ tập trung ở khu vực Chile, Argentina và Bolivia. Một lượng lớn trong số đó được tinh luyện tại Trung Quốc rồi cung cấp đi các nước. Vì vậy giá quốc tế của ‘thứ này’ được định giá bằng đồng Nhân dân tệ chứ không phải USD. ‘Thứ này’ được mệnh danh là ‘dầu mỏ trắng’ là gì?",
+      "optionsKo": [
+        "구리",
+        "니켈",
+        "철광석",
+        "망간",
+        "리튬"
+      ],
+      "optionsVi": [
+        "Đồng (구리)",
+        "Niken (니켈)",
+        "Quặng sắt (철광석)",
+        "Mangan (망간)",
+        "Lithium (리튬)"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Lithium (리튬) được mệnh danh là 'dầu mỏ trắng' (하얀 석유), là nguyên liệu thiết yếu để sản xuất cực dương (양극재) của pin sạc xe điện (이차전지). Khoảng 60% trữ lượng Lithium toàn cầu nằm ở 'Tam giác Lithium' gồm Chile, Argentina và Bolivia.",
+      "coreFormula": "하얀 석유(White Petroleum) + 리튬 삼각지대(칠레·아르헨티나·볼리비아) + 양극재 핵심 원료 = 리튬(Lithium)",
+      "keyTerms": [
+        "리튬",
+        "양극재",
+        "하얀 석유",
+        "전기차 배터리"
+      ]
+    },
+    {
+      "examNumber": 32,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "한때 테슬라가 전기차 주요 모델의 가격을 인하하면서 점유율을 늘려갔다. 이에 따라 경쟁업체들도 가격 인하 대열에 합류했었다. 이와 같은 상황을 설명할 수 있는 ‘이것’은 게임이론에서도 사용되는 용어로, 어느 한쪽이 무너질 때까지 출혈 경쟁을 하는 것이다. ‘이것’은 무엇인가?",
+      "questionVi": "Có thời điểm Tesla đã hạ giá các mẫu xe điện chủ lực để gia tăng thị phần. Theo đó, các đối thủ cạnh tranh cũng nhập cuộc hạ giá. ‘Thuật ngữ này’ có thể giải thích tình huống trên và cũng được sử dụng trong lý thuyết trò chơi, chỉ việc cạnh tranh đổ máu cho đến khi một bên sụp đổ. ‘Thuật ngữ này’ là gì?",
+      "optionsKo": [
+        "콜드게임",
+        "스윙전략",
+        "퍼펙트게임",
+        "집중화 전략",
+        "치킨게임"
+      ],
+      "optionsVi": [
+        "Called game (콜드게임)",
+        "Chiến lược Swing (스윙전략)",
+        "Perfect game (퍼펙트게임)",
+        "Chiến lược tập trung hóa (집중화 전략)",
+        "Trò chơi con gà (치킨게임 - Chicken game)"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Trò chơi con gà (치킨게임 - Chicken Game) trong lý thuyết trò chơi và kinh doanh mô tả cuộc cạnh tranh quyết liệt (như cuộc chiến hạ giá chịu lỗ trong ngành xe điện, bán dẫn), nơi không bên nào chịu nhượng bộ trước cho đến khi một bên phá sản hoặc cả hai cùng chịu thiệt hại nặng nề.",
+      "coreFormula": "치킨게임(Chicken Game): 양보 없는 극단적 출혈 가격 경쟁",
+      "keyTerms": [
+        "치킨게임",
+        "게임이론",
+        "출혈 경쟁"
+      ]
+    },
+    {
+      "examNumber": 33,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "지난 1월 10일 미국 증권거래위원회(SEC)가 11개 ‘이것’ 현물 상장지수펀드(ETF)의 상장과 거래를 승인했다. 이번 결정으로 가상화폐인 ‘이것’은 세계 최대 자본시장에서 제도권 자산으로 인정받게 되었다. 2009년 미국 중앙은행(Fed)이 금융위기에 대응하기 위해 양적완화를 시작한 시점에서 개발된 세계 최초의 가상화폐인 ‘이것’은 무엇인가?",
+      "questionVi": "Ngày 10 tháng 1 vừa qua, Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) đã phê duyệt việc niêm yết và giao dịch 11 quỹ hoán đổi danh mục (ETF) giao ngay của ‘thứ này’. Với quyết định này, đồng tiền ảo ‘này’ đã được công nhận là tài sản chính식 trên thị trường vốn lớn nhất thế giới. Là đồng tiền ảo đầu tiên trên thế giới được phát triển vào năm 2009 khi Cục Dự trữ Liên bang Mỹ (Fed) bắt đầu nới lỏng định lượng để ứng phó khủng hoảng tài chính, ‘thứ này’ là gì?",
+      "optionsKo": [
+        "포크배럴",
+        "비트코인",
+        "알트코인",
+        "하드포크",
+        "코인블루"
+      ],
+      "optionsVi": [
+        "Pork barrel (포크배럴)",
+        "Bitcoin (비트코인)",
+        "Altcoin (알트코인)",
+        "Hard fork (하드포크)",
+        "Coin blue (코인블루)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Bitcoin (비트코인) là đồng tiền mã hóa (가상화폐/암호화폐) đầu tiên trên thế giới do Satoshi Nakamoto tạo ra năm 2009. Vào ngày 10/1/2024, SEC Hoa Kỳ đã chính thức phê duyệt 11 quỹ ETF Bitcoin giao ngay (비트코인 현물 ETF).",
+      "coreFormula": "2009년 최초 개발 가상화폐 + 2024년 1월 미 SEC 현물 ETF 승인 = 비트코인(Bitcoin)",
+      "keyTerms": [
+        "비트코인",
+        "현물 ETF",
+        "가상화폐",
+        "양적완화"
+      ]
+    },
+    {
+      "examNumber": 34,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "<보기>에서 물가 수준을 측정하는 통계 지표를 모두 고르면?",
+      "questionVi": "Chọn tất cả các chỉ tiêu thống kê dùng để đo lường mức giá cả trong <보기>?",
+      "passageKo": "<보기>\nㄱ. NIM\nㄴ. PMI지수\nㄷ. CPI\nㄹ. PPI\nㅁ. GDP디플레이터\nㅂ. CES",
+      "passageVi": "<보기>\nㄱ. NIM\nㄴ. Chỉ số PMI (PMI지수)\nㄷ. CPI\nㄹ. PPI\nㅁ. Hệ số điều chỉnh GDP (GDP디플레이터)\nㅂ. CES",
+      "optionsKo": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㅁ, ㅂ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄹ, ㅂ",
+        "ㄷ, ㄹ, ㅁ"
+      ],
+      "optionsVi": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㅁ, ㅂ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄹ, ㅂ",
+        "ㄷ, ㄹ, ㅁ"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Các chỉ số đo lường mức giá cả (물가지수) bao gồm: ㄷ. CPI (Consumer Price Index - Chỉ số giá tiêu dùng), ㄹ. PPI (Producer Price Index - Chỉ số giá sản xuất), và ㅁ. GDP디플레이터 (Hệ số điều chỉnh GDP = 명목GDP / 실질GDP × 100). ㄱ. NIM (Net Interest Margin) là biên lãi ròng của ngân hàng; ㄴ. PMI (Purchasing Managers' Index) là chỉ số nhà quản trị mua hàng đo lường chu kỳ kinh doanh; ㅂ. CES là Triển lãm Điện tử Tiêu dùng (hoặc khảo sát việc làm).",
+      "coreFormula": "3대 물가지수 = 소비자물가지수(CPI) + 생산자물가지수(PPI) + GDP디플레이터",
+      "keyTerms": [
+        "소비자물가지수",
+        "생산자물가지수",
+        "GDP디플레이터",
+        "순이자마진"
+      ]
+    },
+    {
+      "examNumber": 35,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "7개 미국 빅테크(거대기술기업)를 뜻하는 ‘매그니피센트 7’의 전체 시가총액 규모가 전 세계 국가로는 두 번째에 해당한다는 분석이 나왔다. 이들 7개 기업의 전체 시총은 13조 달러로, G20 국가 중 시장 규모가 두 번째로 큰 중국(11조 달러)보다도 많았다. 이들보다 시장 규모가 큰 국가는 미국뿐이었다. 이때 매그니피센트 7에 속하지 않는 기업은?",
+      "questionVi": "Có phân tích cho thấy tổng quy mô vốn hóa thị trường của ‘Magnificent 7’ — chỉ 7 tập đoàn công nghệ khổng lồ (Big Tech) của Mỹ — đứng thứ hai thế giới nếu xét theo quy mô thị trường quốc gia. Tổng vốn hóa của 7 công ty này đạt 13 nghìn tỷ USD, lớn hơn cả Trung Quốc (11 nghìn tỷ USD). Doanh nghiệp nào sau đây KHÔNG thuộc nhóm Magnificent 7?",
+      "optionsKo": [
+        "애플",
+        "넷플릭스",
+        "아마존",
+        "알파벳",
+        "메타"
+      ],
+      "optionsVi": [
+        "Apple (애플)",
+        "Netflix (넷플릭스)",
+        "Amazon (아마존)",
+        "Alphabet (알파벳)",
+        "Meta (메타)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Nhóm 'Magnificent 7' (매그니피센트 7) dẫn dắt chứng khoán Mỹ bao gồm 7 tập đoàn: Apple (애플), Microsoft (마이크로소프트), Alphabet/Google (알파벳), Amazon (아마존), Nvidia (엔비디아), Meta (메타), và Tesla (테슬라). Netflix (넷플릭스) từng thuộc nhóm FAANG trước đây nhưng không nằm trong Magnificent 7.",
+      "coreFormula": "매그니피센트 7(M7) = 애플, 마이크로소프트, 알파벳, 아마존, 엔비디아, 메타, 테슬라 (넷플릭스 제외)",
+      "keyTerms": [
+        "매그니피센트 7",
+        "시가총액",
+        "빅테크"
+      ]
+    },
+    {
+      "examNumber": 36,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "기업이 임직원의 성과에 대한 보상을 위해 활용하는 제도로 가장 적절한 것은?",
+      "questionVi": "Chế độ nào sau đây là phù hợp nhất mà doanh nghiệp sử dụng để thưởng cho thành tích của cán bộ nhân viên?",
+      "optionsKo": [
+        "서머타임",
+        "워크아웃",
+        "디폴트",
+        "스톡옵션",
+        "패스트트랙"
+      ],
+      "optionsVi": [
+        "Giờ mùa hè (서머타임 - Daylight saving time)",
+        "Tái cơ cấu nợ (워크아웃 - Workout)",
+        "Vỡ nợ (디폴트 - Default)",
+        "Quyền chọn mua cổ phiếu (스톡옵션 - Stock option)",
+        "Quy trình xử lý nhanh (패스트트랙 - Fast track)"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Quyền chọn mua cổ phiếu (스톡옵션 - Stock Option / 주식매수선택권) là chế độ đãi ngộ theo thành tích, trong đó doanh nghiệp trao cho cán bộ nhân viên quyền được mua cổ phiếu của công ty với mức giá xác định trước sau một thời gian nhất định, giúp giải quyết vấn đề người đại diện (주인-대리인 문제).",
+      "coreFormula": "스톡옵션(Stock Option): 임직원 성과보상 제도 → 주인-대리인 문제(도덕적 해이) 완화",
+      "keyTerms": [
+        "스톡옵션",
+        "성과보상",
+        "주인-대리인 문제"
+      ]
+    },
+    {
+      "examNumber": 37,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "아래 인플레이션 용어와 이에 해당하는 내용을 짝지은 것 중 옳지 않은 것은?",
+      "questionVi": "Trong các cặp ghép thuật ngữ lạm phát và nội dung tương ứng dưới đây, cặp nào KHÔNG ĐÚNG?",
+      "passageKo": "㉠ 그리드플레이션 — A. 환경\n㉡ 에코플레이션 — B. 채소\n㉢ 베지플레이션 — C. 감자\n㉣ 칩플레이션 — D. 제품 수량 축소\n㉤ 슈링크플레이션 — E. 탐욕",
+      "passageVi": "㉠ Greedflation (그리드플레이션) — A. Môi trường (환경)\n㉡ Ecoflation (에코플레이션) — B. Rau củ (채소)\n㉢ Veggieflation (베지플레이션) — C. Khoai tây (감자)\n㉣ Cheapflation (칩플레이션) — D. Giảm số lượng/dung lượng sản phẩm (제품 수량 축소)\n㉤ Shrinkflation (슈링크플레이션) — E. Lòng tham (탐욕)",
+      "optionsKo": [
+        "㉠ - E",
+        "㉡ - A",
+        "㉢ - B",
+        "㉣ - C",
+        "㉤ - D"
+      ],
+      "optionsVi": [
+        "㉠ - E",
+        "㉡ - A",
+        "㉢ - B",
+        "㉣ - C",
+        "㉤ - D"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "㉠ Greedflation = Greed (탐욕 - E) + Inflation (doanh nghiệp lợi dụng lạm phát để tăng giá trục lợi). ㉡ Ecoflation = Ecology (환경 - A) + Inflation. ㉢ Veggieflation = Vegetable (채소 - B) + Inflation. ㉤ Shrinkflation = Shrink (제품 수량 축소 - D) + Inflation. Còn ㉣ 칩플레이션 (Cheapflation) là hiện tượng giá các mặt hàng giá rẻ (Cheap) tăng nhanh hơn hàng đắt tiền (hoặc Chipflation là lạm phát do giá chip bán dẫn), không phải là khoai tây (C. 감자 - 포테이토플레이션). Do đó ④ (㉣ - C) là sai.",
+      "coreFormula": "그리드플레이션(탐욕), 에코플레이션(환경), 베지플레이션(채소), 슈링크플레이션(용량 축소), 칩플레이션(저가품 가격 급등)",
+      "keyTerms": [
+        "그리드플레이션",
+        "에코플레이션",
+        "베지플레이션",
+        "슈링크플레이션",
+        "칩플레이션"
+      ]
+    },
+    {
+      "examNumber": 38,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "아래는 중국의 소비자물가 상승률 추이를 나타내고 있다. 전문가들은 중국의 경제상황에 대해 ‘이것’을 우려하고 있다. ‘이것’과 관련한 설명으로 옳지 않은 것은?",
+      "questionVi": "Biểu đồ dưới đây cho thấy xu hướng tỷ lệ tăng giá tiêu dùng của Trung Quốc. Các chuyên gia đang lo ngại về ‘hiện tượng này’ đối với tình hình kinh tế Trung Quốc. Phát biểu nào sau đây KHÔNG ĐÚNG về ‘hiện tượng này’?",
+      "figureImageUrl": "/exam-figures/exam-86-q38.jpg",
+      "figureCaptionKo": "중국 소비자물가 상승률 추이 (단위: %, 자료: 중국국가통계국)",
+      "figureCaptionVi": "Xu hướng tỷ lệ tăng giá tiêu dùng (CPI) của Trung Quốc (Đơn vị: %, Nguồn: Cục Thống kê Quốc gia Trung Quốc)",
+      "optionsKo": [
+        "‘이것’은 일반적으로 D의 공포라고 불린다.",
+        "‘이것’이 발생하면 단기 실질이자율은 하락한다.",
+        "유동성 함정이 발생하면 ‘이것’이 더 심화할 수 있다.",
+        "중앙은행은 ‘이것’에 대응하기 위해 국공채를 매입한다.",
+        "해당 사례가 지속적으로 이어진 것이 1990년대 시작된 일본의 장기불황이다."
+      ],
+      "optionsVi": [
+        "‘Hiện tượng này’ thường được gọi là nỗi sợ chữ D (D의 공포).",
+        "Khi ‘hiện tượng này’ xảy ra, lãi suất thực ngắn hạn sẽ giảm xuống.",
+        "Nếu xảy ra bẫy thanh khoản thì ‘hiện tượng này’ có thể trở nên trầm trọng hơn.",
+        "Ngân hàng trung ương mua trái phiếu chính phủ để ứng phó với ‘hiện tượng này’.",
+        "Trường hợp này kéo dài liên tục chính là cuộc suy thoái dài hạn của Nhật Bản bắt đầu từ thập niên 1990."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Biểu đồ cho thấy tỷ lệ tăng CPI của Trung Quốc liên tục âm (-0.3%, -0.5%, -0.8%), nên ‘hiện tượng này’ là Giảm phát (디플레이션 - Deflation, thường gọi là 'D의 공포'). Theo phương trình Fisher (r = i - π), khi xảy ra giảm phát (π < 0), lãi suất thực ngắn hạn (실질이자율 r) sẽ TĂNG lên (làm tăng gánh nặng nợ thực tế và thu hẹp đầu tư/tiêu dùng), chứ không phải giảm xuống. Do đó ② là phát biểu sai.",
+      "coreFormula": "디플레이션(Deflation, π < 0) → 실질이자율(r = i - π) 상승 → 소비·투자 위축 및 채무자 실질부담 증가",
+      "keyTerms": [
+        "디플레이션",
+        "실질이자율",
+        "유동성 함정",
+        "피셔방정식"
+      ]
+    },
+    {
+      "examNumber": 39,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "스마트폰 시장 점유율 측면에서 한국 A 기업은 미국 B 기업에 프리미엄폰 시장에 밀리고, 중저가 보급형 시장에서는 중국 C 기업에 쫓기는 상황이라고 가정하자. 이러한 상황을 무엇이라 부르는가?",
+      "questionVi": "Giả sử xét về thị phần điện thoại thông minh, doanh nghiệp A của Hàn Quốc bị doanh nghiệp B của Mỹ lấn át ở phân khúc điện thoại cao cấp, đồng thời bị doanh nghiệp C của Trung Quốc bám đuổi sát nút ở phân khúc phổ thông tầm trung - giá rẻ. Tình huống này được gọi là gì?",
+      "optionsKo": [
+        "왝더독",
+        "불스프레드",
+        "캐시카우",
+        "숏 커버링",
+        "넛 크래커"
+      ],
+      "optionsVi": [
+        "Wag the dog (왝더독)",
+        "Bull spread (불스프레드)",
+        "Cash cow (캐시카우)",
+        "Short covering (숏 커버링)",
+        "Nutcracker (넛 크래커)"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Hiệu ứng Kẹp hạt dẻ (넛 크래커 - Nutcracker) là thuật ngữ do Booz Allen Hamilton đưa ra năm 1997 để mô tả tình cảnh nền kinh tế hoặc doanh nghiệp Hàn Quốc bị kẹp ở giữa: một bên bị các nước tiên tiến (Mỹ, Nhật) dẫn trước về công nghệ/thương hiệu cao cấp, bên kia bị các nước đang phát triển (Trung Quốc) đuổi kịp về giá thành ở phân khúc phổ thông.",
+      "coreFormula": "넛 크래커(Nutcracker): 선진국(기술·프리미엄 우위)과 신흥국(가격경쟁력 우위) 사이에 끼여 압박받는 현상",
+      "keyTerms": [
+        "넛 크래커",
+        "왝더독",
+        "캐시카우",
+        "숏 커버링"
+      ]
+    },
+    {
+      "examNumber": 40,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "기업이 자금을 조달하는 방식은 직접금융과 간접금융으로 나뉜다. 이때 직접금융 방식이 아닌 것은?",
+      "questionVi": "Phương thức huy động vốn của doanh nghiệp được chia thành tài chính trực tiếp (직접금융) và tài chính gián tiếp (간접금융). Đâu KHÔNG phải là phương thức tài chính trực tiếp?",
+      "optionsKo": [
+        "은행대출",
+        "유상증자",
+        "기업공개(IPO)",
+        "전환사채 발행",
+        "신주인수권부사채 발행"
+      ],
+      "optionsVi": [
+        "Vay ngân hàng (은행대출)",
+        "Tăng vốn có thu tiền / Phát hành thêm cổ phiếu (유상증자)",
+        "Phát hành cổ phiếu lần đầu ra công chúng (기업공개 - IPO)",
+        "Phát hành trái phiếu chuyển đổi (전환사채 발행 - CB)",
+        "Phát hành trái phiếu kèm chứng quyền (신주인수권부사채 발행 - BW)"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Vay ngân hàng (① 은행대출) là phương thức tài chính gián tiếp (간접금융) thông qua định chế tài chính trung gian là ngân hàng. Trong khi đó, phát hành cổ phiếu mới (유상증자, IPO) và phát hành trái phiếu doanh nghiệp (전환사채 CB, 신주인수권부사채 BW) trên thị trường vốn đều là phương thức tài chính trực tiếp (직접금융).",
+      "coreFormula": "간접금융 = 은행대출 등 금융중개기관 차입 / 직접금융 = 주식(IPO, 유상증자) 및 채권(회사채, CB, BW) 발행",
+      "keyTerms": [
+        "직접금융",
+        "간접금융",
+        "유상증자",
+        "전환사채",
+        "신주인수권부사채"
+      ]
+    },
+    {
+      "examNumber": 41,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "MACRO",
+      "points": 3,
+      "questionKo": "아래의 식에서 (가), (나)에 들어갈 조합을 알맞게 짝지으면?",
+      "questionVi": "Trong công thức dưới đây, cặp từ nào điền vào (가) và (나) là phù hợp nhất?",
+      "passageKo": "경제고통지수 = (가) + (나)",
+      "passageVi": "Chỉ số khốn khổ kinh tế (경제고통지수) = (가) + (나)",
+      "optionsKo": [
+        "실업률 - 물가상승률",
+        "실업률 - 재정적자비율",
+        "실업률 - 합계출산율",
+        "국가부채율 - 합계출산율",
+        "국가부채율 - 물가상승률"
+      ],
+      "optionsVi": [
+        "Tỷ lệ thất nghiệp - Tỷ lệ lạm phát (실업률 - 물가상승률)",
+        "Tỷ lệ thất nghiệp - Tỷ lệ thâm hụt ngân sách",
+        "Tỷ lệ thất nghiệp - Tổng tỷ suất sinh",
+        "Tỷ lệ nợ công - Tổng tỷ suất sinh",
+        "Tỷ lệ nợ công - Tỷ lệ lạm phát"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Chỉ số khốn khổ kinh tế (경제고통지수 - Misery Index) do nhà kinh tế học người Mỹ Arthur Okun đề xuất nhằm đo lường mức độ khó khăn kinh tế mà người dân cảm nhận được, được tính bằng tổng của Tỷ lệ thất nghiệp (실업률) và Tỷ lệ lạm phát / tăng giá tiêu dùng (물가상승률).",
+      "coreFormula": "경제고통지수(Misery Index, 아서 오쿤) = 실업률(Unemployment Rate) + 소비자물가상승률(Inflation Rate)",
+      "keyTerms": [
+        "경제고통지수",
+        "실업률",
+        "물가상승률",
+        "아서 오쿤"
+      ]
+    },
+    {
+      "examNumber": 42,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "아래 신문기사의 내용을 바탕으로 알맞은 제목을 고르면?",
+      "questionVi": "Dựa vào nội dung bài báo dưới đây, hãy chọn tiêu đề phù hợp nhất?",
+      "passageKo": "미국의 물가 상승률이 둔화하는 가운데 경제성장률이 예상치를 뛰어넘었다. 26일 미 상무부는 12월 미국 개인소비지출(PCE) 가격지수가 전년 동기 대비 2.6% 상승했다고 발표했다. 금융조사회사 팩트셋이 집계한 전문가 전망치에 부합했다. 2021년 2월 이후 최저치이다. PCE 가격지수 상승률은 2022년 6월 7%로 최고점을 찍었다. … (중략) … 전날 발표된 지난해 4분기 미국 국내총생산(GDP) 증가율은 3.3%로 시장 예상치(2.0%)를 크게 웃돌았다. … (중략) … S&P500지수는 이날 전 거래일보다 0.53% 상승한 4894.16을 기록했다. 이는 2021년 11월 이후 가장 오랜 기간인 5거래일 연속 사상 최고치를 경신한 것이다.\n○○경제신문, 2024. 1. 27.",
+      "passageVi": "Trong bối cảnh tỷ lệ lạm phát của Mỹ đang chậm lại, tốc độ tăng trưởng kinh tế lại vượt xa mức dự báo. Ngày 26, Bộ Thương mại Mỹ công bố chỉ số giá chi tiêu tiêu dùng cá nhân (PCE) tháng 12 của Mỹ tăng 2,6% so với cùng kỳ năm trước, phù hợp với dự báo của giới chuyên gia và là mức thấp nhất kể từ tháng 2/2021. … (lược) … Tốc độ tăng GDP quý 4 năm ngoái của Mỹ được công bố hôm trước đạt 3,3%, vượt xa kỳ vọng của thị trường (2,0%). … (lược) … Chỉ số S&P500 đã tăng 0,53% lên mức 4894,16, lập kỷ lục cao nhất mọi thời đại trong 5 phiên giao dịch liên tiếp.\n○○Kinh tế Tân văn, 27/01/2024.",
+      "optionsKo": [
+        "리플레이션 벗어나는 미국",
+        "어닝쇼크 기록한 미국 주식시장",
+        "미국 경제 골디락스에 진입했나",
+        "블랙스완 나타난 미국 주식시장",
+        "물가와 경제성장 리파이낸싱 시작됐나"
+      ],
+      "optionsVi": [
+        "Nước Mỹ thoát khỏi Reflation (리플레이션)",
+        "Thị trường chứng khoán Mỹ ghi nhận cú sốc lợi nhuận (어닝쇼크)",
+        "Kinh tế Mỹ đã bước vào trạng thái Goldilocks (골디락스)?",
+        "Thiên nga đen (블랙스완) xuất hiện trên thị trường chứng khoán Mỹ",
+        "Tái cấp vốn (리파이낸싱) cho giá cả và tăng trưởng kinh tế đã bắt đầu?"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Nền kinh tế Goldilocks (골디락스 경제) chỉ trạng thái kinh tế lý tưởng ‘không quá nóng cũng không quá lạnh’: tốc độ tăng trưởng kinh tế cao vững chắc (GDP +3,3% vượt dự báo) nhưng lạm phát lại hạ nhiệt và ổn định (PCE hạ xuống 2,6%). Do đó tiêu đề phù hợp nhất là ③.",
+      "coreFormula": "골디락스 경제(Goldilocks Economy) = 고성장(High Growth) + 저물가(Low Inflation)",
+      "keyTerms": [
+        "골디락스",
+        "개인소비지출 가격지수",
+        "경제성장률"
+      ]
+    },
+    {
+      "examNumber": 43,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "지난 1월, ‘이 나라’ 총통 선거가 세계적 관심을 받았다. 미국과 중국의 대리전이기도 했기 때문이다. TSMC의 본사가 있는 ‘이 나라’는?",
+      "questionVi": "Vào tháng 1 vừa qua, cuộc bầu cử Tổng thống của ‘quốc gia/vùng lãnh thổ này’ đã thu hút sự quan tâm của toàn thế giới vì đây cũng là cuộc chiến ủy nhiệm giữa Mỹ và Trung Quốc. Nơi đặt trụ sở chính của TSMC là đâu?",
+      "optionsKo": [
+        "필리핀",
+        "태국",
+        "대만",
+        "베트남",
+        "싱가포르"
+      ],
+      "optionsVi": [
+        "Philippines (필리핀)",
+        "Thái Lan (태국)",
+        "Đài Loan (대만)",
+        "Việt Nam (베트남)",
+        "Singapore (싱가포르)"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "TSMC (Taiwan Semiconductor Manufacturing Company) — công ty đúc bán dẫn (파운드리) lớn nhất thế giới — có trụ sở chính tại Đài Loan (대만). Cuộc bầu cử Tổng thống (총통 선거) tháng 1/2024 tại Đài Loan thu hút sự chú ý toàn cầu trong bối cảnh cạnh tranh địa chính trị Mỹ - Trung.",
+      "coreFormula": "TSMC(세계 최대 반도체 파운드리 기업) 본사 + 총통 선거 = 대만(Taiwan)",
+      "keyTerms": [
+        "대만",
+        "TSMC",
+        "파운드리"
+      ]
+    },
+    {
+      "examNumber": 44,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "INTL",
+      "points": 4,
+      "questionKo": "주요 국제통화체제의 변천사를 시간순으로 알맞게 나열한 것은?",
+      "questionVi": "Thứ tự nào sau đây sắp xếp đúng theo dòng thời gian lịch sử biến đổi của các hệ thống tiền tệ quốc tế chính?",
+      "optionsKo": [
+        "킹스턴 체제 → 스미소니언 체제 → 브레턴우즈 체제",
+        "킹스턴 체제 → 브레턴우즈 체제 → 스미소니언 체제",
+        "브레턴우즈 체제 → 스미소니언 체제 → 킹스턴 체제",
+        "브레턴우즈 체제 → 킹스턴 체제 → 스미소니언 체제",
+        "스미소니언 체제 → 브레턴우즈 체제 → 킹스턴 체제"
+      ],
+      "optionsVi": [
+        "Hệ thống Kingston → Hệ thống Smithsonian → Hệ thống Bretton Woods",
+        "Hệ thống Kingston → Hệ thống Bretton Woods → Hệ thống Smithsonian",
+        "Hệ thống Bretton Woods → Hệ thống Smithsonian → Hệ thống Kingston",
+        "Hệ thống Bretton Woods → Hệ thống Kingston → Hệ thống Smithsonian",
+        "Hệ thống Smithsonian → Hệ thống Bretton Woods → Hệ thống Kingston"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Lịch sử hệ thống tiền tệ quốc tế sau Thế chiến II diễn ra theo thứ tự: 1) Hệ thống Bretton Woods (브레턴우즈 체제, 1944년): Bản vị hối đoái vàng (1 ounce vàng = 35 USD) và tỷ giá cố định có thể điều chỉnh. 2) Hệ thống Smithsonian (스미소니언 체제, 1971년 12월): Sau tuyên bố đình chỉ đổi USD ra vàng của Tổng thống Nixon (8/1971), các nước thỏa thuận phá giá USD (1 ounce vàng = 38 USD) và nới biên độ dao động tỷ giá lên ±2,25%. 3) Hệ thống Kingston (킹스턴 체제, 1976년): Chính thức废 bỏ bản vị vàng và công nhận chế độ tỷ giá hối đoái thả nổi (변동환율제).",
+      "coreFormula": "국제통화체제 변천: 브레턴우즈 체제(1944, 고정환율) → 스미소니언 체제(1971, 과도기) → 킹스턴 체제(1976, 변동환율)",
+      "keyTerms": [
+        "브레턴우즈 체제",
+        "스미소니언 체제",
+        "킹스턴 체제",
+        "국제통화체제"
+      ]
+    },
+    {
+      "examNumber": 45,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 4,
+      "questionKo": "은행의 위험관리와 관련하여 (A), (B)에 들어갈 알맞은 내용을 순서대로 짝지으면?",
+      "questionVi": "Liên quan đến quản trị rủi ro của ngân hàng, cặp từ nào điền vào (A) và (B) theo đúng thứ tự?",
+      "passageKo": "은행이 위험관리를 함에 있어 예상된 손실은 ( A )(으)로, 예상 밖의 손실은 ( B )(으)로 보전할 수 있어야 한다는 것이 일반적으로 적용되는 기본원칙이다.",
+      "passageVi": "Trong quản trị rủi ro của ngân hàng, nguyên tắc cơ bản thường được áp dụng là tổn thất dự kiến (예상된 손실) phải được bù đắp bằng ( A ), còn tổn thất ngoài dự kiến (예상 밖의 손실) phải được bù đắp bằng ( B ).",
+      "optionsKo": [
+        "(A) 자본 - (B) 충당금",
+        "(A) 자본 - (B) 부채",
+        "(A) 부채 - (B) 충당금",
+        "(A) 충당금 - (B) 자본",
+        "(A) 충당금 - (B) 부채"
+      ],
+      "optionsVi": [
+        "(A) Vốn chủ sở hữu (자본) - (B) Dự phòng (충당금)",
+        "(A) Vốn chủ sở hữu (자본) - (B) Nợ phải trả (부채)",
+        "(A) Nợ phải trả (부채) - (B) Dự phòng (충당금)",
+        "(A) Dự phòng (충당금) - (B) Vốn chủ sở hữu (자본)",
+        "(A) Dự phòng (충당금) - (B) Nợ phải trả (부채)"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Theo chuẩn mực quản trị rủi ro ngân hàng (Basel), Tổn thất dự kiến (예상된 손실 - Expected Loss, EL) là mức lỗ trung bình có thể xảy ra trong hoạt động tín dụng bình thường nên ngân hàng trích lập Khoản dự phòng rủi ro tín dụng (대손충당금 - A: 충당금) để bù đắp. Ngược lại, Tổn thất ngoài dự kiến (예상 밖의 손실 - Unexpected Loss, UL) vượt quá mức trung bình khi xảy ra khủng hoảng phải được hấp thụ bằng Vốn tự có / Vốn chủ sở hữu (자기자본 - B: 자본).",
+      "coreFormula": "은행 위험관리 기본원칙: 예상손실(EL) → 대손충당금(Provision)으로 보전 / 예상외손실(UL) → 자기자본(Capital)으로 보전",
+      "keyTerms": [
+        "예상손실",
+        "예상외손실",
+        "대손충당금",
+        "자기자본"
+      ]
+    },
+    {
+      "examNumber": 46,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "아래 지문의 (A)에 들어갈 알맞은 용어는?",
+      "questionVi": "Thuật ngữ phù hợp nhất để điền vào (A) trong đoạn văn dưới đây là gì?",
+      "passageKo": "코카콜라는 탄산음료 시장의 절대적 강자였다. 그 요인에는 ( A )의 위험에도 새로운 제품을 개발하여 지속적으로 출시한 점에 있다. 대표적으로 탄산음료의 유해성이 강조되기 시작하자 ‘다이어트 콜라’로 불리는 제로 코카콜라가 대표적이다. 제로 코카콜라는 출시 전만 해도 기존의 일반 콜라 영역을 잠식할 것으로 봤지만, 기존 고객에 더해 다이어트에 관심이 많은 고객까지 유입되고 시장 규모가 커지면서 ( A )(이)가 긍정적으로 작용한 사례로 인용되고 있다.",
+      "passageVi": "Coca-Cola vốn là kẻ mạnh tuyệt đối trên thị trường nước ngọt có ga. Một trong những nguyên nhân là bất chấp rủi ro ( A ), hãng vẫn liên tục phát triển và tung ra các sản phẩm mới. Điển hình là khi tác hại của nước ngọt có ga bắt đầu bị nhấn mạnh, hãng đã tung ra Coca-Cola Zero. Trước khi ra mắt, nhiều người cho rằng Coca-Cola Zero sẽ ăn mòn thị phần của Coca-Cola truyền thống, nhưng thực tế ngoài khách hàng cũ, sản phẩm còn thu hút thêm nhóm khách hàng quan tâm đến ăn kiêng, giúp quy mô thị trường mở rộng và được trích dẫn như một ví dụ mà ( A ) đã phát huy tác dụng tích cực.",
+      "optionsKo": [
+        "리스트럭처링",
+        "로그롤링",
+        "넛지마케팅",
+        "카니발리제이션",
+        "니치효과"
+      ],
+      "optionsVi": [
+        "Tái cấu trúc (리스트럭처링 - Restructuring)",
+        "Trao đổi phiếu bầu (로그롤링 - Logrolling)",
+        "Tiếp thị cú hích (넛지마케팅 - Nudge marketing)",
+        "Tự ăn thịt mình / Xâm lấn thị phần nội bộ (카니발리제이션 - Cannibalization)",
+        "Hiệu ứng thị trường ngách (니치효과 - Niche effect)"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Cannibalization (카니발리제이션 - 자기시장잠식) trong quản trị marketing chỉ hiện tượng sản phẩm mới của một doanh nghiệp làm giảm doanh số hoặc chiếm mất thị phần của chính sản phẩm hiện có của doanh nghiệp đó.",
+      "coreFormula": "카니발리제이션(Cannibalization, 자기시장잠식): 신제품 출시가 기존 자사 주력 제품의 시장을 잠식하는 현상",
+      "keyTerms": [
+        "카니발리제이션",
+        "자기시장잠식",
+        "신제품 출시"
+      ]
+    },
+    {
+      "examNumber": 47,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "미국과 영국은 지난해 말부터 ‘이곳’을 지나는 민간상선을 공격해온 예멘 후티 반군에 대한 공습에 나섰다. 이에 따라 코로나 19 대유행 이후 또다시 글로벌 물류 대란이 벌어질 수 있다는 우려가 커지고 있다. ‘이곳’은 수에즈 운하를 통행하려면 지나가야 하는 곳이다. ‘이곳’이 막히면 전 세계 무역량의 12%가 막히는 것이다. 아프리카 대륙과 아라비아 반도 사이에 있는 좁고 긴 바다인 ‘이곳’은 어디인가?",
+      "questionVi": "Mỹ và Anh đã tiến hành không kích lực lượng phiến quân Houthi ở Yemen — nhóm đã tấn công các tàu buôn dân sự đi qua ‘vùng biển này’ từ cuối năm ngoái. Theo đó, lo ngại về một cuộc khủng hoảng logistics toàn cầu mới lại dâng cao. ‘Nơi này’ là vùng biển bắt buộc phải đi qua nếu muốn lưu thông qua kênh đào Suez. Nếu ‘nơi này’ bị tắc nghẽn thì 12% lưu lượng thương mại toàn cầu sẽ bị chặn lại. Vùng biển hẹp và dài nằm giữa lục địa châu Phi và bán đảo Ả Rập này là đâu?",
+      "optionsKo": [
+        "사해",
+        "발트해",
+        "카스피해",
+        "흑해",
+        "홍해"
+      ],
+      "optionsVi": [
+        "Biển Chết (사해)",
+        "Biển Baltic (발트해)",
+        "Biển Caspi (카스피해)",
+        "Biển Đen (흑해)",
+        "Biển Đỏ / Hồng Hải (홍해)"
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Biển Đỏ / Hồng Hải (홍해 - Red Sea) nằm giữa lục địa châu Phi và bán đảo Ả Rập, nối Ấn Độ Dương (qua eo biển Bab el-Mandeb) với Địa Trung Hải (qua kênh đào Suez). Các cuộc tấn công của lực lượng Houthi (Yemen) tại Biển Đỏ đã gây gián đoạn nghiêm trọng chuỗi cung ứng hàng hải toàn cầu.",
+      "coreFormula": "수에즈 운하 연결 관문 + 아라비아 반도와 아프리카 사이 바다 + 예멘 후티 반군 사태 = 홍해(Red Sea)",
+      "keyTerms": [
+        "홍해",
+        "수에즈 운하",
+        "글로벌 공급망"
+      ]
+    },
+    {
+      "examNumber": 48,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "INTL",
+      "points": 3,
+      "questionKo": "국제무역에서 아래 나열한 정책의 목적과 같은 정책을 고르면?",
+      "questionVi": "Trong thương mại quốc tế, chính sách nào sau đây có cùng mục đích với các chính sách được liệt kê dưới đây?",
+      "passageKo": "· 쿼터 및 허가제\n· 무역기술장벽(TBT)\n· 위생·검역조치(SPS)",
+      "passageVi": "· Hạn ngạch (Quota) và chế độ cấp phép\n· Hàng rào kỹ thuật trong thương mại (TBT)\n· Các biện pháp kiểm dịch động thực vật (SPS)",
+      "optionsKo": [
+        "사이드카",
+        "북클로징",
+        "세이프가드",
+        "크롤링",
+        "윈도드레싱"
+      ],
+      "optionsVi": [
+        "Sidecar (사이드카)",
+        "Book closing (북클로징)",
+        "Biện pháp tự vệ thương mại (세이프가드 - Safeguard)",
+        "Crawling (크롤링)",
+        "Window dressing (윈도드레싱)"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Hạn ngạch (쿼터), Hàng rào kỹ thuật thương mại (TBT) và Biện pháp vệ sinh dịch tễ (SPS) đều là các Hàng rào phi quan세 (비관세장벽) nhằm hạn chế nhập khẩu, bảo hộ ngành sản xuất trong nước. Trong các phương án, Biện pháp tự vệ thương mại (③ 세이프가드 - Safeguard / 긴급수입제한조치) cũng là chính sách bảo hộ thương mại nhằm hạn chế nhập khẩu khẩn cấp khi hàng ngoại nhập tăng đột변 gây thiệt hại nghiêm trọng cho ngành công nghiệp nội địa.",
+      "coreFormula": "비관세장벽 및 보호무역 수단 = 수입쿼터, TBT, SPS, 세이프가드(긴급수입제한조치), 반덤핑관세, 상계관세",
+      "keyTerms": [
+        "세이프가드",
+        "비관세장벽",
+        "무역기술장벽",
+        "수입쿼터"
+      ]
+    },
+    {
+      "examNumber": 49,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 4,
+      "questionKo": "아래는 주요 선진국은 도입하고 있지만, 한국에서는 모두 도입되지 않은 제도를 나타내고 있다. ㉠~㉢과 관련한 설명 중 옳지 않은 것은?",
+      "questionVi": "Bảng dưới đây cho thấy các chế độ đã được các nước phát triển lớn áp dụng nhưng đều chưa được áp dụng tại Hàn Quốc. Trong các phát biểu liên quan đến ㉠~㉢, phát biểu nào KHÔNG ĐÚNG?",
+      "figureImageUrl": "/exam-figures/exam-86-q49.jpg",
+      "figureCaptionKo": "주요국의 경영권 방어 수단(㉠ 차등의결권, ㉡ 포이즌필, ㉢ 황금주) 도입 현황",
+      "figureCaptionVi": "Tình hình áp dụng các công cụ bảo vệ quyền quản trị (㉠ Quyền biểu quyết 차등, ㉡ Poison Pill, ㉢ Cổ phiếu vàng) tại các nước",
+      "dataTable": {
+        "titleKo": "주요국의 경영권 방어 제도 도입 현황",
+        "titleVi": "Tình hình áp dụng chế độ bảo vệ quyền quản trị ở các nước chính",
+        "source": "제86회 TESAT 기출문제",
+        "unit": "도입 여부(O/X)",
+        "headers": [
+          "구분",
+          "㉠ 차등의결권",
+          "㉡ 포이즌필",
+          "㉢ 황금주"
+        ],
+        "rows": [
+          {
+            "label": "한국",
+            "values": [
+              "×",
+              "×",
+              "×"
+            ]
+          },
+          {
+            "label": "미국",
+            "values": [
+              "○",
+              "○",
+              "○"
+            ]
+          },
+          {
+            "label": "일본",
+            "values": [
+              "○",
+              "○",
+              "○"
+            ]
+          },
+          {
+            "label": "프랑스",
+            "values": [
+              "○",
+              "○",
+              "○"
+            ]
+          },
+          {
+            "label": "영국",
+            "values": [
+              "○",
+              "×",
+              "○"
+            ]
+          },
+          {
+            "label": "독일",
+            "values": [
+              "×",
+              "○",
+              "○"
+            ]
+          },
+          {
+            "label": "이탈리아",
+            "values": [
+              "○",
+              "×",
+              "○"
+            ]
+          },
+          {
+            "label": "캐나다",
+            "values": [
+              "○",
+              "×",
+              "×"
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "세계적 투자회사 버크셔해서웨이는 워런 버핏 회장에게 일반주주의 200배에 해당하는 의결권을 부여한 것이 ㉠의 대표적인 사례이다.",
+        "원칙적으로 ㉠은 주주평등의 원칙에 위배되지만, ㉢은 주주평등의 원칙에 위배되지 않는다.",
+        "㉡은 적대적 인수합병 시도를 당한 기업이 기존 주주들에게 회사 주식을 시가보다 싼 가격에 매입할 수 있는 콜옵션을 부여한 것으로 해당 기업의 경영권 인수 비용을 높인다.",
+        "㉢보다 ㉡을 도입하지 않은 국가의 수(한국 포함)가 더 많다.",
+        "㉠~㉢과 같은 목적의 제도 중 하나가 황금낙하산이다."
+      ],
+      "optionsVi": [
+        "Việc công ty đầu tư toàn cầu Berkshire Hathaway trao cho Chủ tịch Warren Buffett quyền biểu quyết gấp 200 lần cổ đông thường là ví dụ điển hình của ㉠.",
+        "Về nguyên tắc, ㉠ vi phạm nguyên tắc bình đẳng cổ đông, nhưng ㉢ không vi phạm nguyên tắc bình đẳng cổ đông.",
+        "㉡ là việc doanh nghiệp bị tấn công M&A thù địch trao cho các cổ đông hiện hữu quyền chọn mua (call option) cổ phiếu công ty với giá rẻ hơn thị giá, qua đó làm tăng chi phí thâu tóm quyền quản trị của doanh nghiệp đó.",
+        "Số lượng quốc gia (bao gồm Hàn Quốc) chưa áp dụng ㉡ nhiều hơn so với ㉢.",
+        "Một trong những chế độ có cùng mục đích với ㉠~㉢ là Chiếc dù vàng (황금낙하산)."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Cả ㉠ Quyền biểu quyết chênh lệch (차등의결권 - một cổ phiếu có nhiều quyền biểu quyết) lẫn ㉢ Cổ phiếu vàng (황금주 - chỉ cần 1 cổ phiếu cũng có quyền phủ quyết các quyết định trọng đại hoặc M&A) đều là ngoại lệ đi ngược lại nguyên tắc ‘1 cổ phần - 1 quyền biểu quyết’ (1주 1의결권 / 주주평등의 원칙). Vì vậy câu ② nói ㉢ không vi phạm nguyên tắc bình đẳng cổ đông là SAI.",
+      "coreFormula": "경영권 방어 수단: 차등의결권(Dual-class stock), 포이즌필(Poison Pill, 신주인수선택권), 황금주(Golden Share), 황금낙하산(Golden Parachute)",
+      "keyTerms": [
+        "차등의결권",
+        "포이즌필",
+        "황금주",
+        "황금낙하산",
+        "적대적 M&A"
+      ]
+    },
+    {
+      "examNumber": 50,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "해운기업 중 한국 국적의 기업을 고르면?",
+      "questionVi": "Trong các hãng vận tải biển sau đây, hãy chọn doanh nghiệp mang quốc tịch Hàn Quốc?",
+      "optionsKo": [
+        "HMM",
+        "MSC",
+        "하파그로이드",
+        "머스크",
+        "에버그린"
+      ],
+      "optionsVi": [
+        "HMM",
+        "MSC",
+        "Hapag-Lloyd (하파그로이드)",
+        "Maersk (머스크)",
+        "Evergreen (에버그린)"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "HMM (trước đây là Hyundai Merchant Marine - 현대상선) là hãng tàu container quốc gia lớn nhất của Hàn Quốc. MSC (Thụy Sĩ/Ý), Maersk (Đan Mạch), Hapag-Lloyd (Đức), và Evergreen (Đài Loan) đều là các hãng tàu nước ngoài.",
+      "coreFormula": "한국 대표 국적 원양 해운사 = HMM (구 현대상선)",
+      "keyTerms": [
+        "HMM",
+        "해운기업",
+        "공급망"
+      ]
+    },
+    {
+      "examNumber": 51,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "핀란드와 스웨덴은 러시아의 우크라이나 침공 이후 안보 강화를 위해 2022년 5월 ‘이것’ 가입을 신청했다. 핀란드는 지난해 튀르키예 의회의 마지막 승인을 받아 31번째 ‘이것’ 회원국이 됐다. 스웨덴도 유럽연합(EU) 내 친(親) 러시아 국가인 헝가리 의회의 승인을 받아 32번째 ‘이것’ 회원국이 됐다. ‘이것’은 1949년 서유럽에 대한 옛 소련의 군사위협에 대응하기 위해 결성된 기구로 북대서양조약기구라고 불린다. ‘이것’의 영어 약자는?",
+      "questionVi": "Phần Lan và Thụy Điển đã nộp đơn xin gia nhập ‘tổ chức này’ vào tháng 5/2022 để tăng cường an ninh sau khi Nga tấn công Ukraine. Phần Lan đã trở thành thành viên thứ 31 và Thụy Điển trở thành thành viên thứ 32. ‘Tổ chức này’ được thành lập năm 1949 nhằm đối phó với mối đe dọa quân sự của Liên Xô cũ đối với Tây Âu và được gọi là Tổ chức Hiệp ước Bắc Đại Tây Dương. Tên viết tắt tiếng Anh của ‘tổ chức này’ là gì?",
+      "optionsKo": [
+        "NATO",
+        "NAFTA",
+        "IPEF",
+        "AUKUS",
+        "APEC"
+      ],
+      "optionsVi": [
+        "NATO",
+        "NAFTA",
+        "IPEF",
+        "AUKUS",
+        "APEC"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Tổ chức Hiệp ước Bắc Đại Tây Dương (북대서양조약기구) có tên viết tắt tiếng Anh là NATO (North Atlantic Treaty Organization). Phần Lan và Thụy Điển lần lượt trở thành thành viên thứ 31 và 32 của NATO.",
+      "coreFormula": "북대서양조약기구 = NATO (North Atlantic Treaty Organization)",
+      "keyTerms": [
+        "NATO",
+        "북대서양조약기구"
+      ]
+    },
+    {
+      "examNumber": 52,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "아래 신문기사를 읽고, 이와 같이 석유기업들의 행동을 사자성어로 무엇이라 하는가?",
+      "questionVi": "Đọc bài báo dưới đây và cho biết hành động của các công ty dầu khí như vậy được gọi bằng thành ngữ bốn chữ (사자성어) nào?",
+      "passageKo": "석유업계에서는 최근 몇 달 새 텍사스주 최대 유전 지역인 퍼미안 분지를 둘러싼 기업 간 인수·합병이 활발하다. 지난해 10월 엑슨모빌이 600억 달러에 파이어니어내추럴리소시스를 인수한 데 이어 셰브런이 530억 달러에 헤스코퍼레이션을 사들였다. 두 달 뒤에는 옥시덴털페트롤리엄이 120억 달러에 크라운록을 샀고 올해 들어선 체사피크에너지가 74억 달러에 천연가스 기업 사우스웨스턴에너지를 매입했다.\n○○경제신문, 2024. 2. 14.",
+      "passageVi": "Trong ngành dầu khí, vài tháng gần đây hoạt động mua bán và sáp nhập (M&A) giữa các doanh nghiệp xoay quanh lưu vực Permian — vùng mỏ dầu lớn nhất bang Texas — đang diễn ra hết sức sôi동. Tiếp sau việc ExxonMobil mua lại Pioneer Natural Resources với giá 60 tỷ USD vào tháng 10 năm ngoái, Chevron đã mua Hess Corporation với giá 53 tỷ USD. Hai tháng sau, Occidental Petroleum mua CrownRock với giá 12 tỷ USD và bước sang năm nay Chesapeake Energy đã mua lại công ty khí đốt tự nhiên Southwestern Energy với giá 7,4 tỷ USD.\n○○Kinh tế Tân văn, 14/02/2024.",
+      "optionsKo": [
+        "견원지간",
+        "유비무환",
+        "독야청청",
+        "합종연횡",
+        "암구명촉"
+      ],
+      "optionsVi": [
+        "견원지간 (Khuyển viên chi gian - Quan hệ như chó với khỉ)",
+        "유비무환 (Hữu bị vô hoạn - Có chuẩn bị thì không lo)",
+        "독야청청 (Độc dã thanh thanh - Một mình giữ vẻ thanh cao)",
+        "합종연횡 (Hợp tung liên hoành - Liên kết, sáp nhập theo lợi ích)",
+        "암구명촉 (Ám구 minh chúc)"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Hợp tung liên hoành (합종연횡 - 合從連衡) bắt nguồn từ chiến lược ngoại giao/liên minh thời Chiến Quốc ở Trung Quốc, ngày nay thường được báo chí kinh tế Hàn Quốc dùng để chỉ việc các doanh nghiệp liên kết, liên doanh hoặc mua bán sáp nhập (M&A) sôi động nhằm mở rộng thế lực và bảo vệ lợi ích.",
+      "coreFormula": "합종연횡(合從連衡): 세력 확장 및 이해관계에 따른 기업 간 활발한 인수·합병(M&A) 및 전략적 제휴",
+      "keyTerms": [
+        "합종연횡",
+        "인수합병"
+      ]
+    },
+    {
+      "examNumber": 53,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "아래 사진과 같이 수익성 있는 사업을 무조건 자기 지역에 유치하려는 행위를 무엇이라 하는가?",
+      "questionVi": "Hành vi tìm mọi cách thu hút các dự án có lợi nhuận về địa phương mình như trong bức ảnh dưới đây được gọi là gì?",
+      "figureImageUrl": "/exam-figures/exam-86-q53.jpg",
+      "figureCaptionKo": "김포한강2 콤팩트시티 및 지하철 5호선 김포연장 유치 환영 현수막",
+      "figureCaptionVi": "Băng rôn chào mừng dự án khu đô thị mới Gimpo Hangang 2 và kéo dài tuyến tàu điện ngầm số 5 về Gimpo",
+      "optionsKo": [
+        "욜로(YOLO)",
+        "핌피(PIMFY)",
+        "노마드(NOMAD)",
+        "니트(NEET)",
+        "딩크(DINK)"
+      ],
+      "optionsVi": [
+        "YOLO (욜로)",
+        "PIMFY (핌피)",
+        "NOMAD (노마드)",
+        "NEET (니트)",
+        "DINK (딩크)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "PIMFY (핌피 - Please In My Front Yard) là hiện tượng chủ nghĩa vị kỷ địa phương muốn thu hút bằng được các cơ sở hạ tầng, tuyến tàu điện ngầm, cơ quan công quyền hoặc dự án mang lại lợi ích kinh tế về địa phương mình (ngược lại với NIMBY - Not In My Back Yard là từ chối các cơ sở gây ô nhiễm/không mong muốn).",
+      "coreFormula": "핌피(PIMFY, Please In My Front Yard): 선호시설 유치 지역이기주의 vs 님비(NIMBY, Not In My Back Yard): 기피시설 반대",
+      "keyTerms": [
+        "핌피",
+        "님비",
+        "지역이기주의"
+      ]
+    },
+    {
+      "examNumber": 54,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "한국거래소는 유가증권시장 종목에서 ‘이것’을 기준으로 상위 1~100위는 대형주, 101~300위는 중형주, 나머지는 소형주로 분류한다. ‘이것’은 무엇인가?",
+      "questionVi": "Sở Giao dịch Chứng khoán Hàn Quốc (KRX) phân loại các mã cổ phiếu trên thị trường chứng khoán có giá (KOSPI) dựa theo ‘tiêu chí này’: từ hạng 1~100 là cổ phiếu vốn hóa lớn (대형주), hạng 101~300 là cổ phiếu vốn hóa vừa (중형주), và phần còn lại là cổ phiếu vốn hóa nhỏ (소형주). ‘Tiêu chí này’ là gì?",
+      "optionsKo": [
+        "시가총액",
+        "배당금",
+        "매출",
+        "영업이익",
+        "감가상각"
+      ],
+      "optionsVi": [
+        "Vốn hóa thị trường (시가총액)",
+        "Cổ tức (배당금)",
+        "Doanh thu (매출)",
+        "Lợi nhuận hoạt động (영업이익)",
+        "Khấu hao (감가상각)"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Sở Giao dịch Chứng khoán Hàn Quốc (한국거래소 - KRX) phân loại cổ phiếu thành 대형주 (Large-cap, top 1~100), 중형주 (Mid-cap, top 101~300) và 소형주 (Small-cap, từ 301 trở đi) dựa trên quy mô Vốn hóa thị trường (시가총액 = 주가 × 상장주식수).",
+      "coreFormula": "시가총액(Market Cap) = 주가 × 발행주식수 (유가증권시장 1~100위: 대형주, 101~300위: 중형주, 301위~: 소형주)",
+      "keyTerms": [
+        "시가총액",
+        "대형주",
+        "중형주",
+        "소형주"
+      ]
+    },
+    {
+      "examNumber": 55,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "CURRENT_ISSUES",
+      "points": 3,
+      "questionKo": "아래 광고 문구 내용 때문에 해당 기업은 ‘이것’ 논란에 휘말렸다. LNG 자체가 친환경이 아님에도 광고를 통해 친환경적인 것처럼 홍보했다는 것이다. 이때 ‘이것’을 무엇이라 하는가?",
+      "questionVi": "Vì nội dung câu quảng cáo dưới đây mà doanh nghiệp liên quan đã vướng vào tranh cãi về ‘hành vi này’. Dù bản thân khí tự nhiên hóa lỏng (LNG) không phải là năng lượng xanh hoàn toàn nhưng doanh nghiệp lại quảng bá như thể nó thân thiện với môi trường. ‘Hành vi này’ được gọi là gì?",
+      "passageKo": "‘탄소 없는 친환경 LNG 시대를 연다.’",
+      "passageVi": "‘Mở ra kỷ nguyên LNG thân thiện với môi trường không carbon.’",
+      "optionsKo": [
+        "그린카운티",
+        "그린벨트",
+        "그린북",
+        "그린워싱",
+        "그린론"
+      ],
+      "optionsVi": [
+        "Green County (그린카운티)",
+        "Vành đai xanh (그린벨트 - Green belt)",
+        "Sách Xanh (그린북 - Green book)",
+        "Tẩy xanh (그린워싱 - Greenwashing)",
+        "Khoản vay xanh (그린론 - Green loan)"
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Tẩy xanh (그린워싱 - Greenwashing, ghép từ Green + Whitewashing) là hành vi doanh nghiệp đánh bóng tên tuổi giả tạo về mặt môi trường: thực chất sản phẩm/quy trình vẫn phát thải ô nhiễm nhưng lại quảng cáo phóng đại như thể hoàn toàn thân thiện với môi trường để thu hút người tiêu dùng.",
+      "coreFormula": "그린워싱(Greenwashing, 위장환경주의): 친환경적이지 않은 제품을 친환경적인 것처럼 과장·허위 홍보하는 행위",
+      "keyTerms": [
+        "그린워싱",
+        "ESG",
+        "친환경"
+      ]
+    },
+    {
+      "examNumber": 56,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 4,
+      "questionKo": "국제결제은행(BIS)이 발표한 자료에 따르면 한국의 지난해 2분기 말 총부채는 5,956조 원, 국내총생산(GDP) 대비 총부채 비율은 273.1%를 기록하며 경제협력개발기구(OECD) 회원국 중 전년 동기 대비 부채가 증가한 유일한 나라가 되었다. 이 때문에 과다한 부채를 축소해야 하는 상황이다. 이때 아래 보기 중 부채 축소와 관련한 용어로 가장 관련이 적은 것은?",
+      "questionVi": "Theo tài liệu do Ngân hàng Thanh toán Quốc tế (BIS) công bố, tổng nợ của Hàn Quốc tính đến cuối quý 2 năm ngoái đạt 5.956 nghìn tỷ Won, tỷ lệ tổng nợ trên GDP đạt 273,1%, trở thành quốc gia duy nhất trong khối OECD có nợ tăng so với cùng kỳ năm trước. Vì vậy cần phải cắt giảm khoản nợ quá mức. Trong các thuật ngữ dưới đây, thuật ngữ nào ÍT liên quan nhất đến việc giảm nợ?",
+      "optionsKo": [
+        "테이퍼링",
+        "신용거래융자 잔고 상승",
+        "디레버리징",
+        "기준금리 인상",
+        "총부채원리금상환비율(DSR) 금리 상향"
+      ],
+      "optionsVi": [
+        "Tapering (테이퍼링 - Thu hẹp nới lỏng định lượng)",
+        "Số dư cho vay giao dịch ký quỹ tăng lên (신용거래융자 잔고 상승)",
+        "Deleveraging (디레버리징 - Giảm đòn bẩy nợ)",
+        "Tăng lãi suất cơ bản (기준금리 인상)",
+        "Tăng lãi suất tính Tỷ lệ trả nợ gốc và lãi trên tổng thu nhập (DSR)"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Số dư cho vay giao dịch ký quỹ tăng lên (② 신용거래융자 잔고 상승) nghĩa là các nhà đầu tư vay thêm tiền từ công ty chứng khoán để mua cổ phiếu ('빚투' - đầu tư bằng tiền vay), tức là làm TĂNG nợ chứ không phải giảm nợ. Ngược lại, 디레버리징 (giảm đòn bẩy/trả nợ), 테이퍼링 (thu hẹp bơm thanh khoản), 기준금리 인상 (tăng lãi suất), và siết DSR đều liên quan đến thắt chặt tín dụng và giảm nợ.",
+      "coreFormula": "디레버리징(Deleveraging) = 부채 축소 ↔ 신용거래융자 잔고 상승 = 레버리지(차입 투자) 확대",
+      "keyTerms": [
+        "디레버리징",
+        "신용거래융자",
+        "총부채원리금상환비율",
+        "테이퍼링"
+      ]
+    },
+    {
+      "examNumber": 57,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 4,
+      "questionKo": "아래 신문기사를 읽고, 밑줄 친 회사와 같은 기관을 영어 약자로 무엇이라 하는가?",
+      "questionVi": "Đọc bài báo dưới đây và cho biết tổ chức giống như công ty được gạch chân được viết tắt bằng tiếng Anh là gì?",
+      "passageKo": "두산인베스트먼트는 (주)두산, 두산에너빌리티, 두산밥캣, 두산테스나, 두산로보틱스 등 5개 계열사로부터 200억 원씩 출자받았다고 8일 밝혔다. 펀드명은 ‘두산신기술투자조합 1호’로 정했다. 두산그룹은 이를 통해 투자수익을 내기 위해서가 아니다. 펀드자금을 로봇(두산로보틱스), 반도체(두산테스나) 등 계열사와 시너지를 낼 수 있는 스타트업 등에 투자할 계획이어서다.\n○○경제신문, 2024. 2. 9.",
+      "passageVi": "Doosan Investment ngày 8 cho biết đã nhận góp vốn mỗi nơi 20 tỷ Won từ 5 công ty thành viên gồm Doosan Corp, Doosan Enerbility, Doosan Bobcat, Doosan Tesna và Doosan Robotics. Tên quỹ được đặt là ‘Hợp tác xã Đầu tư Công nghệ mới Doosan số 1’. Tập đoàn Doosan làm việc này không phải chỉ để kiếm lợi nhuận đầu tư tài chính, mà có kế hoạch đầu tư nguồn vốn quỹ vào các startup có thể tạo ra hiệu ứng cộng hưởng (synergy) với các công ty thành viên như robot (Doosan Robotics) và bán dẫn (Doosan Tesna).\n○○Kinh tế Tân văn, 09/02/2024.",
+      "optionsKo": [
+        "EMP",
+        "MMF",
+        "CVC",
+        "MBA",
+        "CTO"
+      ],
+      "optionsVi": [
+        "EMP",
+        "MMF",
+        "CVC",
+        "MBA",
+        "CTO"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "CVC (Corporate Venture Capital - 기업주도형 벤처캐피털) là quỹ đầu tư mạo hiểm do một tập đoàn phi tài chính trực tiếp thành lập và rót vốn nhằm đầu tư vào các công ty khởi nghiệp (startup) có tiềm năng tạo ra sự cộng hưởng chiến lược (시너지) hoặc công nghệ mới cho tập đoàn mẹ.",
+      "coreFormula": "CVC(Corporate Venture Capital, 기업주도형 벤처캐피털): 모기업과 전략적 시너지를 내는 스타트업에 투자하는 기업 산하 VC",
+      "keyTerms": [
+        "CVC",
+        "기업주도형 벤처캐피털",
+        "스타트업"
+      ]
+    },
+    {
+      "examNumber": 58,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "FINANCE_STRATEGY",
+      "points": 3,
+      "questionKo": "자산에 투자할 때, ‘하이 리스크, 하이 리턴(high risk, high return)’이라는 말이 있다. 이 의미에 따라, 고위험 고수익을 추구하는 투자자가 가장 선호할 만한 금융상품은 무엇인가?",
+      "questionVi": "Khi đầu tư tài sản, có câu ‘Rủi ro cao, lợi nhuận cao (high risk, high return)’. Theo ý nghĩa này, sản phẩm tài chính nào sau đây sẽ được nhà đầu tư theo đuổi rủi ro cao - lợi nhuận cao ưa chuộng nhất?",
+      "optionsKo": [
+        "보통예금",
+        "정기적금",
+        "파생결합증권",
+        "저축연금",
+        "CMA"
+      ],
+      "optionsVi": [
+        "Tiền gửi thông thường (보통예금)",
+        "Tiền gửi tiết kiệm định kỳ (정기적금)",
+        "Chứng khoán phái sinh liên kết (파생결합증권 - ELS/DLS)",
+        "Lương hưu tiết kiệm (저축연금)",
+        "Tài khoản quản lý tiền mặt (CMA)"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Chứng khoán phái sinh liên kết (③ 파생결합증권, chẳng hạn như ELS - Equity Linked Securities và DLS - Derivative Linked Securities) là sản phẩm đầu tư tài chính có lợi suất gắn liền với biến động giá của tài sản cơ sở (chỉ số chứng khoán, cổ phiếu, giá dầu...), có nguy cơ mất vốn gốc nhưng mang lại kỳ vọng lợi nhuận cao (고위험·고수익). Trong khi đó 보통예금, 정기적금, 저축연금, CMA đều là các sản phẩm an toàn, rủi ro thấp.",
+      "coreFormula": "고위험·고수익(High Risk, High Return) 금융상품 = 주식, 파생상품, 파생결합증권(ELS·DLS)",
+      "keyTerms": [
+        "파생결합증권",
+        "하이 리스크 하이 리턴",
+        "CMA"
+      ]
+    },
+    {
+      "examNumber": 59,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "MACRO",
+      "points": 4,
+      "questionKo": "다음은 경제학 발전 과정에 지대한 영향을 미친 학자들의 생각을 단적으로 표현한 문장이다. <보기>에서 ㉠과 ㉡을 언급한 경제학자를 알맞게 짝지으면?",
+      "questionVi": "Dưới đây là những câu nói thể hiện cô đọng tư tưởng của các học giả có ảnh hưởng to lớn đến quá trình phát triển kinh tế học. Hãy ghép đúng nhà kinh tế học đã nói câu ㉠ và ㉡ trong <보기>?",
+      "passageKo": "<보기>\n㉠ cool head but warm heart\n㉡ Inflation is always and everywhere a monetary phenomenon.",
+      "passageVi": "<보기>\n㉠ Một cái đầu lạnh nhưng một trái tim ấm áp (cool head but warm heart)\n㉡ Lạm phát luôn luôn và ở mọi nơi là một hiện tượng tiền tệ (Inflation is always and everywhere a monetary phenomenon).",
+      "optionsKo": [
+        "㉠ 알프레드 마샬 - ㉡ 밀턴 프리드먼",
+        "㉠ 어빙 피셔 - ㉡ 제임스 토빈",
+        "㉠ 아서 래퍼 - ㉡ 조지 스티글리츠",
+        "㉠ 애덤 스미스 - ㉡ 데이비드 리카도",
+        "㉠ 클로디아 골딘 - ㉡ 벤 버냉키"
+      ],
+      "optionsVi": [
+        "㉠ Alfred Marshall - ㉡ Milton Friedman",
+        "㉠ Irving Fisher - ㉡ James Tobin",
+        "㉠ Arthur Laffer - ㉡ Joseph Stiglitz",
+        "㉠ Adam Smith - ㉡ David Ricardo",
+        "㉠ Claudia Goldin - ㉡ Ben Bernanke"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "㉠ 'Cool head, but warm heart' (차가운 머리 그러나 따뜻한 가슴) là câu nói nổi tiếng của Alfred Marshall (알프레드 마샬 — người đặt nền móng cho kinh tế học tân cổ điển) trong bài diễn văn nhậm chức tại Đại học Cambridge năm 1885. ㉡ 'Inflation is always and everywhere a monetary phenomenon' (인플레이션은 언제 어디서나 화폐적 현상이다) là mệnh đề kinh điển của Milton Friedman (밀턴 프리드먼 — lãnh tụ trường phái Trọng tiền / 통화주의 학파).",
+      "coreFormula": "알프레드 마샬(신고전학파): '차가운 머리, 따뜻한 가슴' / 밀턴 프리드먼(통화주의): '인플레이션은 언제 어디서나 화폐적 현상'",
+      "keyTerms": [
+        "알프레드 마샬",
+        "밀턴 프리드먼",
+        "통화주의",
+        "신고전학파"
+      ]
+    },
+    {
+      "examNumber": 60,
+      "section": "CURRENT_AFFAIRS",
+      "subcategory": "INTL",
+      "points": 4,
+      "questionKo": "아래 표는 관세청에서 발표한 ‘24년 1월 수출입 현황’ 보도 자료에서 발췌한 것이다. 이와 관련한 설명 중 옳지 않은 것은? (증감 표기는 전년 동기 대비 기준이다.)",
+      "questionVi": "Bảng dưới đây được trích từ thông cáo báo chí ‘Tình hình xuất nhập khẩu tháng 1 năm 2024’ do Tổng cục Hải quan công bố. Phát biểu nào sau đây KHÔNG ĐÚNG? (Ký hiệu tăng/giảm trong ngoặc được tính so với cùng kỳ năm trước.)",
+      "figureImageUrl": "/exam-figures/exam-86-q60.jpg",
+      "figureCaptionKo": "1월 수출입실적(통관기준 잠정치) (단위: 백만 달러, %)",
+      "figureCaptionVi": "Kết quả xuất nhập khẩu tháng 1 (Số liệu tạm tính theo tiêu chuẩn thông quan) (Đơn vị: Triệu USD, %)",
+      "dataTable": {
+        "titleKo": "<1월 수출입실적(통관기준 잠정치)>",
+        "titleVi": "Kết quả xuất nhập khẩu tháng 1 (Tạm tính theo thông quan)",
+        "source": "관세청",
+        "unit": "백만 달러, %",
+        "headers": [
+          "구분",
+          "2023년 1월",
+          "2023년 12월",
+          "2023년 1~2월",
+          "2024년 1월"
+        ],
+        "rows": [
+          {
+            "label": "수출",
+            "values": [
+              "46,343 (-16.4)",
+              "57,614 (5.0)",
+              "632,384 (-7.5)",
+              "54,689 (㉠)"
+            ]
+          },
+          {
+            "label": "수입",
+            "values": [
+              "59,002 (-2.6)",
+              "53,157 (-10.8)",
+              "642,593 (-12.1)",
+              "54,391 (㉡)"
+            ]
+          },
+          {
+            "label": "무역수지",
+            "values": [
+              "-12,658",
+              "4,457",
+              "-10,209",
+              "298"
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "2023년 1월 무역수지는 적자를 기록했다.",
+        "2023년 전체 기간 무역수지는 적자를 기록했다.",
+        "2024년 1월 잠정치 수출 실적은 2023년 1월 수출 실적보다 높다.",
+        "㉠에 들어갈 숫자는 10보다 크다.",
+        "절댓값을 기준으로 했을 때, ㉠보다 ㉡이 더 크다."
+      ],
+      "optionsVi": [
+        "Cán cân thương mại tháng 1/2023 ghi nhận mức thâm hụt.",
+        "Cán cân thương mại cả năm 2023 ghi nhận mức thâm hụt.",
+        "Kết quả xuất khẩu tạm tính tháng 1/2024 cao hơn kết quả xuất khẩu tháng 1/2023.",
+        "Con số điền vào ㉠ lớn hơn 10.",
+        "Nếu xét theo giá trị tuyệt đối thì ㉡ lớn hơn ㉠."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Ta tính tỷ lệ tăng/giảm so với cùng kỳ năm trước (tháng 1/2023): ㉠ Tỷ lệ tăng trưởng xuất khẩu tháng 1/2024 = (54.689 - 46.343) / 46.343 × 100% = +8.346 / 46.343 × 100% ≈ +18,0% (> 10 nên ④ đúng). ㉡ Tỷ lệ tăng trưởng nhập khẩu tháng 1/2024 = (54.391 - 59.002) / 59.002 × 100% = -4.611 / 59.002 × 100% ≈ -7,8%. Nếu xét theo giá trị tuyệt đối (절댓값), |㉠| ≈ 18,0 lớn hơn |㉡| ≈ 7,8. Do đó câu ⑤ nói |㉡| lớn hơn |㉠| là SAI.",
+      "coreFormula": "㉠ 수출 증감률 = (54,689 - 46,343)/46,343 ≈ +18.0% / ㉡ 수입 증감률 = (54,391 - 59,002)/59,002 ≈ -7.8% → |㉠| > |㉡|",
+      "keyTerms": [
+        "무역수지",
+        "수출입실적",
+        "전년 동기 대비 증감률"
+      ]
+    },
+    {
+      "examNumber": 69,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사에 나타난 상황을 통해 사과의 가격과 거래량의 변화를 알맞게 짝지으면? (단, 다른 조건은 일정하다고 가정한다.)",
+      "questionVi": "Thông qua tình huống nêu trong bài báo dưới đây, hãy ghép đúng sự thay đổi của giá cả và sản lượng giao dịch của táo? (Giả định các điều kiện khác không đổi.)",
+      "passageKo": "10일 통계청에 따르면 지난해 사과 생산량은 39만 4,428t으로 최근 10년 새 가장 적었다. 전년(56만 6,041t) 대비로는 30.3% 줄어든 수치이다. 봄엔 냉해와 우박이, 여름엔 장마와 태풍이 겹치면서 사과 참사가 벌어졌다는 설명이다.\n○○닷컴, 2024. 2. 10.",
+      "passageVi": "Theo Cục Thống kê vào ngày 10, sản lượng táo năm ngoái đạt 394.428 tấn, mức thấp nhất trong vòng 10 năm gần đây và giảm 30,3% so với năm trước (566.041 tấn). Nguyên nhân được giải thích là do mùa xuân hứng chịu rét hại và mưa đá, mùa hè lại trùng với mưa lũ và bão khiến thảm họa mất mùa táo xảy ra.\n○○Dotcom, 10/02/2024.",
+      "optionsKo": [
+        "가격: 하락 - 거래량: 감소",
+        "가격: 하락 - 거래량: 증가",
+        "가격: 상승 - 거래량: 감소",
+        "가격: 상승 - 거래량: 증가",
+        "가격: 알 수 없음 - 거래량: 증가"
+      ],
+      "optionsVi": [
+        "Giá: Giảm - Sản lượng giao dịch: Giảm",
+        "Giá: Giảm - Sản lượng giao dịch: Tăng",
+        "Giá: Tăng - Sản lượng giao dịch: Giảm",
+        "Giá: Tăng - Sản lượng giao dịch: Tăng",
+        "Giá: Không xác định được - Sản lượng giao dịch: Tăng"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Thời tiết bất lợi (rét hại, mưa đá, bão lũ) làm sản lượng táo sụt giảm 30,3%, khiến đường Cung (공급곡선) của táo dịch chuyển sang trái (공급 감소). Khi các điều kiện khác (cầu) không đổi, đường cung dịch chuyển sang trái làm Giá cân bằng tăng (가격 상승) và Sản lượng giao dịch cân bằng giảm (거래량 감소).",
+      "coreFormula": "기상 악화 → 사과 공급 감소(공급곡선 좌측 이동) → 균형가격(P) 상승 + 균형거래량(Q) 감소",
+      "keyTerms": [
+        "공급의 감소",
+        "균형가격",
+        "균형거래량"
+      ]
+    },
+    {
+      "examNumber": 70,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사를 읽고, 이와 관련한 상황을 설명한 내용 중 옳지 않은 것은?",
+      "questionVi": "Đọc bài báo dưới đây và cho biết phát biểu nào giải thích KHÔNG ĐÚNG về tình huống liên quan?",
+      "passageKo": "2일 모빌리티업계에 따르면 국토교통부는 최근 카카오모빌리티와 플랫폼을 공유해 카카오T 콜을 받을 수 있게 해달라는 코액터스 요청을 거절했다. 국토부 관계자는 “타입1이 일반 승객을 태운 경우 택시와 사업 영역이 겹친다.”며 “택시업계 반발이 심해 허가를 내주기 어려운 상황”이라고 설명했다. … (중략) … 전국택시운송사업조합연합회에 따르면 지난해 12월 전국 법인택시 기사는 7만 1,187명으로 2019년(10만 2,840명) 대비 30.7% 줄었다. 업계에선 모빌리티를 혁신해야 승차난이 해소될 것이란 분석이 나온다. 새로운 운송 수단이 등장해야 줄어드는 택시 자리를 메울 수 있다는 지적이다.\n○○경제신문, 2024. 2. 3.",
+      "passageVi": "Theo ngành dịch vụ di chuyển ngày 2, Bộ Đất đai, Hạ tầng và Giao thông (MOLIT) gần đây đã từ chối yêu cầu của Coactus về việc cho phép chia sẻ nền tảng với Kakao Mobility để nhận cuộc gọi từ ứng dụng Kakao T. Quan chức Bộ giải thích: “Nếu loại hình 1 chở hành khách thông thường thì lĩnh vực kinh doanh sẽ trùng lặp với taxi” và “Do sự phản đối gay gắt từ ngành taxi nên rất khó cấp phép”. … (lược) … Theo Liên đoàn Hiệp hội Vận tải Taxi Toàn quốc, tính đến tháng 12 năm ngoái, số tài xế taxi doanh nghiệp trên toàn quốc là 71.187 người, giảm 30,7% so với năm 2019 (102.840 người). Giới chuyên môn phân tích rằng phải đổi mới dịch vụ di chuyển mới giải quyết được tình trạng khó bắt xe.\n○○Kinh tế Tân văn, 03/02/2024.",
+      "optionsKo": [
+        "새로운 사업 시도를 막는 지대추구 행위가 나타났다.",
+        "국토부의 결정 과정은 포획이론으로 설명할 수 있다.",
+        "택시업계 입장에서는 코액터스의 진입은 택시 면허 가격의 하락 요인이다.",
+        "국토부의 코액터스 요청 거절 과정은 역사적으로 적기 조례법과 맥락을 같이 한다.",
+        "코액터스의 시장 진입은 소비자와 택시 기사의 잉여 모두 증가하는 요인이 된다."
+      ],
+      "optionsVi": [
+        "Đã xuất hiện hành vi tìm kiếm đặc lợi (지대추구 행위) nhằm ngăn cản nỗ lực kinh doanh mới.",
+        "Quá trình ra quyết định của Bộ Giao thông có thể được giải thích bằng Lý thuyết bắt giữ (포획이론).",
+        "Xét từ lập trường ngành taxi, sự gia nhập của Coactus là nhân tố làm giảm giá giấy phép hành nghề taxi.",
+        "Quá trình Bộ Giao thông từ chối yêu cầu của Coactus về mặt lịch sử có cùng mạch락 với Đạo luật Cờ đỏ (적기 조례법).",
+        "Việc Coactus gia nhập thị trường là nhân tố làm tăng thặng dư của cả người tiêu dùng lẫn tài xế taxi."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Nếu Coactus (doanh nghiệp dịch vụ di chuyển mới) được phép gia nhập thị trường, cung dịch vụ vận chuyển tăng lên giúp giải quyết tình trạng khó bắt xe và làm TĂNG thặng dư tiêu dùng (소비자잉여 증가). Tuy nhiên, đối với các tài xế/ngành taxi hiện hữu, sự cạnh tranh gay gắt hơn sẽ làm GIẢM đặc lợi độc quyền (생산자잉여 감소) và làm giảm giá trị giấy phép taxi (chính vì thế ngành taxi mới phản đối quyết liệt). Do đó câu ⑤ nói thặng dư của cả người tiêu dùng và tài xế taxi đều tăng là SAI.",
+      "coreFormula": "신규 사업자 진입 → 경쟁 촉진 및 공급 증가 → 소비자잉여 증가, 기존 독점·면허 사업자(택시) 지대 감소",
+      "keyTerms": [
+        "지대추구 행위",
+        "포획이론",
+        "적기 조례법",
+        "소비자잉여"
+      ]
+    },
+    {
+      "examNumber": 71,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "2012~2013년 개정된 유통산업발전법 개정과 관련한 경제적 영향을 설명한 내용 중 옳지 않은 것은?",
+      "questionVi": "Trong các phát biểu giải thích tác động kinh tế liên quan đến việc sửa đổi Luật Phát triển Ngành Phân phối (유통산업발전법) giai đoạn 2012~2013 dưới đây, phát biểu nào KHÔNG ĐÚNG?",
+      "passageKo": "「유통산업발전법」 개정으로 추가된 규제는 2012년 대형마트 및 기업형 슈퍼마켓(SSM)의 영업시간 제한과 월2회 의무휴업일 지정, 2013년 전통시장 1km 이내(전통 상업 보존 구역) 대형마트 및 SSM의 신규 출점 제한 등이다. … (중략) … 서용구 숙명여대 교수 등은 신용카드 데이터를 이용해 대형마트 의무 휴일 규제의 효과를 분석했습니다. 분석 결과, 규제 도입 이듬해인 2013년 29.9%이던 대형마트에서의 소비 증가율이 2016년 -6.4%로 뚝 떨어졌습니다. 그런데 같은 기간 전통시장에서의 소비 증가율도 18.1%에서 -3.3%로 감소했습니다.\n○○경제신문, 2023. 8. 21.",
+      "passageVi": "Các quy định được bổ sung qua việc sửa đổi 「Luật Phát triển Ngành Phân phối」 bao gồm việc hạn chế giờ mở cửa và chỉ định 2 ngày nghỉ bắt buộc mỗi tháng đối với đại siêu thị và siêu thị doanh nghiệp (SSM) vào năm 2012, cùng việc hạn chế mở mới đại siêu thị và SSM trong phạm vi 1km quanh chợ truyền thống (Khu vực bảo tồn thương mại truyền thống) vào năm 2013. … (lược) … Giáo sư Seo Yong-gu (ĐH Sookmyung) cùng cộng sự đã sử dụng dữ liệu thẻ tín dụng để phân tích hiệu quả của quy định ngày nghỉ bắt buộc đối với đại siêu thị. Kết quả cho thấy tốc độ tăng tiêu dùng tại đại siêu thị từ mức 29,9% năm 2013 đã rơi xuống -6,4% vào năm 2016. Tuy nhiên, trong cùng kỳ, tốc độ tăng tiêu dùng tại chợ truyền thống cũng giảm từ 18,1% xuống -3,3%.\n○○Kinh tế Tân văn, 21/08/2023.",
+      "optionsKo": [
+        "추가된 규제는 소비자잉여를 감소하게 한다.",
+        "신규 출점 제한은 계약자유의 원칙에 위배된다.",
+        "전통 상업 보존 구역은 전통시장 간 경쟁을 촉진한다.",
+        "전통시장 근처에 다른 경쟁자의 시장 진입을 막는다.",
+        "「유통산업발전법」 개정으로 추가된 규제는 대형마트와 전통시장의 매출을 감소시켰다."
+      ],
+      "optionsVi": [
+        "Các quy định bổ sung làm giảm thặng dư tiêu dùng.",
+        "Việc hạn chế mở점 mới đi ngược lại nguyên tắc tự do계약/kinh doanh.",
+        "Khu vực bảo tồn thương mại truyền thống thúc đẩy sự cạnh tranh giữa các chợ truyền thống.",
+        "Ngăn chặn sự gia nhập thị trường của các đối thủ cạnh tranh khác ở gần chợ truyền thống.",
+        "Các quy định bổ sung từ việc sửa đổi 「Luật Phát triển Ngành Phân phối」 đã làm giảm doanh thu của cả đại siêu thị và chợ truyền thống."
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Khu vực bảo tồn thương mại truyền thống (전통 상업 보존 구역 — cấm mở mới đại siêu thị và SSM trong bán kính 1km quanh chợ truyền thống) là rào cản gia nhập nhằm ngăn chặn đối thủ cạnh tranh (đại siêu thị) để bảo hộ chợ truyền thống, chứ KHÔNG phải là chính sách thúc đẩy cạnh tranh giữa các chợ truyền thống với nhau (③ sai). Thực tế quy định này khiến người tiêu dùng chuyển sang mua sắm trực tuyến (e-commerce), làm giảm doanh thu của cả đại siêu thị lẫn chợ truyền thống.",
+      "coreFormula": "진입규제(전통 상업 보존 구역) → 경쟁 제한 및 소비자 선택권 축소(소비자잉여 감소)",
+      "keyTerms": [
+        "진입규제",
+        "소비자잉여",
+        "유통산업발전법"
+      ]
+    },
+    {
+      "examNumber": 72,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 그림과 관련한 설명으로 옳지 않은 것은?",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về biểu đồ dưới đây?",
+      "figureImageUrl": "/exam-figures/exam-86-q72.jpg",
+      "figureCaptionKo": "생애 주기에 따른 연령별 소득과 지출 곡선",
+      "figureCaptionVi": "Đường cong thu nhập và chi tiêu theo độ tuổi trong chu kỳ vòng đời",
+      "optionsKo": [
+        "생애 주기에 따른 소득과 지출을 보여 준다.",
+        "A 연령에서는 소득과 지출이 같다.",
+        "소득에서 지출을 뺀 B의 간격이 클수록 C 연령 이후의 생활 수준이 달라진다.",
+        "C 연령에는 소득이 0이기 때문에 B만을 활용해야 한다.",
+        "연령에 따라 소득과 지출의 차이가 변화하기 때문에 이에 따른 재무 설계가 필요하다."
+      ],
+      "optionsVi": [
+        "Cho thấy thu nhập và chi tiêu theo chu kỳ vòng đời.",
+        "Ở độ tuổi A, thu nhập và chi tiêu bằng nhau.",
+        "Khoảng cách B (lấy thu nhập trừ đi chi tiêu) càng lớn thì mức sống sau độ tuổi C càng khác biệt.",
+        "Ở độ tuổi C, vì thu nhập bằng 0 nên chỉ có thể sử dụng phần B.",
+        "Vì chênh lệch giữa thu nhập và chi tiêu thay đổi theo độ tuổi nên cần lập kế hoạch tài chính phù hợp."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Trên đồ thị Giả thuyết chu kỳ vòng đời (생애주기가설): Tại độ tuổi A và độ tuổi C, đường thu nhập (소득) và đường chi tiêu (지출) cắt nhau nên tại độ tuổi C thu nhập bằng với chi tiêu (소득 = 지출 > 0), chứ thu nhập KHÔNG phải bằng 0 (đường thu nhập tại C vẫn nằm cao hơn trục hoành). Sau độ tuổi C, thu nhập thấp hơn chi tiêu nên cá nhân dùng thêm phần tiết kiệm tích lũy được (B) từ giai đoạn A~C. Do đó câu ④ nói 'Ở độ tuổi C vì thu nhập bằng 0...' là SAI.",
+      "coreFormula": "생애주기가설(Life-Cycle Hypothesis): A~C 구간 흑자(소득 > 지출, 저축 B 발생), C 연령에서 소득 = 지출 (> 0)",
+      "keyTerms": [
+        "생애주기가설",
+        "재무 설계",
+        "저축"
+      ]
+    },
+    {
+      "examNumber": 73,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 지문에서 (A)와 (B)에 들어갈 단어를 알맞게 짝지으면?",
+      "questionVi": "Trong đoạn văn dưới đây, cặp từ nào điền vào (A) và (B) là phù hợp nhất?",
+      "passageKo": "독감예방주사는 접종한 사람뿐만 아니라 그 주변 사람들도 독감에 걸릴 확률을 떨어뜨린다. 그러나 예방주사의 접종을 원하는 개인이 모든 접종 비용을 부담하면 독감예방주사를 접종한 사람의 수는 사회적 최적의 수보다 ( A ) 것이다. 이는 예방주사 접종의 모든 ( B )(이)가 구매자에게만 귀속되지 않기 때문이다.",
+      "passageVi": "Tiêm vắc-xin phòng cúm không chỉ giúp người tiêm mà còn làm giảm xác suất mắc bệnh cúm của những người xung quanh. Tuy nhiên, nếu cá nhân muốn tiêm vắc-xin phải tự gánh chịu toàn bộ chi phí tiêm chủng thì số lượng người tiêm vắc-xin phòng cúm sẽ ( A ) so với mức tối ưu của xã hội. Điều này là do không phải toàn bộ ( B ) của việc tiêm vắc-xin đều chỉ thuộc về người mua.",
+      "optionsKo": [
+        "(A) 많을 - (B) 편익",
+        "(A) 많을 - (B) 비용",
+        "(A) 적을 - (B) 편익",
+        "(A) 적을 - (B) 비용",
+        "(A) 적을 - (B) 부채"
+      ],
+      "optionsVi": [
+        "(A) nhiều hơn - (B) lợi ích (편익)",
+        "(A) nhiều hơn - (B) chi phí (비용)",
+        "(A) ít hơn - (B) lợi ích (편익)",
+        "(A) ít hơn - (B) chi phí (비용)",
+        "(A) ít hơn - (B) khoản nợ (부채)"
+      ],
+      "correctIndex": 2,
+      "explanationVi": "Tiêm vắc-xin phòng cúm là ví dụ điển hình của Ngoại ứng tích cực trong tiêu dùng (소비의 긍정적 외부효과 / 외부경제). Vì một phần lợi ích (B: 편익) của việc tiêm chủng lan tỏa sang những người xung quanh (외부편익) chứ không chỉ thuộc về riêng người mua, nên Lợi ích biên tư nhân (PMB) nhỏ hơn Lợi ích biên xã hội (SMB). Do đó, nếu để thị trường tự điều tiết (cá nhân tự trả toàn bộ chi phí), lượng người tiêm sẽ ÍT HƠN (A: 적을) mức tối ưu xã hội.",
+      "coreFormula": "긍정적 외부효과(외부경제): 사회적 한계편익(SMB) > 사적 한계편익(PMB) → 시장 균형 거래량이 사회적 최적 수준보다 과소(적을)",
+      "keyTerms": [
+        "긍정적 외부효과",
+        "사회적 한계편익",
+        "사적 한계편익",
+        "과소소비"
+      ]
+    },
+    {
+      "examNumber": 74,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사와 그래프를 바탕으로 설명한 내용 중 옳지 않은 것은?",
+      "questionVi": "Dựa vào bài báo và biểu đồ dưới đây, phát biểu nào sau đây KHÔNG ĐÚNG?",
+      "passageKo": "지난해 국세 수입이 정부 예산보다 덜 걷혀 사상 최대 세수 펑크를 기록했다. 경기 둔화로 기업이 어려움을 겪은 가운데 부동산 시장까지 얼어붙은 영향으로 풀이된다.\n○○경제신문, 2024. 2. 1.",
+      "passageVi": "Thu ngân sách thuế quốc gia năm ngoái thấp hơn dự toán ngân sách của chính phủ, ghi nhận mức thiếu hụt thu thuế lớn nhất lịch sử. Nguyên nhân được lý giải là do kinh tế chững lại khiến các doanh nghiệp gặp khó khăn, cộng thêm thị trường bất động sản đóng băng.\n○○Kinh tế Tân văn, 01/02/2024.",
+      "figureImageUrl": "/exam-figures/exam-86-q74.jpg",
+      "figureCaptionKo": "지난해 국세 수입 (단위: 조 원, 자료: 기획재정부)",
+      "figureCaptionVi": "Thu ngân sách thuế quốc gia năm ngoái (Đơn vị: Nghìn tỷ Won, Nguồn: Bộ Kế hoạch và Tài chính)",
+      "dataTable": {
+        "titleKo": "지난해 국세 수입 (2023년 예산 대비 실적)",
+        "titleVi": "Thu ngân sách thuế quốc gia năm 2023 (Dự toán vs Thực tế)",
+        "source": "기획재정부",
+        "unit": "조 원",
+        "headers": [
+          "구분",
+          "2023년 예산",
+          "2023년 실적"
+        ],
+        "rows": [
+          {
+            "label": "㉠ 소득세",
+            "values": [
+              131.9,
+              115.8
+            ]
+          },
+          {
+            "label": "㉡ 법인세",
+            "values": [
+              105,
+              80.4
+            ]
+          },
+          {
+            "label": "㉢ 부가가치세",
+            "values": [
+              83.2,
+              73.8
+            ]
+          },
+          {
+            "label": "㉣ 상속증여세",
+            "values": [
+              17.1,
+              14.6
+            ]
+          },
+          {
+            "label": "기타",
+            "values": [
+              63.3,
+              59.5
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "2023년 예산은 총 400.5조 원, 실제로 세금으로 거둔 총 국세 수입은 344.1조 원으로 56.4조 원의 차이가 발생한다.",
+        "경기 둔화에 따른 기업 실적 부진은 ㉡, 부동산 경기 침체는 ㉠에 부정적인 영향을 준다.",
+        "금액 측면에서 2023년 예산 대비 수입이 가장 덜 걷힌 세목은 ㉠~㉣ 중 ㉡이다.",
+        "세금의 종류에 따라 ㉠, ㉡은 직접세이고, ㉢, ㉣은 간접세이다.",
+        "㉠, ㉡, ㉣은 누진세, ㉢은 비례세 구조이다."
+      ],
+      "optionsVi": [
+        "Dự toán năm 2023 tổng cộng là 400,5 nghìn tỷ Won, tổng thu thuế thực tế là 344,1 nghìn tỷ Won, phát sinh mức chênh lệch 56,4 nghìn tỷ Won.",
+        "Kết quả kinh doanh của doanh nghiệp sụt giảm do suy thoái ảnh hưởng tiêu cực đến ㉡, còn sự đóng băng của bất động sản ảnh hưởng tiêu cực đến ㉠ (thuế thu nhập chuyển nhượng).",
+        "Xét về mặt số tiền tuyệt đối, sắc thuế hụt thu nhiều nhất so với dự toán năm 2023 trong số ㉠~㉣ là ㉡.",
+        "Theo phân loại thuế, ㉠ và ㉡ là thuế trực thu, còn ㉢ và ㉣ là thuế gián thu.",
+        "㉠, ㉡, ㉣ có cấu trúc thuế lũy tiến, còn ㉢ có cấu trúc thuế tỷ lệ (비례세)."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Theo tiêu chí chuyển giao gánh nặng thuế (조세 전가 여부): ㉠ Thuế thu nhập cá nhân (소득세), ㉡ Thuế thu nhập doanh nghiệp (법인세), và ㉣ Thuế thừa kế & tặng cho (상속증여세) đều là Thuế trực thu (직접세 — người nộp thuế đồng thời là người chịu thuế). Chỉ có ㉢ Thuế giá trị gia tăng (부가가치세) là Thuế gián thu (간접세). Vì vậy câu ④ xếp ㉣ 상속증여세 vào thuế gián thu là SAI.",
+      "coreFormula": "직접세 = 소득세(㉠), 법인세(㉡), 상속증여세(㉣), 종합부동산세 / 간접세 = 부가가치세(㉢), 개별소비세, 주세",
+      "keyTerms": [
+        "직접세",
+        "간접세",
+        "누진세",
+        "비례세",
+        "국세 수입"
+      ]
+    },
+    {
+      "examNumber": 75,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사와 그림을 바탕으로 설명한 내용 중 옳지 않은 것은?",
+      "questionVi": "Dựa vào bài báo và hình vẽ dưới đây, phát biểu nào sau đây KHÔNG ĐÚNG?",
+      "passageKo": "발전 자회사들이 연초부터 채권 발행에 나서는 건 한국전력에 지급해야 할 ㉠ 중간배당금 때문이다. 지난해 말 한전은 올해 한전채 발행한도(㉡ 자본금+적립금 합계의 5배 이하)가 축소될 것을 우려해 발전자회사 6곳으로부터 3조 400억 원의 중간배당을 받아 회계장부에 반영했다. … (중략) … 채권시장에선 발전사 회사채 발행의 증가에 따른 ㉢ 구축효과를 우려하고 있다. … (중략) … 한전은 지난해 9월 이후 채권을 발행하지 않고 ㉣ 기업어음(CP)과 ㉤ 단기사채를 통해 자금을 조달하고 있다.\n○○경제신문, 2024. 2. 16.",
+      "passageVi": "Việc các công ty con phát điện phải phát hành trái phiếu ngay từ đầu năm là do khoản ㉠ cổ tức giữa kỳ phải trả cho Tập đoàn Điện lực Hàn Quốc (KEPCO). Cuối năm ngoái, KEPCO lo ngại hạn mức phát hành trái phiếu KEPCO năm nay (㉡ tối đa gấp 5 lần tổng vốn điều lệ + quỹ dự trữ) sẽ bị thu hẹp nên đã nhận 3,04 nghìn tỷ Won cổ tức giữa kỳ từ 6 công ty con phát điện và phản ánh vào sổ sách kế toán. … (lược) … Trên thị trường trái phiếu, giới đầu tư lo ngại ㉢ hiệu ứng lấn át (구축효과) do sự gia tăng phát hành trái phiếu của các công ty phát điện. … (lược) … Từ sau tháng 9 năm ngoái, KEPCO không phát hành trái phiếu mà huy động vốn thông qua ㉣ thương phiếu (CP) và ㉤ trái phiếu ngắn hạn điện tử.\n○○Kinh tế Tân văn, 16/02/2024.",
+      "figureImageUrl": "/exam-figures/exam-86-q75.jpg",
+      "figureCaptionKo": "발전사 회사채 발행액 (단위: 억 원, 각 연도 1월~2월 14일 기준, 자료: 금융투자협회)",
+      "figureCaptionVi": "Quy mô phát hành trái phiếu doanh nghiệp của các công ty phát điện (Đơn vị: Trăm triệu Won, Nguồn: Hiệp hội Đầu tư Tài chính)",
+      "optionsKo": [
+        "2024년 1월~2월 14일 기준 발전사 회사채 발행액이 지난해 같은 기간보다 2배 이상 증가했다.",
+        "㉠도 주주총회 결의사항이며, 현금배당과 주식배당 모두 가능하다.",
+        "기업공개(IPO)를 통해 해당 기업을 주식시장에 상장하면 ㉡은 증가한다.",
+        "우량채인 한전 발전 자회사의 채권으로 투자가 집중되면서 일반 기업의 채권 발행이나 투자가 줄어드는 현상을 ㉢이라고 한다.",
+        "한전이 지난해 9월 이후 ㉣과 ㉤을 통해 자금을 조달하는 것도 ㉡을 우려해서이다."
+      ],
+      "optionsVi": [
+        "Tính từ ngày 1/1 đến 14/2/2024, quy mô phát hành trái phiếu của các công ty phát điện đã tăng hơn gấp 2 lần so với cùng kỳ năm ngoái.",
+        "㉠ cũng là事項 thuộc thẩm quyền quyết định của Đại hội đồng cổ đông, và có thể thực hiện bằng cả cổ tức tiền mặt lẫn cổ tức bằng cổ phiếu.",
+        "Nếu niêm yết doanh nghiệp lên thị trường chứng khoán thông qua IPO thì ㉡ sẽ tăng lên.",
+        "Hiện tượng dòng vốn đầu tư tập trung vào trái phiếu hạng ưu của các công ty con phát điện thuộc KEPCO khiến việc phát hành trái phiếu hoặc đầu tư của các doanh nghiệp thông thường bị thu hẹp được gọi là ㉢.",
+        "Việc KEPCO huy động vốn thông qua ㉣ và ㉤ từ sau tháng 9 năm ngoái cũng là do lo ngại về hạn mức ㉡."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Theo Luật Thương mại Hàn Quốc (상법 제462조의3), Cổ tức giữa kỳ (㉠ 중간배당) được quyết định bởi Hội đồng quản trị (이사회 결의) theo quy định của điều lệ công ty, và chỉ được phép chi trả bằng tiền mặt (현금배당) hoặc hiện vật, KHÔNG được phép chia cổ tức bằng cổ phiếu (주식배당 불가능). Do đó câu ② nói 'có thể thực hiện cả cổ tức tiền mặt lẫn cổ tức bằng cổ phiếu' là SAI. (① Đúng vì 4.700 > 2.100 × 2 = 4.200).",
+      "coreFormula": "중간배당(Interim Dividend): 이사회 결의사항, 금전(현금)·현물배당만 가능하고 주식배당은 불가",
+      "keyTerms": [
+        "중간배당",
+        "구축효과",
+        "기업공개",
+        "기업어음",
+        "단기사채"
+      ]
+    },
+    {
+      "examNumber": 76,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사를 읽고, 신용사면 정책과 관련한 내용을 <보기>에서 고르면?",
+      "questionVi": "Đọc bài báo dưới đây và chọn các nội dung trong <보기> liên quan đến chính sách ân xá tín dụng?",
+      "passageKo": "정부와 여당이 소상공인과 서민의 대출 연체 기록을 대폭 삭제하는 신용사면에 나선다. 대상자는 최대 290만명에 이를 전망이다. … (중략) … 한 시중은행 여신 담당 임원은 “취약계층을 돕겠다는 취지는 이해하지만, 성실하게 빚을 갚아온 차주는 대체 뭐가 되느냐”며 “향후 빚을 갚지 않아도 된다는 심리가 확산되는 위험한 정책”이라고 비판했다.\n○○경제신문, 2024. 1. 12.\n\n<보기>\nㄱ. 포퓰리즘\nㄴ. 매너리즘\nㄷ. 도덕적 해이\nㄹ. 스미스의 역설",
+      "passageVi": "Chính phủ và đảng cầm quyền đang tiến hành ân xá tín dụng xóa bỏ hàng loạt lịch sử nợ quá hạn cho các tiểu thương và người dân lao động, dự kiến lên tới tối đa 2,9 triệu người. … (lược) … Một giám đốc phụ trách tín dụng ngân hàng thương mại chỉ trích: “Dù hiểu mục đích giúp đỡ tầng lớp yếu thế, nhưng những người đi vay trả nợ đầy đủ, trung thực từ trước đến nay sẽ ra sao? Đây là chính sách nguy hiểm làm lan rộng tâm lý rằng trong tương lai không cần trả nợ cũng được”.\n○○Kinh tế Tân văn, 12/01/2024.\n\n<보기>\nㄱ. Chủ nghĩa dân túy (포퓰리즘)\nㄴ. Lối mòn / Sự rập khuôn (매너리즘)\nㄷ. Rủi ro đạo đức / Tâm lý ỷ lại (도덕적 해이)\nㄹ. Nghịch lý Smith (스미스의 역설)",
+      "optionsKo": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "optionsVi": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Chính sách xóa lịch sử nợ quá hạn đại trà cho 2,9 triệu người trước thềm bầu cử mang tính chất Chủ nghĩa dân túy (ㄱ. 포퓰리즘 - Populism), đồng thời làm suy giảm kỷ luật trả nợ và tạo ra tâm lý ỷ lại 'không trả nợ rồi cũng sẽ được xóa nợ' — tức Rủi ro đạo đức (ㄷ. 도덕적 해이 - Moral Hazard). Vậy đáp án đúng là ② (ㄱ, ㄷ).",
+      "coreFormula": "신용사면 정책의 부작용 = 포퓰리즘(Populism) + 도덕적 해이(Moral Hazard) + 성실 상환자 역차별",
+      "keyTerms": [
+        "포퓰리즘",
+        "도덕적 해이",
+        "신용사면"
+      ]
+    },
+    {
+      "examNumber": 77,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 사진에서 나타나는 시장의 특징을 <보기>에서 고르면?",
+      "questionVi": "Chọn các đặc điểm của thị trường xuất hiện trong bức ảnh dưới đây từ <보기>?",
+      "passageKo": "<보기>\nㄱ. 비가격경쟁\nㄴ. 제품차별화\nㄷ. 가격수용자\nㄹ. 범위의 경제",
+      "passageVi": "<보기>\nㄱ. Cạnh tranh phi giá cả (비가격경쟁)\nㄴ. Đa dạng hóa / Khác biệt hóa sản phẩm (제품차별화)\nㄷ. Người chấp nhận giá (가격수용자)\nㄹ. Tính kinh tế theo phạm vi (범위의 경제)",
+      "figureImageUrl": "/exam-figures/exam-86-q77.jpg",
+      "figureCaptionKo": "학원가에 밀집한 학원 간판 사진",
+      "figureCaptionVi": "Hình ảnh biển hiệu các trung tâm dạy thêm (학원) tập trung dày đặc",
+      "optionsKo": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "optionsVi": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄷ, ㄹ"
+      ],
+      "correctIndex": 0,
+      "explanationVi": "Bức ảnh chụp các trung tâm luyện thi (학원) san sát nhau. Thị trường trung tâm dạy thêm, quán cà phê, tiệm làm tóc, nhà hàng... là ví dụ điển hình của Thị trường cạnh tranh độc quyền (독점적 경쟁시장 - Monopolistic Competition), nơi có nhiều người bán tự do gia nhập nhưng mỗi nơi cung cấp dịch vụ có sự khác biệt nhất định (ㄴ. 제품차별화) và cạnh tranh mạnh mẽ thông qua quảng cáo, thương hiệu, chất lượng giảng dạy (ㄱ. 비가격경쟁). ㄷ. 가격수용자 là đặc điểm của thị trường cạnh tranh hoàn hảo.",
+      "coreFormula": "독점적 경쟁시장(학원, 미용실, 음식점) = 다수의 공급자 + 자유로운 진입·퇴출 + 제품차별화(ㄴ) + 비가격경쟁(ㄱ)",
+      "keyTerms": [
+        "독점적 경쟁시장",
+        "비가격경쟁",
+        "제품차별화",
+        "가격수용자"
+      ]
+    },
+    {
+      "examNumber": 78,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래는 지난 1월 2024 미국 경제학회(AEA) 연례총회에서 경제학자들이 한 발언의 일부이다. 이와 관련한 학생들의 대화 내용 중 옳지 않은 것은?",
+      "questionVi": "Dưới đây là một phần phát biểu của các nhà kinh tế học tại Hội nghị thường niên Hiệp hội Kinh tế Hoa Kỳ (AEA) năm 2024 vào tháng 1 vừa qua. Trong nội dung cuộc trò chuyện của các học sinh liên quan đến đoạn văn này, phát biểu nào KHÔNG ĐÚNG?",
+      "passageKo": "· 로버트 배로(하버드대 교수): 미국 상업용 부동산저당증권(CMBS) 시장에서 오피스 대출 연체율이 5.28%로 5년 만에 가장 높은 수준이다. 미국 중앙은행(Fed)의 고금리 정책 때문이다.\n· 존 테일러(스탠퍼드대 교수): 테일러 준칙에 근거해서 봤을 때 역사적으로 Fed는 통화정책을 적정 시점보다 늦게 시행했다.\n· 케네스 로고프(하버드대 석좌교수): 코로나19 팬데믹에 따른 과도한 경기 부양책이 2022년 인플레이션이라는 부메랑으로 돌아왔다.",
+      "passageVi": "· Robert Barro (Giáo sư ĐH Harvard): Trên thị trường chứng khoán đảm bảo bằng thế chấp bất động sản thương mại (CMBS) của Mỹ, tỷ lệ nợ quá hạn cho vay văn phòng ở mức 5,28%, cao nhất trong 5 năm qua. Nguyên nhân là do chính sách lãi suất cao của Cục Dự trữ Liên bang Mỹ (Fed).\n· John Taylor (Giáo sư ĐH Stanford): Xét trên cơ sở Quy tắc Taylor, về mặt lịch sử Fed thường thực hiện chính sách tiền tệ muộn hơn thời điểm thích hợp.\n· Kenneth Rogoff (Giáo sư ĐH Harvard): Các gói kích thích kinh tế quá mức trong đại dịch COVID-19 đã quay trở lại như một chiếc boomerang dưới dạng lạm phát năm 2022.",
+      "optionsKo": [
+        "가영: 배로 교수는 2008년 금융위기에서 나타난 금융기관의 파산과 같은 금융 충격을 걱정하고 있어.",
+        "나영: 테일러 준칙은 통화정책 원칙 중 준칙주의에 해당하지.",
+        "다영: 로고프 교수가 언급한 과도한 경기 부양책에 따른 인플레이션은 수요견인 인플레이션에 해당한다고 할 수 있어.",
+        "라영: 로고프 교수가 언급한 인플레이션이 Fed의 긴축정책으로 이어졌고, 이는 배로 교수가 언급한 오피스 대출 연체율 상승과도 연관되어 있어.",
+        "마영: 물가가 점점 안정되면서 테일러 준칙에 따라 계산한 미국의 적정 기준금리는 2022년보다 2023년에 더 상승했을 거야."
+      ],
+      "optionsVi": [
+        "Ga-young: Giáo sư Barro đang lo ngại về cú sốc tài chính giống như sự phá sản của các định chế tài chính từng xuất hiện trong khủng hoảng tài chính năm 2008.",
+        "Na-young: Quy tắc Taylor thuộc về nguyên tắc theo quy tắc (준칙주의) trong chính sách tiền tệ.",
+        "Da-young: Lạm phát do gói kích thích kinh tế quá mức mà Giáo sư Rogoff đề cập có thể xem là lạm phát do cầu kéo (수요견인 인플레이션).",
+        "Ra-young: Lạm phát mà Giáo sư Rogoff đề cập đã dẫn đến chính sách thắt chặt của Fed, và điều này cũng liên quan đến việc tăng tỷ lệ nợ quá hạn cho vay văn phòng mà Giáo sư Barro nói tới.",
+        "Ma-young: Khi giá cả dần ổn định lại, lãi suất cơ bản hợp lý của Mỹ tính theo Quy tắc Taylor vào năm 2023 chắc hẳn đã tăng cao hơn so với năm 2022."
+      ],
+      "correctIndex": 4,
+      "explanationVi": "Theo Quy tắc Taylor (테일러 준칙): i = r* + π + α(π - π*) + β(y - y*). Lãi suất cơ bản mục tiêu (적정 기준금리) tỷ lệ thuận với tỷ lệ lạm phát (π) và chênh lệch sản lượng. Khi giá cả dần ổn định trở lại vào năm 2023 (tức tỷ lệ lạm phát giảm xuống so với đỉnh điểm năm 2022), thì mức lãi suất hợp lý tính theo Quy tắc Taylor phải GIẢM xuống (하락) chứ không phải tăng cao hơn năm 2022. Vì vậy phát biểu của Ma-young (⑤) là SAI.",
+      "coreFormula": "테일러 준칙(Taylor Rule): i = r* + π + 0.5(π - π*) + 0.5(y - y*) → 물가 안정(π 하락) 시 적정 기준금리 하락",
+      "keyTerms": [
+        "테일러 준칙",
+        "준칙주의",
+        "수요견인 인플레이션",
+        "상업용 부동산저당증권"
+      ]
+    },
+    {
+      "examNumber": 79,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 신문기사와 그래프 자료를 바탕으로 설명한 내용 중 옳지 않은 것은?",
+      "questionVi": "Dựa vào bài báo và biểu đồ dưới đây, phát biểu nào sau đây KHÔNG ĐÚNG?",
+      "passageKo": "정부가 진 빚은 포함하는 범위에 따라 네 가지로 나뉜다. 영어로는 D(Debt)1~4라고 한다. D1은 중앙정부와 지방자치단체에 직접적인 상환 의무가 있는 돈을 말한다. 가장 좁은 의미의 나랏빚이다. 국가채무는 D1을 뜻하는 용어이다. D2는 D1에 비영리 공공기관의 빚을 합친 것으로 일반정부부채라고 한다. 국제 비교에 주로 사용하는 기준이 D2이다. … (중략) … 2022년 기준 한국의 GDP 대비 일반정부 부채(D2) 비율은 53.5%이다. 미국(144.2%), 일본(254.5%), 영국(104.0%), 프랑스(117.3%)보다 낮은 것은 사실이다. 하지만 이들 국가는 달러 유로 엔 파운드 등 ㉠ 기축통화국이고 한국은 ㉡ 비기축통화국이라는 점을 간과해선 안 된다.\n○○경제신문, 2024. 1. 30.",
+      "passageVi": "Nợ của chính phủ được chia thành 4 loại tùy theo phạm vi bao gồm, tiếng Anh ký hiệu là D(Debt)1~4. D1 là khoản nợ mà chính phủ trung ương và chính quyền địa phương có nghĩa vụ trả nợ trực tiếp — nghĩa hẹp nhất của nợ quốc gia (국가채무). D2 là D1 cộng thêm nợ của các tổ chức công phi lợi nhuận, gọi là Nợ chính phủ chung (일반정부부채) và là tiêu chuẩn chủ yếu dùng để so sánh quốc tế. … (lược) … Tính đến năm 2022, tỷ lệ nợ chính phủ chung (D2) trên GDP của Hàn Quốc là 53,5%, thấp hơn Mỹ (144,2%), Nhật Bản (254,5%), Anh (104,0%), Pháp (117,3%). Tuy nhiên không được bỏ qua thực tế rằng các nước này là ㉠ quốc gia có đồng tiền dự trữ quốc tế (기축통화국), còn Hàn Quốc là ㉡ quốc gia không có đồng tiền dự trữ quốc tế (비기축통화국).\n○○Kinh tế Tân văn, 30/01/2024.",
+      "figureImageUrl": "/exam-figures/exam-86-q79.jpg",
+      "figureCaptionKo": "<나라 빚 얼마나 되나>(단위: 조 원, 2022년 기준) 및 <주요 비기축통화국의 GDP 대비 일반정부부채 비율>(단위: %, 2024년 전망치)",
+      "figureCaptionVi": "<Nợ quốc gia là bao nhiêu>(Đơn vị: Nghìn tỷ Won, năm 2022) và <Tỷ lệ nợ chính phủ chung trên GDP của các nước không có đồng tiền dự trữ chính>(Đơn vị: %, dự báo 2024)",
+      "dataTable": {
+        "titleKo": "<나라 빚 얼마나 되나> (2022년 기준)",
+        "titleVi": "Quy mô nợ quốc gia Hàn Quốc (Tính đến năm 2022)",
+        "source": "기획재정부 · IMF",
+        "unit": "조 원, %",
+        "headers": [
+          "국가채무(D1)",
+          "일반정부부채(D2)",
+          "공공부문부채(D3)",
+          "국가부채(D4)"
+        ],
+        "rows": [
+          {
+            "label": "2022년 규모(조 원)",
+            "values": [
+              "1,067.4",
+              "1,157.2",
+              "1,588.7",
+              "2,326.2"
+            ]
+          }
+        ]
+      },
+      "optionsKo": [
+        "한국의 국가부채는 국가채무의 2배 이상이다.",
+        "일반적으로 ㉠이 ㉡보다 국채금리와 CDS(신용부도스와프) 프리미엄이 높다.",
+        "㉠보다 ㉡이 GDP 대비 일반정부부채 비율이 낮은 경향을 보인다.",
+        "그래프에서 한국은 비기축통화국 중 GDP 대비 일반정부부채 비율이 세 번째로 높은 국가이다.",
+        "2022년 한국의 GDP 대비 일반정부부채 비율에 비해 2024년 전망치는 2.1%포인트 상승했다."
+      ],
+      "optionsVi": [
+        "Nợ quốc gia (국가부채) của Hàn Quốc lớn hơn gấp 2 lần Nợ chính phủ (국가채무).",
+        "Thông thường ㉠ có lãi suất trái phiếu chính phủ và phí bảo hiểm rủi ro vỡ nợ (CDS premium) cao hơn ㉡.",
+        "㉡ có xu hướng duy trì tỷ lệ nợ chính phủ chung trên GDP thấp hơn so với ㉠.",
+        "Trên biểu đồ, Hàn Quốc là quốc gia có tỷ lệ nợ chính phủ chung trên GDP cao thứ ba trong số các nước không có đồng tiền dự trữ.",
+        "So với tỷ lệ nợ chính phủ chung trên GDP của Hàn Quốc năm 2022, mức dự báo năm 2024 đã tăng 2,1 điểm phần trăm (%p)."
+      ],
+      "correctIndex": 1,
+      "explanationVi": "Các quốc gia nắm giữ đồng tiền dự trữ quốc tế (㉠ 기축통화국 như Mỹ, EU, Nhật, Anh) có độ tín nhiệm quốc gia rất cao và khả năng thanh toán quốc tế bằng chính đồng nội tệ của mình nên rủi ro vỡ nợ thấp hơn nhiều so với ㉡ 비기축통화국. Do đó, thông thường ㉠ có lãi suất trái phiếu chính phủ (국채금리) và phí CDS (CDS 프리미엄) THẤP HƠN ㉡, chứ không phải cao hơn. Vì vậy câu ② là SAI. (① Đúng vì 2.326,2 > 1.067,4 × 2 = 2.134,8; ④ Đúng vì sau Singapore 168,3% và Israel 56,8% là Hàn Quốc 55,6% đứng thứ 3; ⑤ Đúng vì 55,6% - 53,5% = 2,1%p).",
+      "coreFormula": "기축통화국(㉠)은 비기축통화국(㉡)보다 부도 위험이 낮아 국채금리 및 CDS 프리미엄이 낮음",
+      "keyTerms": [
+        "국가채무",
+        "일반정부부채",
+        "기축통화국",
+        "CDS 프리미엄"
+      ]
+    },
+    {
+      "examNumber": 80,
+      "section": "APPLIED",
+      "subcategory": "DATA_EDITORIAL",
+      "points": 5,
+      "questionKo": "아래 글은 조선 후기 실학자인 박제가의 저서 『북학의』에 있는 한 대목이다. 이를 읽고 내용을 잘못 이해한 학생은?",
+      "questionVi": "Đoạn văn dưới đây trích từ tác phẩm 『Bắc Học Nghị (북학의)』 của nhà Thực học cuối thời Joseon Park Je-ga (박제가). Học sinh nào đã hiểu SAI nội dung sau khi đọc đoạn văn này?",
+      "passageKo": "옛날의 성왕(聖王)께서는 보석과 화폐 따위의 물건을 만들어 덜 긴요한 물건으로 더 긴요한 물건의 상대가 되도록 하셨고, 쓸모없는 물건으로 쓸모 있는 물건을 사도록 하셨다. 게다가 배와 수레를 만드셔서 험준하고 외진 곳까지도 물건을 유통시켰다. 그렇게 하고도 천 리 만 리 먼 곳에 물건이 이르지 못할까봐 염려하셨다. … (중략) … 왜 그러한가? 물건이 있음에도 불구하고 쓰지 않는 것을 검소함이라고 일컫지 자기에게 물건이 없어 쓰지 못하는 것을 검소함이라고 일컫지는 않는다. 현재 우리나라에는 진주를 캐는 집이 없고 시장에는 산호(珊瑚)의 물건 값이 매겨져 있지 않다. 금이나 은을 가지고 점포에 들어가서는 떡과 엿을 사먹지 못한다. 이런 우리 풍속이 정녕 검소함을 좋아하여 그렇겠는가? 단지 재물을 사용할 방법을 모르기에 재물을 만들어 낼 방법을 모르고, 재물을 만들어 낼 방법을 모르기에 백성들의 생활은 날이 갈수록 궁핍해 간다.",
+      "passageVi": "Các bậc 성왕 (Thánh vương) thời xưa làm ra những thứ như châu báu và tiền tệ để lấy vật ít thiết yếu đổi lấy vật thiết yếu hơn, lấy vật vô dụng mua vật hữu dụng. Hơn nữa còn đóng thuyền và xe cộ để lưu thông hàng hóa đến tận những nơi hiểm trở, hẻo lánh. … (lược) … Tại sao lại như vậy? Có của cải mà không tiêu dùng mới gọi là tiết kiệm, chứ bản thân không có của cải để dùng thì không gọi là tiết kiệm. Hiện nay ở nước ta không có nhà nào mò ngọc trai, trên thị trường không định giá san hô. Cầm vàng hay bạc bước vào cửa tiệm cũng không mua nổi bánh nếp hay kẹo mạch nha để ăn. Phong tục đó của chúng ta thực sự là vì yêu thích sự tiết kiệm hay sao? Chỉ vì không biết cách sử dụng của cải nên không biết cách tạo ra của cải, và vì không biết cách tạo ra của cải nên đời sống của백성 ngày càng khốn cùng.",
+      "optionsKo": [
+        "가영: 금이나 은을 가지고 엿을 사 먹지 못한다는 뜻은 시장의 발달이 미비하다는 것이지.",
+        "나영: 조선은 본디 검소한 나라여서 검소했던 것이 아니라 가난했기 때문이라는 비판이 글에 깔렸지.",
+        "다영: 서로 필요한 재화를 교환하는 것은 거래에 참여한 주체 모두를 이롭게 하지.",
+        "라영: 박제가가 추구한 부국강병의 방안은 1930년대 미국에서 시행한 스무트-홀리 관세법과 맥락을 같이해.",
+        "마영: 박제가는 소비의 중요성과 재화의 유통 그리고 물류의 중요성을 강조했어."
+      ],
+      "optionsVi": [
+        "Ga-young: Ý nói cầm vàng hay bạc mà không mua được kẹo mạch nha có nghĩa là sự phát triển của thị trường (và lưu thông tiền tệ) còn yếu kém.",
+        "Na-young: Bài viết ẩn chứa lời phê phán rằng Joseon không phải tiết kiệm vì vốn có tính tiết kiệm, mà là vì nghèo khó không có của cải để dùng.",
+        "Da-young: Việc trao đổi hàng hóa cần thiết cho nhau mang lại lợi ích cho tất cả các chủ thể tham gia giao dịch.",
+        "Ra-young: Phương án phú quốc cường binh mà Park Je-ga theo đuổi có cùng mạch락 với Đạo luật Thuế quan Smoot-Hawley được thực hiện ở Mỹ vào thập niên 1930.",
+        "Ma-young: Park Je-ga đã nhấn mạnh tầm quan trọng của tiêu dùng, sự lưu thông hàng hóa và logistics (thuyền, xe cộ)."
+      ],
+      "correctIndex": 3,
+      "explanationVi": "Trong 『Bắc Học Nghị (북학의)』, học giả Thực học Park Je-ga (박제가) đã đưa ra 'Thuyết tiêu dùng' (소비론 — ví của cải như nước trong giếng, có múc dùng thì nước mới đầy lên, khuyến khích tiêu dùng để kích thích sản xuất), đồng thời nhấn mạnh phát triển giao thông vận tải (thuyền, xe), lưu thông tiền tệ và mở cửa thông thương quốc tế. Ngược lại, Đạo luật Thuế quan Smoot-Hawley (스무트-홀리 관세법, 1930) của Mỹ là chính sách bảo hộ mậu dịch cực đoan đánh thuế quan rất cao lên hàng nhập khẩu, làm tê liệt thương mại thế giới và làm trầm trọng thêm Đại suy thoái. Do đó Ra-young (④) đã hiểu hoàn toàn SAI.",
+      "coreFormula": "박제가 『북학의』(우물론·소비 권장·유통 및 통상 개방 강조) ↔ 스무트-홀리 관세법(극단적 보호무역주의)",
+      "keyTerms": [
+        "북학의",
+        "스무트-홀리 관세법",
+        "자유무역",
+        "보호무역"
+      ]
+    }
+  ]
+}
